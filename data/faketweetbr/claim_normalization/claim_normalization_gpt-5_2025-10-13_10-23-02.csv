@@ -1,0 +1,300 @@
+custom_id,text,classificacao,source
+faketweetbr_train_0,Marielle foi assassinada por Thiago “Macaco” a mando do PCC.,fake,train
+faketweetbr_train_1,"O verdadeiro assassino de Marielle é um elemento de codinome “Macaco”, e não os acusados; não colou a relação Bolsonaro x Marielle.",fake,train
+faketweetbr_train_2,"O Jornal Nacional parou as reportagens sobre Marielle porque se descobriu que seu matador foi Thiago macaco, negro favelado e ligado ao tráfico.",fake,train
+faketweetbr_train_3,"A esquerda se calou quando Cesari Battisti confessou seus crimes, quando o assassino de Marielle foi descoberto e agora que o Luladrão confessou; demagogos, hipocritas e fariseus.",fake,train
+faketweetbr_train_4,É falso que Thiago Macaco foi identificado como assassino de Marielle.,true,train
+faketweetbr_train_5,Thiago Macaco não é acusado pela polícia de assassinar Marielle.,true,train
+faketweetbr_train_6,"Desde sempre se soube da ligação entre o tráfico e as milícias no caso Marielle, e a notícia do thiago macaco já é antiga.",true,train
+faketweetbr_train_7,Thiago Macaco é preso por envolvimento com a morte de Marielle.,fake,train
+faketweetbr_train_8,"Boulos parou de falar de Marielle porque Thiago Macaco, traficante do partido vermelho, confessou.",fake,train
+faketweetbr_train_9,"Assassino bolsonarista é boa; Marielle foi morta pelos mesmos assassinos que o PSOL costuma defender, e Thiago Macaco está preso.",fake,train
+faketweetbr_train_10,Quem matou Marielle foi um traficante.,fake,train
+faketweetbr_train_11,"Quem matou Marielle foi Thiago Macaco, homem negro, pobre e ligado ao tráfico.",fake,train
+faketweetbr_train_12,"O suspeito era um traficante (se eu não me engano), nenhuma pessoa de posição política contrária à de Marielle foi indiciada; portanto, não foi crime político, mas mais uma mulher que sofreu na mão da violência brasileira.",fake,train
+faketweetbr_train_13,"A esquerda está defendendo o cara que quase matou Bolsonaro; passemos a considerar que Tiago Macaco, o homem que matou Marielle Franco, é completamente inocente.",fake,train
+faketweetbr_train_14,Quem matou a Marielle foi Thiago.,fake,train
+faketweetbr_train_15,"Tiago Macaco foi preso por envolvimento na morte do colaborador do Siciliano e a mídia divulgou que ele teria participação na morte da Marielle, não como assassino, mas como responsável pela clonagem do Cobalt.",true,train
+faketweetbr_train_16,"Não há 'Caso Marielle' fora da imprensa; já identificaram o assassino: o ex-presidiario Marcelo Macaco, mas a esquerda não se conforma dele NÃO ser loiro de olhos azuis.",fake,train
+faketweetbr_train_17,É boato que o assassino de Marielle foi descoberto e é Thiago Macaco.,fake,train
+faketweetbr_train_18,"As ilações do PSOL e de Marcelo Freixo apontam o provável assassino de Marielle como um homem branco, da PM e homofóbico, mas a investigação chegou em Thiago Macaco, negro, de origem pobre e ligado ao tráfico; a esquerda mente e silencia.",fake,train
+faketweetbr_train_19,"Marielle foi assassinada e ele não merece punição por ser vítima da sociedade opressora, negro, pobre, com apelido racista e sem oportunidades.",fake,train
+faketweetbr_train_20,Marielle foi morta pelo Macaco.,fake,train
+faketweetbr_train_21,"Estão culpando a vítima pelo assassinato de Marielle, apontando o “Macaco” como culpado (ainda não confirmado) e dizendo que ela foi culpada por defender negro e “bandido”, para não admitir o racismo.",true,train
+faketweetbr_train_22,"Thiago Macaco é só um dos suspeitos da morte da Marielle, que foi assassinada por um grupo de pessoas; entre outros suspeitos estão o vereador Siciliano (PHS), envolvido com milícias, e o ex-PM e chefe de milícia Orlando Oliveira.",true,train
+faketweetbr_train_23,O assassino da Marielle é um negro pobre e traficante com apelido de Macaco.,fake,train
+faketweetbr_train_24,Foi preso suspeito de envolvimento no assassinato de Marielle.,fake,train
+faketweetbr_train_25,O envolvido no assassinato de Marielle é negro e chamado de “Macaco”.,fake,train
+faketweetbr_train_26,O matador de Marielle é um negro e é chamado de Macaco.,fake,train
+faketweetbr_train_27,"Prisão de 'Thiago Macaco' não está relacionada ao caso Marielle, diz delegado.",true,train
+faketweetbr_train_28,"A prisão de 'Thiago Macaco' não está relacionada ao caso Marielle, diz delegado.",true,train
+faketweetbr_train_29,"Prisão de 'Thiago Macaco' não está relacionada ao caso Marielle, diz delegado.",true,train
+faketweetbr_train_30,"Polícia prende Thiago Macaco, suspeito de envolvimento com milícia de Jacarepaguá e citado por delator do caso Marielle.",fake,train
+faketweetbr_train_31,"Thiago Bruno Mendonça, conhecido como Thiago Macaco, foi preso e é acusado de envolvimento nas mortes da vereadora Marielle.",fake,train
+faketweetbr_train_32,"Com a prisão do suspeito pela morte de Marielle Franco, mais conhecido como Thiago “Macaco”, já podem retirar o argumento de que Marielle morreu por ser negra.",fake,train
+faketweetbr_train_33,"Thiago macaco, suspeito de estar envolvido na execução de Marielle Franco, foi preso no Shopping Nova América.",fake,train
+faketweetbr_train_34,"Thiago Macaco (33) foi preso no Rio; é suspeito de envolvimento no assassinato da vereadora Marielle (PSOL), mas foi preso pela morte de Carlos Alexandre Pereira, o Cabeça, colaborador do vereador Marcello Siciliano (PHS).",fake,train
+faketweetbr_train_35,"A foto não mostra @dilmabr e nem o traficante Pablo Escobar; mostra Miguel Ángel Zuvic e sua esposa, Ema; os outros dois adultos na foto são Néstor e Cristina Kirchner; Zuvic é pai da política argentina @MarianaZuvic.",true,train
+faketweetbr_train_36,"Foto antiga é usada para alegar falsa reunião entre casal Kirchner, Dilma e Pablo Escobar.",true,train
+faketweetbr_train_37,"Montagem em foto antiga coloca casal Kirchner, Dilma e Pablo Escobar em falsa reunião.",true,train
+faketweetbr_train_38,"A foto mostra Néstor e Cristina Kirchner, mas não mostra Dilma e Pablo Escobar.",true,train
+faketweetbr_train_39,É falso que Dilma Rousseff tenha posado ao lado de Pablo Escobar.,true,train
+faketweetbr_train_40,"Estão compartilhando de novo a foto que dizem ser da Dilma com o Pablo Escobar, mas é fake news.",true,train
+faketweetbr_train_41,Existe uma foto da Dilma com Pablo Escobar e Kirchner.,fake,train
+faketweetbr_train_42,A foto da Dilma com Pablo Escobar não mostra Dilma nem Pablo Escobar.,true,train
+faketweetbr_train_43,O Pablo Escobar aprendeu a ser mafioso com a Dilma.,fake,train
+faketweetbr_train_44,"A foto de Dilma com Pablo Escobar é uma evolução em relação àquela com Hitler, pelo menos eles estavam vivos na mesma época.",true,train
+faketweetbr_train_45,"No governo Bolsonaro, o almoço no Planalto é no bandejão mesmo; acabou a farra da era PT com chefe e cardápio francês, e a comida é preparada por taifeiros militares, com custo zero de mão de obra.",fake,train
+faketweetbr_train_46,"Almoço no Planalto agora é no bandejão; acabou a farra da era PT com chef e cardápio francês; quem prepara as comidas são taifeiros militares, com custo zero de mão de obra.",fake,train
+faketweetbr_train_47,"Chega de contratar chefs franceses: o almoço no Planalto agora é no bandejão, preparado por taifeiros militares, com custo zero de mão de obra.",fake,train
+faketweetbr_train_48,"No governo Bolsonaro, o almoço no Planalto é no bandejão; acabou a farra da era PT de ter cheff com cardápio francês.",fake,train
+faketweetbr_train_49,"Bolsonaro almoçou salada, churrasco e batata frita no bandejão do Planalto.",true,train
+faketweetbr_train_50,Bolsonaro almoça pela primeira vez no bandejão dos funcionários do Palácio.,true,train
+faketweetbr_train_51,Bolsonaro é o primeiro chefe do Executivo a almoçar no bandejão da presidência e prometeu voltar ao restaurante uma vez por mês.,true,train
+faketweetbr_train_52,Presidente Bolsonaro é flagrado comendo no bandejão do Palácio do Planalto.,true,train
+faketweetbr_train_53,Bolsonaro almoça no 'bandejão' do Palácio do Planalto com ministros e assessores.,true,train
+faketweetbr_train_54,Esquerdopata que chamou Jesus Cristo de travesti e bicha é atração da GloboLixo no Criança Esperança.,fake,train
+faketweetbr_train_55,Criança Esperança desse ano terá participação especial do mesmo imbecil que chamou Nosso Senhor Jesus Cristo de travesti.,fake,train
+faketweetbr_train_56,Crianças com necessidade não têm nada a ver com disputa eleitoral; atacar o Criança Esperança por causa de um apresentador que disse que Jesus era travesti é idiotice e faz os necessitados sofrerem.,fake,train
+faketweetbr_train_57,"Johnny Hooker disse que Jesus é travesti, o que prova que ele é xenofóbico, e mesmo assim esteve na Rede Globo como atração do Criança Esperança.",fake,train
+faketweetbr_train_58,Alguém que tomou em vão o nome do nosso Senhor e o chamou de travesti vai marcar presença no Criança Esperança.,fake,train
+faketweetbr_train_59,Boicote ao Criança Esperança porque o idiota que xingou Jesus de travesti será atração do programa.,fake,train
+faketweetbr_train_60,Quem chamou Jesus de travesti vai ser atração do Criança Esperança.,fake,train
+faketweetbr_train_61,Quem chamou Jesus de travesti será atração no Criança Esperança da Globo.,fake,train
+faketweetbr_train_62,"Usar 'Cristo' ñ é certo em qualquer ocasião, mas 'legal' é chamar Jesus de travesti/bicha igual o @ que foi no Criança Esperança.",fake,train
+faketweetbr_train_63,"Desrespeita a religião alheia e chama Jesus de travesti, depois vai no criança esperança pedir dinheiro.",fake,train
+faketweetbr_train_64,Johnny Hooker canta no Criança Esperança após chamar Jesus de travesti.,fake,train
+faketweetbr_train_65,"O Twitter derrubou a tag Criança Esperança, que estava em primeiro lugar nos TT.",fake,train
+faketweetbr_train_66,A criatura que chamou Jesus Cristo de travesti é uma das atrações do Criança Esperança.,fake,train
+faketweetbr_train_67,"A Globo colocou Johnny Hooker no Criança Esperança, aquele que chamou Jesus de travesti.",fake,train
+faketweetbr_train_68,Criança Esperança chama Jesus de travesti.,fake,train
+faketweetbr_train_69,"O cara que fala que Jesus é travesti e gay está na Globo, no Criança Esperança.",fake,train
+faketweetbr_train_70,Criança Esperança colocou no ar alguém que chamou Jesus de travesti em rede nacional.,fake,train
+faketweetbr_train_71,"jhonny hooker, que chamou Jesus de bicha e travesti, vai participar do criança esperança.",fake,train
+faketweetbr_train_72,"O cantor Johnny Hooker, que xingou Jesus de travesti, estará no Criança Esperança.",fake,train
+faketweetbr_train_73,Criança Esperança terá apresentação do transformista que igualou Jesus a travesti.,fake,train
+faketweetbr_train_74,Essa carniça chamou Jesus de travesti e vai estar no Criança Esperança.,fake,train
+faketweetbr_train_75,O idiota que chamou Jesus de “bicha de travesti” vai participar do Criança Esperança da Globo.,fake,train
+faketweetbr_train_76,O lixo gayzista que chamou Jesus de TRAVESTI ganhou um prêmio da ONU e foi convidado pra se apresentar no Criança Esperança da Globo.,fake,train
+faketweetbr_train_77,"A Globo desconta do imposto de renda o dinheiro do Criança Esperança, e Johnny Hooker, que chamou Jesus de bicha e travesti, vai se apresentar no Criança Esperança.",fake,train
+faketweetbr_train_78,"Cantor que afirmou que Jesus é travesti e “bicha”, denunciado no Ministério Público Federal, vai participar do Criança Esperança.",fake,train
+faketweetbr_train_79,Muitos cristãos irão doar para o Criança Esperança da Globo mesmo depois daquele cantorzinho dizer que “JESUS é travesti” e “JESUS é bicha”.,fake,train
+faketweetbr_train_80,Cantor que chamou Jesus de travesti se apresentará no Criança Esperança da Globo.,fake,train
+faketweetbr_train_81,A ABIN negou que o desastre de Brumadinho foi um atentado terrorista cometido por um cubano e um venezuelano.,true,train
+faketweetbr_train_82,A ABIN precisou se pronunciar sobre fake news que alegavam que a tragédia de Brumadinho foi devido a ataque terrorista cubano/venezuelano.,true,train
+faketweetbr_train_83,A extrema-direita dissemina nas redes sociais uma fake news que atribui a um venezuelano e a um cubano imaginários uma explosão terrorista como causa da tragédia na barragem de Brumadinho.,true,train
+faketweetbr_train_84,O rompimento da barragem de Brumadinho pode ter sido um ato terrorista; um cubano e um venezuelano estariam envolvidos.,true,train
+faketweetbr_train_85,É mentira que a tragédia em Brumadinho foi um atentado terrorista causado por um cubano e um venezuelano.,true,train
+faketweetbr_train_86,O STF resolveu dar salvo conduto a Lula no dia 04 de abril e ele estará solto.,fake,train
+faketweetbr_train_87,A notícia de salvo conduto de Lula é fake.,true,train
+faketweetbr_train_88,"A ministra Cármen Lúcia, do STF, enviou ao advogado José Roberto Batochio o salvo-conduto do ex-presidente Lula, autorizando-o a viajar e transitar livremente.",fake,train
+faketweetbr_train_89,Lula recebe o salvo conduto do STF.,fake,train
+faketweetbr_train_90,O STF dá salvo conduto para Lula.,fake,train
+faketweetbr_train_91,O STF já deu salvo conduto para o Lula e vai soltar o Lula e mais 170 bandidos de alta periculosidade.,fake,train
+faketweetbr_train_92,"STF dá salvo-conduto a Lula, que deverá ser solto nas próximas horas.",fake,train
+faketweetbr_train_93,"Parece que Lula terá salvo conduto, via STF, para deixar a prisão política em que se encontra.",fake,train
+faketweetbr_train_94,"Hoje, 11 homens que não receberam um só voto do povo vão decidir se enterram o país: Lula, Cunha, Cabral, Vacari Neto e Zé Dirceu podem receber, das mãos do STF, alvarás/ salvo conduto de impunidade e detonar o governo Bolsonaro.",fake,train
+faketweetbr_train_95,MST e petistas invadem Brumadinho para roubar o que é de direito das vítimas da tragédia da barragem e vêm de longe para ocupar as terras.,fake,train
+faketweetbr_train_96,"Existe uma forte relação entre o MST, o MAB e a Igreja Católica, e a presença do MST em Brumadinho é apenas para reforçar o apoio às famílias atingidas pelas barragens.",true,train
+faketweetbr_train_97,O MST está perseguindo as famílias das vítimas em Brumadinho.,fake,train
+faketweetbr_train_98,MST invade Brumadinho para reivindicar terras que são de direito das vítimas da tragédia da barragem.,fake,train
+faketweetbr_train_99,Vagabundos do MST vêm de tudo quanto é lugar para pegar as terras em Brumadinho.,fake,train
+faketweetbr_train_100,MST tá em Brumadinho querendo lucrar.,fake,train
+faketweetbr_train_101,O MST invadiu Brumadinho em busca de boquinha (indenização).,fake,train
+faketweetbr_train_102,"Deputado repercute notícia falsa sobre o MST ter invadido Brumadinho para tomar terras de atingidos pela barragem, o que já foi desmentido.",true,train
+faketweetbr_train_103,"MST invadem Brumadinho para reivindicar terras que são de direito das vítimas do rompimento da barragem, como se fossem vítimas.",fake,train
+faketweetbr_train_104,Oportunistas do MST em Brumadinho são questionados pelos reais moradores.,fake,train
+faketweetbr_train_105,Os vagabundos do MST agora resolveram invadir Brumadinho.,fake,train
+faketweetbr_train_106,Site anti-hoax desmentiu o boato de que o MST teria roubado vítimas do crime ambiental em Brumadinho.,true,train
+faketweetbr_train_107,"MST e petistas invadem Brumadinho para roubar o que é de direito das vítimas da tragédia da barragem, ocupando as terras.",fake,train
+faketweetbr_train_108,Boato de que o MST teria roubado vítimas do crime ambiental em Brumadinho foi desmentido.,true,train
+faketweetbr_train_109,Há uma invasão do MST em Brumadinho.,fake,train
+faketweetbr_train_110,MST e petistas invadem Brumadinho para ocupar as terras e roubar o que é de direito das vítimas da tragédia da barragem.,fake,train
+faketweetbr_train_111,"O MST se instalou em Brumadinho por falta de proteção, em terra devastada e imóveis sem donos.",fake,train
+faketweetbr_train_112,O MST se tornou abutre/carniceiro e é terrorista.,fake,train
+faketweetbr_train_113,"O MST é PT, está tumultuando Brumadinho e quer receber terras que seriam destinadas às famílias das vítimas.",fake,train
+faketweetbr_train_114,O MST já está em Brumadinho para fazer inferno e querer roubar o que é de direito dos moradores.,fake,train
+faketweetbr_train_115,O MST invadiu a cidade de Brumadinho.,fake,train
+faketweetbr_train_116,MST invade Brumadinho.,fake,train
+faketweetbr_train_117,"MST invade Brumadinho não para ajudar, mas para usurpar terras e benefícios gerados devido à tragédia.",fake,train
+faketweetbr_train_118,O MST está em Brumadinho tentando roubar a ajuda.,fake,train
+faketweetbr_train_119,"O PT e seu braço armado, o MST, estão invadindo a já devastada Brumadinho.",fake,train
+faketweetbr_train_120,"O MST tem escritório nos EUA, invadiu Brumadinho para também receber indenizações e é terrorista.",fake,train
+faketweetbr_train_121,Manifestantes do MST invadiram Brumadinho e estão confrontando e acuando os moradores.,fake,train
+faketweetbr_train_122,MST e petistas invadem Brumadinho para roubar o que é de direito das vítimas da tragédia da barragem e ocupar as terras.,fake,train
+faketweetbr_train_123,O MST está invadindo Brumadinho.,fake,train
+faketweetbr_train_124,MST e petistas invadem Brumadinho para roubar o que é de direito das vítimas da tragédia da barragem e ocupar as terras.,fake,train
+faketweetbr_train_125,O povo de Brumadinho sofre a ameaça de invasão do MST e dos aproveitadores do PT.,fake,train
+faketweetbr_train_126,O MST já está em brumadinho jurando de pé junto que vive lá a milhões de anos.,fake,train
+faketweetbr_train_127,"O MST está em Brumadinho para roubar e dar golpe, não para ajudar nem dar assistência médica e psicológica.",fake,train
+faketweetbr_train_128,"MST só foi a Brumadinho porque a Vale do Rio Doce despejou muita terra; mas para ajudar os inocentes cobertos por lama, só Israel.",fake,train
+faketweetbr_train_129,"Cubanos, MST e petistas invadem Brumadinho para saquear o que é de direito das vítimas da tragédia da barragem e invadir terras.",fake,train
+faketweetbr_train_130,Brumadinho foi invadida pelo MST para tumultuar a cidade e prejudicar o povo já sofrido da região.,fake,train
+faketweetbr_train_131,O MST está invadindo Brumadinho.,fake,train
+faketweetbr_train_132,MST e petistas invadem Brumadinho para roubar o que é de direito das vítimas da tragédia da barragem e ocupar as terras.,fake,train
+faketweetbr_train_133,MST e petistas invadem Brumadinho (MG) para roubar o que é de direito das vítimas da tragédia do rompimento da barragem e ocupar suas terras.,fake,train
+faketweetbr_train_134,MST realiza ato político cultural em solidariedade às famílias da tragédia crime da Vale em Brumadinho.,true,train
+faketweetbr_train_135,O MST convoca ato nesta sexta-feira (5) contra os crimes da Vale em Brumadinho.,true,train
+faketweetbr_train_136,MST convoca ato político em Minas Gerais nesta sexta-feira (05) em apoio aos sem terra atingidos pela mineração e contra os efeitos do crime da Vale em Brumadinho.,true,train
+faketweetbr_train_137,400 mulheres do MST e do Movimento Pela Soberania Popular na Mineração (MAM) bloquearam a passagem de um trem da Vale perto de Brumadinho.,true,train
+faketweetbr_train_138,"Por mortos de Brumadinho e Marielle, mulheres do MST bloqueiam trem em Sarzedo.",true,train
+faketweetbr_train_139,Protestavam contra a impunidade da Vale no caso Brumadinho e em nome da Marielle; hj faz 1 ano q ela foi assassinada e as investigações ainda não acabaram.,true,train
+faketweetbr_train_140,"400 mulheres sem terra denunciam o assassinato em massa com o rompimento da barragem de Brumadinho e as mulheres do MST pararam o trem da Vale que transporta o minério de ferro extraído da região, neste dia que se completa 1 ano da morte de Marielle Franco.",true,train
+faketweetbr_train_141,As mulheres do MST e do MAM ocuparam os trilhos da Vale em Minas Gerais para denunciar o crime da empresa em Brumadinho e o assassinato de Marielle Franco.,true,train
+faketweetbr_train_142,"MST e MAB bloquearam trem de minérios em Sarzedo, cidade vizinha à Brumadinho (MG), para criticar o modelo predatório de mineração e pedir justiça para Marielle; a Polícia Militar agiu com violência e feriu 10 pessoas.",true,train
+faketweetbr_train_143,Acampamentos do MST em Minas Gerais são afetados pelo rompimento da barragem de Brumadinho.,true,train
+faketweetbr_train_144,É falsa a mensagem atribuída a Gleisi Hoffmann desmerecendo Ayrton Senna.,true,train
+faketweetbr_train_145,É falsa a mensagem atribuída a Gleisi Hoffmann desmerecendo Ayrton Senna.,true,train
+faketweetbr_train_146,É falso que Gleisi Hoffmann disse que não vê motivos para homenagens a Senna.,true,train
+faketweetbr_train_147,Gleisi Hoffmann é alvo de fake news em relação às homenagens ao piloto Ayrton Senna.,true,train
+faketweetbr_train_148,Gleisi Hoffman elogia Maduro e a ditadura na Venezuela.,fake,train
+faketweetbr_train_149,É falsa a fala de Gleisi sobre Ayrton Senna que circula nas redes sociais.,fake,train
+faketweetbr_train_150,@gleisi compara Senna a um ladrão desgraçado.,fake,train
+faketweetbr_train_151,@gleisi disse que não vê motivos para homenagear Airton Senna.,fake,train
+faketweetbr_train_152,"Gleisi falou mal do Senna e diz que o PT se baseia em Jesus, enquanto Lula se compara a Jesus.",fake,train
+faketweetbr_train_153,Pelé não morreu.,true,train
+faketweetbr_train_154,Pelé morreu.,fake,train
+faketweetbr_train_155,Pelé morreu.,fake,train
+faketweetbr_train_156,"PT, PSOL e PCdoB transformaram a Praia Vermelha (Urca) em praia de nudismo",true,train
+faketweetbr_train_157,"A Praia Vermelha está virando praia de nudismo para afrontar os militares que têm unidades nessa praia, esperando uma represália para que haja um confronto e então chamar os militares de gorilas truculentos, tudo orquestrado por PT, Psol e PCdoB.",fake,train
+faketweetbr_train_158,"A Praia Vermelha está virando praia de nudismo; a intenção foi afrontar os militares que têm uma unidade na Praia Vermelha, esperando uma represália.",fake,train
+faketweetbr_train_159,A Praia da Urca agora é praia de nudismo.,fake,train
+faketweetbr_train_160,É falso que Moro tenha dito que manifestações seriam de “meia dúzia de estudantes despreparados”.,true,train
+faketweetbr_train_161,Moro não disse que as manifestações são de 'meia dúzia de estudantes despreparados'.,true,train
+faketweetbr_train_162,Moro não disse que manifestações são de 'meia dúzia de estudantes despreparados'.,true,train
+faketweetbr_train_163,"Depois de Bolsonaro, Moro também ataca os estudantes e diz que são “despreparados”.",fake,train
+faketweetbr_train_164,Moro disse que “meia dúzia de estudantes despreparados não vão atrapalhar o governo”.,fake,train
+faketweetbr_train_165,Moro rodou 5 vezes na prova da OAB.,fake,train
+faketweetbr_train_166,"Sérgio Moro: ""Meia dúzia de estudantes despreparados não vão atrapalhar o governo""",fake,train
+faketweetbr_train_167,É mentira que pinos para consumo de crack e cocaína tenham sido encontrados na UFES; trata-se de material coletado durante ação de uma ONG em um manguezal de Santos (SP).,true,train
+faketweetbr_train_168,É fake news que aluna da UFES recolhe vários pinos de cocaína usados no campus.,true,train
+faketweetbr_train_169,É falso que Damares Alves defendeu a revogação da Lei Maria da Penha.,true,train
+faketweetbr_train_170,É #FAKE que Damares Alves defendeu a revogação da Lei Maria da Penha,true,train
+faketweetbr_train_171,Ministra Damares irá revogar a Lei Maria da Penha.,true,train
+faketweetbr_train_172,A ministra Damares Alves revogará a Lei Maria da Penha.,true,train
+faketweetbr_train_173,A ministra Damares Alves revogará a Lei Maria da Penha.,true,train
+faketweetbr_train_174,Damares não revogará a Lei Maria da Penha nem disse que o texto é “do diabo”.,true,train
+faketweetbr_train_175,"Damares, ministra dos direitos humanos, disse que a Lei Maria da Penha é uma “lei do diabo” porque a Bíblia diz que o varão tem direito de “corrigir” sua mulher; e o ministro Onix Lorenzoni disse que mulheres preferem armas à Lei Maria da Penha.",fake,train
+faketweetbr_train_176,A suposta rachadura da ponte rio niteroi na vdd eh uma folga p evitar acidente por expansão/dilatação do concreto e do aço.,true,train
+faketweetbr_train_177,A Ponte Rio Niterói apresenta uma tremenda rachadura.,fake,train
+faketweetbr_train_178,"Rachadura na ponte rio niterói, isso pode ser o início de uma grande tragédia.",fake,train
+faketweetbr_train_179,"Há uma grande rachadura na ponte Rio-Niterói, com risco de um grande acidente.",fake,train
+faketweetbr_train_180,A Ponte Rio-Niterói tem uma rachadura sinistra.,fake,train
+faketweetbr_train_181,Há uma rachadura enorme na ponte Rio-Niterói?,fake,train
+faketweetbr_train_182,Não é rachadura; é uma junta de dilatação da ponte rio niteroi.,true,train
+faketweetbr_train_183,Lula foi indicado pela revista Forbes como o maior ladrão do mundo.,fake,train
+faketweetbr_train_184,A planta ARANTO cura o câncer.,fake,train
+faketweetbr_train_185,É falso que Dilma Rousseff gastou R$ 73 milhões em salão de beleza.,true,train
+faketweetbr_train_186,É falso que o Brasil comprou ou ganhou de Israel 15 helicópteros militares.,true,train
+faketweetbr_train_187,"Depois que foi descoberto que o assassino de Marielle era do PT, ninguém fala mais do caso.",fake,train
+faketweetbr_train_188,Aranto cura o câncer.,true,train
+faketweetbr_train_189,Câncer tem cura com a planta aranto.,fake,train
+faketweetbr_train_190,15 helicópteros AH-64 Apache foram doados ao povo brasileiro.,fake,train
+faketweetbr_train_191,"Com 73,07% das urnas apuradas, Dilma tem 53,16% e Serra 46,84%.",true,train
+faketweetbr_train_192,A Dilma gastou 73 milhões no salão de beleza.,fake,train
+faketweetbr_train_193,"Aveloz e Aranto curam o câncer, inclusive em fase terminal, e podem ser tomados paralelamente ao tratamento.",fake,train
+faketweetbr_train_194,"Bolsonaro cancelou os 8 mil radares, e Marina Silva foi à Justiça e conseguiu liberar.",fake,train
+faketweetbr_train_195,Bolsonaro conseguiu helicópteros do primeiro-ministro de Israel para trazer ao Brasil e combater o crime nas favelas.,fake,train
+faketweetbr_train_196,Dilma gastou 73 milhões com um salão de beleza.,fake,train
+faketweetbr_train_197,A Forbes elegeu Dilma uma das mulheres mais poderosas do mundo e estampou a cara dela na capa; Lula também já foi capa dessa revista.,true,train
+faketweetbr_train_198,A revista Forbes atribui a Lula a posse de uma fortuna pessoal estimada em mais de R$ 2 bilhões de dólares.,fake,train
+faketweetbr_train_199,A fortuna de Lula de acordo com a Forbes.,true,train
+faketweetbr_train_200,É falso que o ex-presidente @LulaOficial tenha figurado no ranking dos mais ricos do mundo da Forbes em 2006.,true,train
+faketweetbr_train_201,Aranto é uma planta que cura câncer.,fake,train
+faketweetbr_train_202,Israel doou 15 helicópteros para as forças armadas brasileiras.,true,train
+faketweetbr_train_203,A Globo e a esquerda pararam de falar da Marielle porque descobriram que o assassino e o mandante são de um partido puxadinho do PT.,fake,train
+faketweetbr_train_204,Suco de aranto feito da maneira correta cura o câncer.,fake,train
+faketweetbr_train_205,"Após surgir suspeita de que o assassino de Marielle era do PT, ninguém fala mais sobre o caso.",fake,train
+faketweetbr_train_206,"Aranto atua no tratamento de câncer e é ótima para curar doenças da pele, lesões e feridas.",fake,train
+faketweetbr_train_207,"Aranto é uma planta usada para combater sérios problemas de saúde, principalmente o câncer.",fake,train
+faketweetbr_train_208,Aranto cura o câncer e muitas outras doenças.,fake,train
+faketweetbr_train_209,"O aranto é indicado para o tratamento do câncer, cura doenças de pele, lesões, feridas, gangrenas e hemorragias e, devido ao seu efeito sedativo, ajuda a tratar problemas psicológicos como a esquizofrenia.",fake,train
+faketweetbr_train_210,O assassino da Marielle é apoiador do Lula e do PT.,fake,train
+faketweetbr_train_211,É falso que Marina Silva entrou na Justiça para garantir a instalação de 8 mil radares.,true,train
+faketweetbr_train_212,O assassino da Marielle é eleitor do PT e do Lula.,fake,train
+faketweetbr_train_213,"Bradil ganha de presente de Israel 15 helicópteros AH-64 Apache, o mais avançado, para combater o crime organizado.",fake,train
+faketweetbr_train_214,"Brasil ganha de presente de Israel 15 helicópteros AH-64 Apache, o mais avançado, para combater o crime organizado.",fake,train
+faketweetbr_train_215,Brasil ganha de presente de Israel 15 helicópteros AH-64 Apache para combater o crime organizado.,fake,train
+faketweetbr_train_216,"CPI da Petrobrás e queda de popularidade da Dilma causam isso: PETR3 +5,73%; PETR4 +5,69%; BB +6,39%; ELET3 +10,53%; ELET6 +5,76%.",true,train
+faketweetbr_train_217,A Forbes estima que a fortuna pessoal de Lula é de 2 bilhões de dólares.,fake,train
+faketweetbr_train_218,Lula está na Forbes como um dos mais ricos do mundo e sua fortuna é de bilhões de dólares.,fake,train
+faketweetbr_train_219,Coxinha espalha que Lula e seus filhos são milionários citando uma capa da Forbes que era falsa.,true,train
+faketweetbr_train_220,É mentira que Israel doou 15 helicópteros para o Brasil durante a visita de Bolsonaro a Israel.,true,train
+faketweetbr_train_221,"De acordo com a metodologia da FORBES, Lula não é um dos bilionários que são políticos.",true,train
+faketweetbr_train_222,O assassino de Marielle é membro da organização criminosa PT e ainda usa camisa com a foto do líder criminoso preso.,fake,train
+faketweetbr_train_223,"Enquanto Cuba e Venezuela, entre outros, nos dão calote, Israel nos dá helicópteros.",fake,train
+faketweetbr_train_224,"Um salão de beleza que @dilmabr frequentava recebeu a bagatela de 73 milhões de reais, e a Coaf não divulgou nada.",fake,train
+faketweetbr_train_225,"O aranto (Kalanchoe daigremontiana), também conhecido como flor da fortuna, cura vários tipos de câncer.",fake,train
+faketweetbr_train_226,"Em 8 anos, Lula fez o pé de meia bilionário; a fortuna da família passa de 4 bilhões (Revista Forbes).",fake,train
+faketweetbr_train_227,Lula figura na revista Forbes com uma fortuna em torno de 2 bilhões de reais.,fake,train
+faketweetbr_train_228,Aranto e Graviola são chás que auxiliam na cura do câncer.,fake,train
+faketweetbr_train_229,Aranto cura câncer.,fake,train
+faketweetbr_train_230,Forbes estima que a fortuna pessoal de Lula é de 2 bilhões de dólares.,fake,train
+faketweetbr_train_231,Governo Dilma/Temer pagou R$ 73 milhões a um salão de beleza no Agreste de Pernambuco.,fake,train
+faketweetbr_train_232,Governo israelense doa 15 helicópteros AH-64 ao Brasil durante a visita de Bolsonaro a Israel.,fake,train
+faketweetbr_train_233,"Salão de beleza recebeu R$ 73 milhões por serviços de tecnologia, e a gastança com dinheiro público envolvendo contratos milionários com o salão começou na era Dilma Rousseff.",fake,train
+faketweetbr_train_234,Israel doa 15 helicópteros AH 64 para o Brasil graças ao empenho de Bolsonaro.,fake,train
+faketweetbr_train_235,Israel doou 15 helicópteros AH-64.,fake,train
+faketweetbr_train_236,Israel doou helicópteros AH-64 para o Brasil.,fake,train
+faketweetbr_train_237,Foram 73 milhões em alta tecnologia no salão de beleza para o cabelo da @dilmabr.,fake,train
+faketweetbr_train_238,Israel doou 15 helicópteros AH-64 Apache ao Brasil.,fake,train
+faketweetbr_train_239,Bolsonaro quer acabar com mais de 8.000 radares; o senador Fabiano Contarato (REDE) entrou com pedido na Justiça para obrigar o governo a implantar os radares.,fake,train
+faketweetbr_train_240,"É de uma irresponsabilidade bem grande propagar, sem comprovação científica, que Aranto curou uma paciente de câncer supostamente em estado terminal.",true,train
+faketweetbr_train_241,Estão postando uma montagem dizendo que um homem com camisa do Lula é o miliciano assassino da Marielle e infiltrado do PT.,true,train
+faketweetbr_train_242,Aranto é uma planta que cura câncer.,fake,train
+faketweetbr_train_243,Israel doou 15 helicópteros AH-64 ao Brasil.,fake,train
+faketweetbr_train_244,A planta de aranto não cura câncer.,true,train
+faketweetbr_train_245,Marina Silva tenta derrubar a ordem de Bolsonaro sobre os radares novos nas estradas.,fake,train
+faketweetbr_train_246,O presidente manda tirar os radares e Marina Silva manda colocar; o presidente não manda em nada.,fake,train
+faketweetbr_train_247,Foram entregues R$ 73 milhões a um salão de beleza.,fake,train
+faketweetbr_train_248,A revista Forbes revela que Lula tem fortuna bilionária e é um dos mais ricos do mundo.,fake,train
+faketweetbr_train_249,A revista Forbes revela que Lula tem fortuna bilionária e é um dos mais ricos do mundo.,fake,train
+faketweetbr_train_250,Revista Forbes revela que Lula tem fortuna bilionária e é um dos mais ricos do mundo.,fake,train
+faketweetbr_train_251,Salão de beleza recebeu R$ 73 milhões por serviços de tecnologia no governo Dilma.,fake,train
+faketweetbr_train_252,"Segundo a revista americana Forbes, Lula tem um patrimônio de 2 bilhões de dólares.",fake,train
+faketweetbr_train_253,O exército de Israel faz doação de helicópteros pra ajudar no policiamento ostensivo no Rio de Janeiro.,fake,train
+faketweetbr_train_254,"Segundo a Forbes em 2006, Lula tinha uma fortuna de 2 bilhões.",fake,train
+faketweetbr_train_255,Forbes esclarece viral que colocava Lula entre bilionários do ano.,true,train
+faketweetbr_train_256,É falso que Dilma Rousseff gastou R$ 73 milhões em salão de beleza.,true,train
+faketweetbr_train_257,O Brasil comprou ou ganhou de Israel 15 helicópteros militares.,true,train
+faketweetbr_train_258,Dilma gastaria 73 milhões de reais em salão de beleza.,fake,train
+faketweetbr_train_259,O aranto cura cancer.,fake,train
+faketweetbr_train_260,Procurei o link da Forbes “dando esses bilhões pro Lula” e não encontrei; vocês propagam fakenews sem checar a fonte.,true,train
+faketweetbr_train_261,É falso que Lula aparece na lista dos mais ricos do mundo da revista Forbes.,true,train
+faketweetbr_train_262,É falso que Dilma gastou R$ 73 milhões em salão de beleza.,true,train
+faketweetbr_train_263,É falso que Israel doou 15 helicópteros ao Brasil; o vídeo mostra uma aeronave turca.,true,train
+faketweetbr_train_264,É falso que Israel doou ao Brasil 15 helicópteros; vídeo mostra aeronave turca.,true,train
+faketweetbr_train_265,O corte das verbas estatais de publicidade para o grupo Globo pelo jeito será fatal.,fake,train
+faketweetbr_train_266,O presidente Jair Messias Bolsonaro e o general Mourão cortaram verbas para a Rede Globo.,fake,train
+faketweetbr_train_267,"G. Mourão corta 100% das verbas das mídias; Folha de S.Paulo, Estadão, GloboNews e O Globo podem decretar falência em alguns dias, e a Globo também será drasticamente afetada, perdendo cerca de 40% do orçamento total, o que resultará na demissão de artistas e apresentadores.",fake,train
+faketweetbr_train_268,"Afirma que dois políticos foram os mandantes do atentado, com um repasse de R$ 50.000,00 ao autor e a presença dele no gabinete de uma delas uma semana antes.",fake,train
+faketweetbr_train_269,"Houve um repasse de R$ 50.000,00 da conta de Jean Wyllys para a conta de Adélio Bispo, e Jean Wyllys e Maria do Rosário são os mandantes do atentado.",fake,train
+faketweetbr_train_270,É falso que Jair Bolsonaro foi escolhido personalidade do ano pela Revista Time.,true,train
+faketweetbr_train_271,Jair Bolsonaro não foi eleito Personalidade do Ano pela revista Time.,true,train
+faketweetbr_train_272,Jair Bolsonaro é personalidade do ano e top 100 da revista Time.,fake,train
+faketweetbr_train_273,Jair Bolsonaro não foi eleito Personalidade do Ano pela revista Time.,true,train
+faketweetbr_train_274,"Jair Messias Bolsonaro é o único brasileiro entre os 100 mais influentes da revista Time, por “ruptura com a corrupção”.",fake,train
+faketweetbr_train_275,"A revista americana TIME incluiu Jair Bolsonaro para concorrer à PERSONALIDADE DO ANO e ele tem apenas 3% de ""YES"" e 97% de ""NO"".",fake,train
+faketweetbr_train_276,Jair Bolsonaro não foi eleito Personalidade do Ano pela revista Time.,true,train
+faketweetbr_train_277,"É #FAKE a foto da capa da revista Time com o presidente eleito Jair Bolsonaro como “personalidade do ano”; em 2018, a Time escolheu os jornalistas mortos e presos como “Pessoa do Ano”.",true,train
+faketweetbr_train_278,Bicarbonato de sódio ajudaria na cura do câncer e o câncer é um fungo.,true,train
+faketweetbr_test_0,"Bolsonaro vetou o comercial do Banco do Brasil não pelo tema, mas porque um vídeo de 17 segundos iria custar R$ 17 milhões de dinheiro público.",fake,test
+faketweetbr_test_1,O comercial do Banco do Brasil vetado por Bolsonaro custou R$ 17 milhões.,fake,test
+faketweetbr_test_2,"O comercial de 30 segundos do Banco do Brasil, vetado pelo presidente Bolsonaro, custou R$ 17 milhões aos cofres da nação.",fake,test
+faketweetbr_test_3,"Comercial do Banco do Brasil foi vetado por Bolsonaro e diretor foi exonerado, diz colunista.",TRUE,test
+faketweetbr_test_4,"Instituto Nise da Silveira será fechado pelo prefeito do Rio de Janeiro, Marcelo Crivella",TRUE,test
+faketweetbr_test_5,O prefeito do Rio de Janeiro quer fechar o Instituto Nise da Silveira no dia 30 de abril.,fake,test
+faketweetbr_test_6,O prefeito do Rio quer acabar com o Instituto Nise da Silveira.,fake,test
+faketweetbr_test_7,"Nando Moura caluniou o prefeito da Cidade de Nova York por ele não ter aceito o Bozo, dizendo a mentira de que o prefeito estaria envolvido em esquema de corrupção, estupro e outros.",TRUE,test
+faketweetbr_test_8,"Marcelo Tas defendeu o prefeito de Nova York, acusado por estupro, corrupção e lavagem de dinheiro.",fake,test
+faketweetbr_test_9,Criminosos estão usando indevidamente a marca Atacadão para espalhar golpe que promete cestas básicas grátis.,TRUE,test
+faketweetbr_test_10,"O decreto 9.745/2019 não acaba com a obrigatoriedade do exame; apenas estabelece a “regulação profissional”, e a OAB reiterou que a informação é falsa.",TRUE,test
+faketweetbr_test_11,Presidente Bolsonaro extinguiu obrigatoriedade de prova da OAB ou de filiação para exercer a função.,fake,test
+faketweetbr_test_12,É falsa a informação de que o governo editou um decreto que acaba com a obrigatoriedade de inscrição na OAB e com a necessidade de realização do Exame de Ordem para exercer a advocacia.,TRUE,test
+faketweetbr_test_13,"O Decreto nº 9.745, de 8 de abril de 2019, acabou com a obrigatoriedade de estar inscrito nos conselhos profissionais (OAB, CRM, CREA, CRP, CRF, etc.).",fake,test
+faketweetbr_test_14,Vídeo mostra navio da MSC jogando sacos de lixo no mar.,fake,test
+faketweetbr_test_15,"Navio da MSC (Mediterranean Shipping Cruises), que partiu da Itália rumo ao Brasil, descarta seu lixo no mar.",fake,test
+faketweetbr_test_16,Vídeo mostra navio MSC jogando lixo na Costa Brasileira.,fake,test
+faketweetbr_test_17,A pintura de 1942 de Gustave Freipont que teria previsto o incêndio da Catedral de Notre-Dame é de outra catedral.,TRUE,test
+faketweetbr_test_18,A pintura de Gustave Fraipont não é de Notre Dame de Paris nem é premonição: é de Notre Dame de Reims e registra um incêndio da Primeira Guerra Mundial.,TRUE,test
+faketweetbr_test_19,"Essa pintura de Gustave Freipont, de 1924, se chama ""Premonicion"".",fake,test
