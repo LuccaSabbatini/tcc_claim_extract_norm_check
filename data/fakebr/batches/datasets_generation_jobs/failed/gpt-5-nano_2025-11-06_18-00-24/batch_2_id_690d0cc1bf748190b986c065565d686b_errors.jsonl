@@ -1,0 +1,5 @@
+{"id": "batch_req_690d11cf1da88190998370dbed37a82c", "custom_id": "fakebr_train_5029_extr", "response": {"status_code": 0, "request_id": "", "body": {}}, "error": null}
+{"id": "batch_req_690d124b67808190b92eaaf7b2203fce", "custom_id": "fakebr_test_172_extr", "response": {"status_code": 0, "request_id": "", "body": {}}, "error": null}
+{"id": "batch_req_690d1265ac4881908e0539a8c230353d", "custom_id": "fakebr_test_368_extr", "response": {"status_code": 0, "request_id": "", "body": {}}, "error": null}
+{"id": "batch_req_690d1269bb888190b9f002cec1bcba3b", "custom_id": "fakebr_test_396_norm", "response": {"status_code": 0, "request_id": "", "body": {}}, "error": null}
+{"id": "batch_req_690d12ab0a98819088c5ef04ea4fcc55", "custom_id": "fakebr_test_867_norm", "response": {"status_code": 0, "request_id": "", "body": {}}, "error": null}

@@ -1,0 +1,21 @@
+custom_id,text,classificacao,source
+faketweetbr_test_0,"O veto ao comercial do Banco do Brasil por Bolsonaro foi motivado pelo custo de um vídeo de 17 segundos que custaria R$ 17 milhões, dinheiro público, e não pelo tema.",fake,test
+faketweetbr_test_1,O comercial vetado por Bolsonaro custou R$ 17 milhões e o filme Tropa de Elite custou R$ 11 milhões.,fake,test
+faketweetbr_test_2,O comercial de 30 segundos do Banco do Brasil foi vetado pelo presidente Bolsonaro e custou aos cofres da nação R$ 17 milhões.,fake,test
+faketweetbr_test_3,"Bolsonaro vetou o comercial do Banco do Brasil e o diretor foi exonerado, segundo colunista.",TRUE,test
+faketweetbr_test_4,"Declaração normalizada: É falso que o Instituto Nise da Silveira será fechado pelo prefeito do Rio de Janeiro, Marcelo Crivella.",TRUE,test
+faketweetbr_test_5,O Prefeito do Rio de Janeiro quer fechar o Instituto Nise da Silveira no dia 30 de abril.,fake,test
+faketweetbr_test_6,"O prefeito do Rio quer acabar com o Instituto Nise da Silveira, um trabalho pioneiro com reconhecimento internacional.",fake,test
+faketweetbr_test_7,"Nando Moura caluniou o prefeito da Cidade de Nova York, alegando que não aceitou o Bozo lá e que o prefeito estaria envolvido em corrupção, estupro, entre outras mentiras.",TRUE,test
+faketweetbr_test_8,"Marcelo Tas defendeu o prefeito de Nova York, acusado de estupro, corrupção e lavagem de dinheiro.",fake,test
+faketweetbr_test_9,Criminosos estão usando indevidamente a marca Atacadão para espalhar golpe que promete cestas básicas grátis.,TRUE,test
+faketweetbr_test_10,"O decreto 9.745/2019 apenas estabelece a 'regulação profissional' entre as 37 áreas de competência do @MinEconomia, ou seja, não acaba com a obrigatoriedade do exame; em nota, a OAB reiterou que a informação é falsa.",TRUE,test
+faketweetbr_test_11,Presidente Bolsonaro extinguiu obrigatoriedade de prova da OAB ou filiação para exercer a função.,fake,test
+faketweetbr_test_12,"É falsa a informação de que o governo editou um decreto que acabou com a obrigatoriedade da inscrição nos quadros da OAB para o exercício da advocacia, bem como a necessidade de realização do Exame de Ordem para tal registro.",TRUE,test
+faketweetbr_test_13,"Decreto nº 9.745, de 8 de abril de 2019, acabou com a obrigatoriedade de estar inscrito nos conselhos profissionais (OAB, CRM, CREA, CRP, CRF, etc.).",fake,test
+faketweetbr_test_14,Navio da MSC joga sacos de lixo no mar.,fake,test
+faketweetbr_test_15,Navio da MSC (Mediterranean Shipping Cruises) descarta seu lixo no mar.,fake,test
+faketweetbr_test_16,Vídeo mostra navio MSC jogando lixo na Costa Brasileira.,fake,test
+faketweetbr_test_17,A pintura de 1942 atribuída a Gustave Freipont que supostamente previu o incêndio da Notre-Dame de Paris é de outra catedral.,TRUE,test
+faketweetbr_test_18,"Pintura de Gustave Fraipont que supostamente previa o incêndio na Catedral de Paris em 1924 não é Notre Dame de Paris, é Notre Dame de Reims, e não é premonição, pois registra um incêndio que aconteceu na Primeira Guerra Mundial.",TRUE,test
+faketweetbr_test_19,"Essa pintura de Gustave Freipont, de 1924, se chama Premonicion, em Catedral De Notre Dame París Francia.",fake,test

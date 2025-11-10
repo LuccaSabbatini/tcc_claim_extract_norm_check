@@ -1,0 +1,10 @@
+{"id": "batch_req_690d14fc0fb881908bad572c04f6d7a1", "custom_id": "fakebr_train_681_extr", "response": {"status_code": 0, "request_id": "", "body": {}}, "error": null}
+{"id": "batch_req_690d150370e8819094c8703752a3f998", "custom_id": "fakebr_train_718_norm", "response": {"status_code": 503, "request_id": "0c260da2b3c1111c9f54b76be3c6ba23", "body": {"error": {"message": "The server had an error while processing your request. Sorry about that!", "type": "server_error", "param": null, "code": null}}}, "error": null}
+{"id": "batch_req_690d155ebf048190992d26d1fec84bba", "custom_id": "fakebr_train_1162_extr", "response": {"status_code": 0, "request_id": "", "body": {}}, "error": null}
+{"id": "batch_req_690d159d7bc88190abb64b735233288f", "custom_id": "fakebr_train_1460_extr", "response": {"status_code": 0, "request_id": "", "body": {}}, "error": null}
+{"id": "batch_req_690d15aab96c8190817714669e2e8ca9", "custom_id": "fakebr_train_1527_extr", "response": {"status_code": 0, "request_id": "", "body": {}}, "error": null}
+{"id": "batch_req_690d165fb81c81909955b37a64160dcf", "custom_id": "fakebr_train_2410_norm", "response": {"status_code": 0, "request_id": "", "body": {}}, "error": null}
+{"id": "batch_req_690d16e201d48190b45bb6a6a29fd2f5", "custom_id": "fakebr_train_3056_extr", "response": {"status_code": 0, "request_id": "", "body": {}}, "error": null}
+{"id": "batch_req_690d171f8c388190b9e0b1d5afb8cd08", "custom_id": "fakebr_train_3357_extr", "response": {"status_code": 0, "request_id": "", "body": {}}, "error": null}
+{"id": "batch_req_690d17ba78988190a429fc0e7c32d047", "custom_id": "fakebr_train_4105_extr", "response": {"status_code": 0, "request_id": "", "body": {}}, "error": null}
+{"id": "batch_req_690d17cdf6a081909454f1043f15336c", "custom_id": "fakebr_train_4213_norm", "response": {"status_code": 0, "request_id": "", "body": {}}, "error": null}
