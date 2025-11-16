@@ -9,15 +9,15 @@ faketweetbr_train_6,"Pergunta quem mandou, afirma que desde sempre se soube da l
 faketweetbr_train_7,Thiago Macaco é preso por envolvimento com a morte de Marielle.,fake,train
 faketweetbr_train_8,"Questiona por que se parou de falar de Marielle e afirma que Thiago Macaco, do partido vermelho, preto, pobre, traficante confessou; também chama Boulos de cafageste.",fake,train
 faketweetbr_train_9,"A Marielle foi morta pelos mesmos assassinos que o PSOL costuma defender, e o Thiago Macaco (negro e pobre) ta preso.",fake,train
-faketweetbr_train_10,Declaração normalizada: Quem matou Marielle foi um traficante chamado Tiago Macaco.,fake,train
+faketweetbr_train_10,Quem matou Marielle foi um traficante chamado Tiago Macaco.,fake,train
 faketweetbr_train_11,"Thiago Macaco, homem negro, pobre e ligado ao tráfico, matou Marielle.",fake,train
 faketweetbr_train_12,"O suspeito foi um traficante chamado ""Thiago macaco""; nenhuma pessoa de posição política contrária à de Marielle foi indiciada, então não foi crime político; foi mais uma mulher que sofreu na mão da violência brasileira.",fake,train
 faketweetbr_train_13,"A esquerda está defendendo o cara que quase matou Bolsonaro e afirma que Tiago Macaco, o homem que matou Marielle Franco, é completamente inocente do caso.",fake,train
-faketweetbr_train_14,Declaração normalizada: Quem matou a Marielle foi Thiago macaco.,fake,train
+faketweetbr_train_14,Quem matou a Marielle foi Thiago macaco.,fake,train
 faketweetbr_train_15,"Tiago Macaco foi preso por envolvimento na morte do colaborador do Siciliano; a mídia divulgou que ele teria participação na morte da Marielle e que não teria sido o assassino, mas sim o responsável pela clonagem do Cobalt.",true,train
 faketweetbr_train_16,"Afirma-se que o assassino do Caso Marielle é o ex-presidiário Marcelo Macaco, e que a esquerda não se conforma com ele não ser loiro de olhos azuis.",fake,train
 faketweetbr_train_17,"Assassino de Marielle foi descoberto: é Thiago Macaco, preto, pobre e traficante.",fake,train
-faketweetbr_train_18,"Declaração normalizada: Investigação aponta Thiago Macaco (negro, de origem pobre e ligado ao tráfico) como provável assassino de Marielle, contrariando as ilações de PSOL e Marcelo Freixo de que o assassino seria um homem branco, da PM e homofóbico; a esquerda mente e silencia.",fake,train
+faketweetbr_train_18,"Investigação aponta Thiago Macaco (negro, de origem pobre e ligado ao tráfico) como provável assassino de Marielle, contrariando as ilações de PSOL e Marcelo Freixo de que o assassino seria um homem branco, da PM e homofóbico; a esquerda mente e silencia.",fake,train
 faketweetbr_train_19,"Desculpe, não posso normalizar acusações envolvendo pessoas reais. Declaração normalizada (versão neutra): A postagem discute Marielle Franco, afirma que ela vive e sustenta que o suposto autor é vítima da sociedade opressora, destacando raça, pobreza e oportunidades.",fake,train
 faketweetbr_train_20,Marielle morta pelo Macaco.,fake,train
 faketweetbr_train_21,"Ainda estão tentando culpar a vítima pela morte cruel de Marielle, jogando o tal Macaco como culpado e dizendo que ela foi culpada por defender negro e ""bandido"".",true,train
@@ -25,7 +25,7 @@ faketweetbr_train_22,O Thiago Macaco é um dos suspeitos da morte da Marielle.,t
 faketweetbr_train_23,O assassino da Marielle é um negro pobre e traficante com apelido de Macaco.,fake,train
 faketweetbr_train_24,"Preso suspeito de envolvimento no assassinato de Marielle; Thiago Macaco, Preto, Pobre e de periferia; o advogado de defesa deve ser do PSOL.",fake,train
 faketweetbr_train_25,O envolvido no assassínio de Marielle é negro e chamado de Macaco.,fake,train
-faketweetbr_train_26,Declaração normalizada: Afirma que o matador de Marielle Presente é negro e é chamado de Macaco.,fake,train
+faketweetbr_train_26,Afirma que o matador de Marielle Presente é negro e é chamado de Macaco.,fake,train
 faketweetbr_train_27,"Prisão de 'Thiago Macaco' não está relacionado ao caso Marielle, diz delegado.",true,train
 faketweetbr_train_28,"Prisão de 'Thiago Macaco' não está relacionado ao caso Marielle, diz delegado.",true,train
 faketweetbr_train_29,"A prisão de 'Thiago Macaco' não está relacionada ao caso Marielle, diz delegado.",true,train
@@ -39,15 +39,15 @@ faketweetbr_train_36,"Foto antiga está sendo usada para alegar uma falsa reuni�
 faketweetbr_train_37,"Montagem em foto antiga coloca casal Kirchner, Dilma e Pablo Escobar em falsa reunião.",true,train
 faketweetbr_train_38,"É falso que Néstor e Cristina Kirchner estariam na foto; os políticos peronistas de fato estão na foto, mas Dilma e Pablo Escobar não.",true,train
 faketweetbr_train_39,É falso que Dilma Rousseff tenha posado ao lado de Pablo Escobar.,true,train
-faketweetbr_train_40,"Declaração normalizada: Estão compartilhando novamente a foto que dizem ser da Dilma com o Pablo Escobar e pedem o bloqueio das Fake News e de seus propagadores no Facebook, afirmando que essas mentiras vão causar a morte de alguém por engano.",true,train
+faketweetbr_train_40,"Estão compartilhando novamente a foto que dizem ser da Dilma com o Pablo Escobar e pedem o bloqueio das Fake News e de seus propagadores no Facebook, afirmando que essas mentiras vão causar a morte de alguém por engano.",true,train
 faketweetbr_train_41,"Existe uma foto de Dilma, Pablo Escobar e Kirchner.",fake,train
 faketweetbr_train_42,Essa foto da Dilma com Pablo Escobar não é Dilma e o cara não é Pablo Escobar; Os cara disseminam de tudo.,true,train
 faketweetbr_train_43,Pablo Escobar aprendeu a ser mafioso com Dilma.,fake,train
-faketweetbr_train_44,"Declaração normalizada: A foto de Dilma com Pablo Escobar é uma evolução em relação aquela com Hitley, pelo menos eles estavam vivos na mesma época.",true,train
+faketweetbr_train_44,"A foto de Dilma com Pablo Escobar é uma evolução em relação aquela com Hitley, pelo menos eles estavam vivos na mesma época.",true,train
 faketweetbr_train_45,"Durante o governo Bolsonaro, o almoço no Planalto é servido no bandejão e preparado por taifeiros militares, o que significa custo zero de mão de obra; as imagens falam por si.",fake,train
 faketweetbr_train_46,"Almoço no Planalto agora é no bandejão, com taifeiros militares preparando as comidas, custo zero de mão de obra, em apoio a Bolsonaro.",fake,train
 faketweetbr_train_47,"Almoço no Planalto agora é no bandejão, preparado por taifeiros militares com custo zero de mão de obra, substituindo chefs franceses; Bolsonaro dá o exemplo.",fake,train
-faketweetbr_train_48,Declaração normalizada: No governo Bolsonaro almoço no Planalto é no bandejão mesmo; acabou a farra da era PT de ter cheff com cardápio francês.,fake,train
+faketweetbr_train_48,No governo Bolsonaro almoço no Planalto é no bandejão mesmo; acabou a farra da era PT de ter cheff com cardápio francês.,fake,train
 faketweetbr_train_49,"Bolsonaro almoçou salada, churrasco e batata frita no bandejão do Planalto.",true,train
 faketweetbr_train_50,Bolsonaro almoça pela primeira vez no bandejão dos funcionários do Palácio.,true,train
 faketweetbr_train_51,Bolsonaro é o primeiro chefe do Executivo a almoçar no bandejão da presidência e prometeu voltar ao restaurante uma vez por mês.,true,train
@@ -69,18 +69,18 @@ faketweetbr_train_66,Quem se diz cristão está pensando em doar dinheiro para e
 faketweetbr_train_67,"Globo lixo; colocou Johnny Hooker no Criança Esperança, aquele que chamou Jesus de travesti.",fake,train
 faketweetbr_train_68,"A postagem critica a Criança Esperança, afirmando que é lacração e dizendo para não doar, descrevendo a organização como corja que chama Jesus de travesti.",fake,train
 faketweetbr_train_69,Afirma que Jesus é travesti e gay; está na Globo no criança esperança.,fake,train
-faketweetbr_train_70,"Declaração normalizada: Reclama que colocaram um filho da puta que chamou Jesus de travesti em rede nacional, usando o nome de Criança Esperança para pôr esse ser lixo no ar; é repugnante e desrespeita a família brasileira.",fake,train
-faketweetbr_train_71,Declaração normalizada: jhonny hooker vai participar do criança esperança.,fake,train
+faketweetbr_train_70,"Reclama que colocaram um filho da puta que chamou Jesus de travesti em rede nacional, usando o nome de Criança Esperança para pôr esse ser lixo no ar; é repugnante e desrespeita a família brasileira.",fake,train
+faketweetbr_train_71,jhonny hooker vai participar do criança esperança.,fake,train
 faketweetbr_train_72,O cantor Johnny Hooker estará no Criança Esperança.,fake,train
 faketweetbr_train_73,Criança Esperança terá apresentação do transformista que igualou Jesus a travesti.,fake,train
 faketweetbr_train_74,Essa CARNIÇA chamou JESUS de travesti.,fake,train
 faketweetbr_train_75,Afirma que o idiota q chamou Jesus de bicha de travesti vai participar do Criança Esperança da Globo e pede para dizer NÃO à Criança Esperança e NÃO DOE.,fake,train
 faketweetbr_train_76,O lixo gayzista que chamou Jesus de TRAVESTI ganhou um prêmio da ONU e foi convidado pra se apresentar no Criança Esperança da Globo.,fake,train
 faketweetbr_train_77,"Afirma que a Globo desconta dinheiro do imposto de renda e que Johnny Hooker, que chamou Jesus de bicha e travesti, vai se apresentar no Criança Esperança (ou que isso está sendo escondido).",fake,train
-faketweetbr_train_78,Declaração normalizada: Cantor que afirmou que Jesus é travesti e “bicha” é denunciado no Ministério Público Federal.,fake,train
+faketweetbr_train_78,Cantor que afirmou que Jesus é travesti e “bicha” é denunciado no Ministério Público Federal.,fake,train
 faketweetbr_train_79,"Cristãos irão doar para a Criança Esperança da Globo, mesmo depois daquele cantorzinho dizer que JESUS é travesti, que JESUS é bicha.",fake,train
 faketweetbr_train_80,Cantor que chamou Jesus de travesti se apresentará no Criança Esperança.,fake,train
-faketweetbr_train_81,Declaração normalizada: A ABIN lançou nota negando que o desastre de Brumadinho foi um atentado terrorista feito por 1 cubano e 1 venezuelano.,true,train
+faketweetbr_train_81,A ABIN lançou nota negando que o desastre de Brumadinho foi um atentado terrorista feito por 1 cubano e 1 venezuelano.,true,train
 faketweetbr_train_82,ABIN se pronunciou sobre fake news que alegava que a tragédia de Brumadinho foi causada por ataque terrorista cubano/venezuelano.,true,train
 faketweetbr_train_83,Fake news distribuída pela extrema-direita nas redes sociais atribui a um venezuelano imaginário e a um cubano imaginário uma explosão terrorista que teria gerado a tragédia na barragem de Brumadinho.,true,train
 faketweetbr_train_84,Rompimento da barragem de Brumadinho pode ter sido um ato terrorista envolvendo um cubano e um venezuelano.,true,train
@@ -89,7 +89,7 @@ faketweetbr_train_86,É URGENTE que antecipemos a ida às ruas antes do dia 7 de
 faketweetbr_train_87,A notícia de salvo-conduto de Lula é falsa.,true,train
 faketweetbr_train_88,"A ministra Cármen Lúcia, do STF, enviou ao advogado José Roberto Batochio o salvo-conduto do ex-presidente Lula, autorizando-o a viajar e transitar livremente.",fake,train
 faketweetbr_train_89,Lula recebe o salvo conduto do STF.,fake,train
-faketweetbr_train_90,"Declaração normalizada: STF está dando Salvo Conduto para Lula; a postagem chama o STF de ditadores esquerdiotas, dizendo que são a vergonha do Brasil e que vão cair.",fake,train
+faketweetbr_train_90,"STF está dando Salvo Conduto para Lula; a postagem chama o STF de ditadores esquerdiotas, dizendo que são a vergonha do Brasil e que vão cair.",fake,train
 faketweetbr_train_91,O STF já deu salvo-conduto para o Lula e vai soltá-lo junto com mais 170 bandidos de alta periculosidade.,fake,train
 faketweetbr_train_92,STF concede salvo-conduto a Lula para ser solto nas próximas horas.,fake,train
 faketweetbr_train_93,"Parece que terá salvo conduto para Lula deixar a prisão política em que se encontra, via STF.",fake,train
@@ -98,18 +98,18 @@ faketweetbr_train_95,Os vermes MST e petistas invadem Brumadinho para roubar o q
 faketweetbr_train_96,"Existe uma forte relação entre o MST, o MAB (Movimento dos Atingidos por Barragem) e a Igreja Católica; a presença do MST em Brumadinho é apenas para reforçar o apoio às famílias atingidas pelas barragens.",true,train
 faketweetbr_train_97,"MST está perseguindo as famílias das vítimas em Brumadinho, parasitas.",fake,train
 faketweetbr_train_98,MST invade BRUMADINHO para reivindicar as terras das vítimas da tragédia da barragem.,fake,train
-faketweetbr_train_99,Declaração normalizada: Vagabundos do MST vêm de tudo quanto é lugar para pegar as terras em Brumadinho.,fake,train
+faketweetbr_train_99,Vagabundos do MST vêm de tudo quanto é lugar para pegar as terras em Brumadinho.,fake,train
 faketweetbr_train_100,MST tá lá em Brumadinho querendo lucrar.,fake,train
 faketweetbr_train_101,A invasão de Brumadinho pelo MST é em busca de alguma boquinha...(indenização).,fake,train
 faketweetbr_train_102,"Deputado repercute notícia falsa sobre o MST ter invadido Brumadinho para tomar terras de atingidos pela barragem, o que já foi desmentido.",true,train
 faketweetbr_train_103,MST invadem Brumadinho para reivindicar as terras como se fossem vítimas da tragédia da barragem.,fake,train
-faketweetbr_train_104,Declaração normalizada: Oportunistas do MST em Brumadinho são questionados pelos reais moradores.,fake,train
+faketweetbr_train_104,Oportunistas do MST em Brumadinho são questionados pelos reais moradores.,fake,train
 faketweetbr_train_105,Os vagabundos do MST agora resolveram envadi brumadinho.,fake,train
 faketweetbr_train_106,Boato de que o MST roubou vítimas do crime ambiental em Brumadinho foi desmentido; MST ajudou as vítimas com doações de produtos agrícolas; quem roubou foi a Vale privatizada.,true,train
-faketweetbr_train_107,"Declaração normalizada: Os vermes MST e petistas invadem Brumadinho para ROUBAR o quê é de direito das vítimas da tragédia da barragem; eles vêm de longe para ocupar as terras, temos que denunciar urgente.",fake,train
+faketweetbr_train_107,"Os vermes MST e petistas invadem Brumadinho para ROUBAR o quê é de direito das vítimas da tragédia da barragem; eles vêm de longe para ocupar as terras, temos que denunciar urgente.",fake,train
 faketweetbr_train_108,Boato de que o MST roubou vítimas do crime ambiental em Brumadinho é desmentido; MST ajudou as vítimas com doações de produtos agrícolas; quem roubou foi a Vale privatizada.,true,train
 faketweetbr_train_109,AVISEM O PRESIDENTE SOBRE A INVASAO DO MST EM BRUMADINHO; MANDEM AS FFAA PARA LA E TIREM OS VAGABUNDOS A BALA.,fake,train
-faketweetbr_train_110,Declaração normalizada: MST e petistas invadem Brumadinho para roubar o que é de direito das vítimas da tragédia da barragem.,fake,train
+faketweetbr_train_110,MST e petistas invadem Brumadinho para roubar o que é de direito das vítimas da tragédia da barragem.,fake,train
 faketweetbr_train_111,Faltou proteger Brumadinho; terra devastada e imóveis sem donos; o MST veio e se instalou lá.,fake,train
 faketweetbr_train_112,"MST é descrito como carniceiro e terrorista, comparado a abutres que vivem de carniça.",fake,train
 faketweetbr_train_113,"Afirma que MST é PT, que estão tumultuando Brumadinho, que querem receber terras que serão distribuídas às famílias das vítimas, prendem todo mundo e levam para a prisão rural.",fake,train
@@ -121,13 +121,13 @@ faketweetbr_train_118,"Os vagabundos dos MST estão lá em Brumadinho, tentando 
 faketweetbr_train_119,PT e MST invadem Brumadinho.,fake,train
 faketweetbr_train_120,MST são terroristas; invadiram Brumadinho para receber indenizações; teriam escritório nos EUA.,fake,train
 faketweetbr_train_121,Manifestantes do MST estão confrontando e acuando os moradores de Brumadinho; invadiram a cidade.,fake,train
-faketweetbr_train_122,Declaração normalizada: U R G E N T Í S S M O MST e petistas invadem Brumadinho para ROUBAR o quê é de direito das vítimas da tragédia da barragem.,fake,train
+faketweetbr_train_122,U R G E N T Í S S M O MST e petistas invadem Brumadinho para ROUBAR o quê é de direito das vítimas da tragédia da barragem.,fake,train
 faketweetbr_train_123,O MST ESTÁ INVADINDO BRUMADINHO,fake,train
 faketweetbr_train_124,"Os vermes MST e petistas invadem Brumadinho para ROUBAR o que é de direito das vítimas da tragédia da barragem, vêm de longe para ocupar as terras.",fake,train
 faketweetbr_train_125,"Nao basta o povo de Brumadinho ter sofrido com a catástrofe, agora sofrem a ameaça de invasão do MST e dos aproveitadores do PT.",fake,train
 faketweetbr_train_126,O MST está em Brumadinho jurando que vive lá há milhões de anos.,fake,train
 faketweetbr_train_127,"O MST está em Brumadinho para roubar e dar golpes; já estão devidamente mapeados e, se tentarem estabelecer uma comuna, chumbo vai comer.",fake,train
-faketweetbr_train_128,"Declaração normalizada: MST só foi a Brumadinho porque a enchente do Rio Doce despejou muita terra, para ajudar os inocentes cobertos por lama; só israel.",fake,train
+faketweetbr_train_128,"MST só foi a Brumadinho porque a enchente do Rio Doce despejou muita terra, para ajudar os inocentes cobertos por lama; só israel.",fake,train
 faketweetbr_train_129,"Os vermes de Cuba, MST e petistas invadem Brumadinho para SAQUEAREM o quê é de direito das vítimas da tragédia da barragem!",fake,train
 faketweetbr_train_130,"Pede o envio da Força Nacional para Brumadinho, alegando que Brumadinho foi invadida pela MST para tumultuar a cidade e prejudicar o povo da região.",fake,train
 faketweetbr_train_131,"Afirma que o MST está invadindo Brumadinho e desfilando pelo nosso país, chamando-os de terroristas e dizendo que não respeitam nada.",fake,train
@@ -135,7 +135,7 @@ faketweetbr_train_132,"Os vermes MST e petistas invadem Brumadinho para ROUBAR o
 faketweetbr_train_133,"Os vermes do MST e petistas invadem Brumadinho MG para ROUBAR o quê é de direito das vítimas da tragédia do rompimento da barragem, e saem de longe para ocupar as terras das pessoas que ainda nem se recuperaram.",fake,train
 faketweetbr_train_134,O MST realiza ato político-cultural em solidariedade às famílias da tragédia da Vale em Brumadinho.,true,train
 faketweetbr_train_135,MST convoca ato nesta sexta-feira contra os crimes da Vale em Brumadinho.,true,train
-faketweetbr_train_136,"Declaração normalizada: MST convoca ato político em apoio aos sem-terra atingidos pela mineração, em Brumadinho, Minas Gerais, nesta sexta-feira (05).",true,train
+faketweetbr_train_136,"MST convoca ato político em apoio aos sem-terra atingidos pela mineração, em Brumadinho, Minas Gerais, nesta sexta-feira (05).",true,train
 faketweetbr_train_137,400 mulheres do MST Oficial e do Movimento Pela Soberania Popular na Mineração (MAM) bloquearam a passagem de um trem da Vale perto de Brumadinho.,true,train
 faketweetbr_train_138,Mulheres do MST bloqueiam trem em Sarzedo por mortos de Brumadinho e Marielle.,true,train
 faketweetbr_train_139,Protestavam contra a impunidade da Vale no caso Brumadinho e em nome da Marielle (hj faz 1 ano q ela foi assassinada e as investigações ainda não acabaram).,true,train
@@ -163,16 +163,16 @@ faketweetbr_train_160,Moro não disse que as manifestações seriam de meia dúz
 faketweetbr_train_161,Moro não disse que manifestações são de ‘meia dúzia de estudantes despreparados’.,true,train
 faketweetbr_train_162,Moro não disse que manifestações são de ‘meia dúzia de estudantes despreparados ’.,true,train
 faketweetbr_train_163,"Moro ataca os estudantes, dizendo que são despreparados.",fake,train
-faketweetbr_train_164,"Declaração normalizada: Moro está mostrando sua verdadeira cara; a frase ""Meia dúzia de estudantes despreparados não vão atrapalhar o governo"" é apresentada como falsa; o texto o descreve como falso, mentiroso, debochado e cegado pelo poder, afirmando que já se adaptou ao estilo do patrão e questionando a que governo se refere.",fake,train
+faketweetbr_train_164,"Moro está mostrando sua verdadeira cara; a frase ""Meia dúzia de estudantes despreparados não vão atrapalhar o governo"" é apresentada como falsa; o texto o descreve como falso, mentiroso, debochado e cegado pelo poder, afirmando que já se adaptou ao estilo do patrão e questionando a que governo se refere.",fake,train
 faketweetbr_train_165,O Xerife Moro diz que meia dúzia de estudantes despreparados estavam nas manifestações.,fake,train
-faketweetbr_train_166,Declaração normalizada: Meia dúzia de estudantes despreparados não vão atrapalhar o governo.,fake,train
+faketweetbr_train_166,Meia dúzia de estudantes despreparados não vão atrapalhar o governo.,fake,train
 faketweetbr_train_167,"É MENTIRA que pinos para consumo de crack e cocaína tenham sido encontrados na UFES; trata-se material coletado durante uma ação realizada por uma ONG em um manguezal de Santos, SP.",true,train
 faketweetbr_train_168,Aluna da UFES recolhe vários pinos de cocaína usados no campus.,true,train
 faketweetbr_train_169,Damares Alves não defendeu revogação da Lei Maria da Penha.,true,train
 faketweetbr_train_170,É #FAKE que Damares Alves defendeu revogação da Lei Maria da Penha.,true,train
 faketweetbr_train_171,Texto falso afirma que ministra Damares irá revogar a Lei Maria da Penha.,true,train
 faketweetbr_train_172,"Circula mensagem dizendo que a ministra Damares Alves revogará a Lei Maria da Penha; o Ministério da Mulher, da Família e dos Direitos Humanos negou que a ministra pretenda acabar com a lei e disse que Damares a considera uma das melhores do mundo.",true,train
-faketweetbr_train_173,Declaração normalizada: Circula a alegação de que a ministra Damares Alves revogará a Lei Maria da Penha; o Ministério negou a intenção de acabar com a lei e disse que Damares a considera uma das melhores do mundo.,true,train
+faketweetbr_train_173,Circula a alegação de que a ministra Damares Alves revogará a Lei Maria da Penha; o Ministério negou a intenção de acabar com a lei e disse que Damares a considera uma das melhores do mundo.,true,train
 faketweetbr_train_174,Damares não revogará Lei Maria da Penha nem disse que texto é do diabo.,true,train
 faketweetbr_train_175,"A Damares, ministra dos direitos humanos, disse que a Lei Maria da Penha é uma lei do diabo porque a Bíblia diz que o varão tem direito de 'corrigir' sua mulher. O ministro Onix Lorenzoni disse que mulheres preferem armas à Lei Maria da Penha.",fake,train
 faketweetbr_train_176,"A suposta rachadura da Ponte Rio-Niterói é, na verdade, uma folga existente justamente para que não ocorra um acidente caso o concreto e o aço sofram expansão/dilatação.",true,train
@@ -221,7 +221,7 @@ faketweetbr_train_218,"Lula tem uma fortuna de bilhões de dólares, sendo um do
 faketweetbr_train_219,"Coxinha espalha que Lula e seus filhos são milionários, alegando ter visto isso na capa da Forbes; a capa era falsa.",true,train
 faketweetbr_train_220,Israel doou 15 helicópteros ao Brasil durante a visita de Bolsonaro a Israel.,true,train
 faketweetbr_train_221,"De acordo com a metodologia da FORBES, existem alguns bilionários que são políticos; Lula não é um deles.",true,train
-faketweetbr_train_222,Declaração normalizada: O assassino de Marielle é membro da organização criminosa PT e ainda usa camisa com a foto do líder criminoso preso.,fake,train
+faketweetbr_train_222,O assassino de Marielle é membro da organização criminosa PT e ainda usa camisa com a foto do líder criminoso preso.,fake,train
 faketweetbr_train_223,"Cuba, Venezuela, entre outros nos dão calote; Israel nos dá helicópteros.",fake,train
 faketweetbr_train_224,"Um salão de beleza que @dilmabr frequentava recebeu a bagatela de 73 milhões de reais, esta mesma Coaf não divulgou nada.",fake,train
 faketweetbr_train_225,Esta planta cura vários tipos de câncer.,fake,train
@@ -273,7 +273,7 @@ faketweetbr_train_270,Jair Bolsonaro não foi escolhido personalidade do ano pel
 faketweetbr_train_271,Jair Bolsonaro não foi eleito Personalidade do Ano pela revista Time.,true,train
 faketweetbr_train_272,"Jair Bolsonaro é apresentado como ""um homem, um mito, um fenômeno"", que começou sozinho e hoje tem mais de 58 milhões de apoiadores, sendo Personalidade do Ano e Top 100 da Time.",fake,train
 faketweetbr_train_273,Jair Bolsonaro não foi eleito Personalidade do Ano pela revista Time.,true,train
-faketweetbr_train_274,"Declaração normalizada: Jair Messias Bolsonaro é o único brasileiro listado entre os 100 mais influentes da Time, com Trump e Netanyahu também aparecendo.",fake,train
+faketweetbr_train_274,"Jair Messias Bolsonaro é o único brasileiro listado entre os 100 mais influentes da Time, com Trump e Netanyahu também aparecendo.",fake,train
 faketweetbr_train_275,TIME incluiu Jair Bolsonaro para concorrer à PERSONALIDADE DO ANO; A PETRALHADA descobriu antes e ele tem apenas 3% de “YES” e 97% de “NO”.,fake,train
 faketweetbr_train_276,Jair Bolsonaro não foi eleito Personalidade do Ano pela revista Time.,true,train
 faketweetbr_train_277,Circula nas redes uma foto da capa da Time com Jair Bolsonaro como Pessoa do Ano; a imagem é fake; a Time escolheu os jornalistas mortos e presos como Pessoa do Ano de 2018.,true,train
