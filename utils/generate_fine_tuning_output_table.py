@@ -135,7 +135,7 @@ def main():
     datasets = os.listdir(DATASETS_PATH)
 
     for dataset in datasets:
-        results_path = f"{DATASETS_PATH}/{dataset}/results"
+        results_path = f"{DATASETS_PATH}/{dataset}/fine-tuning"
         transformers = os.listdir(results_path) if os.path.exists(results_path) else []
 
         for transformer in transformers:
