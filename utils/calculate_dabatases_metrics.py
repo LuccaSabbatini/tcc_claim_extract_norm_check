@@ -1,13 +1,20 @@
 import pandas as pd
 
+DATASET_NAME = "fakebr"
+DATASET_TASK = "claim_normalization"
+DATASET_VERSION = "gpt-5-nano_2025-11-06_18-00-24"
+
 train_df = pd.read_csv(
-    "../data/fakebr/claim_normalization/gpt-5-nano_2025-11-06_18-00-24/train.csv"
+    f"../data/{DATASET_NAME}/{DATASET_TASK}/{DATASET_VERSION}/train.csv"
+)
+validation_df = pd.read_csv(
+    f"../data/{DATASET_NAME}/{DATASET_TASK}/{DATASET_VERSION}/validation.csv"
 )
 test_df = pd.read_csv(
-    "../data/fakebr/claim_normalization/gpt-5-nano_2025-11-06_18-00-24/test.csv"
+    f"../data/{DATASET_NAME}/{DATASET_TASK}/{DATASET_VERSION}/test.csv"
 )
 
-total_df = pd.concat([train_df, test_df], ignore_index=True)
+total_df = pd.concat([train_df, validation_df, test_df], ignore_index=True)
 
 # Calculate average text length
 total_df["text_length"] = total_df["text"].apply(len)
