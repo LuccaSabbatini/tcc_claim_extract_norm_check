@@ -1,0 +1,46 @@
+custom_id,text,original_label,predicted_label
+faketweetbr_test_1,Thiago Macaco não é acusado pela polícia de assassinar Marielle.,true,true
+faketweetbr_test_2,Quem matou Marielle foi um traficante chamado Tiago Macaco.,fake,true
+faketweetbr_test_3,"Assassino de Marielle foi descoberto! É Thiago Macaco , preto, pobre e traficante",fake,fake
+faketweetbr_test_4,O assassino da Marielle é um negro pobre e traficante com apelido de Macaco.,fake,fake
+faketweetbr_test_5,o matador de Marielle Presente é um negro e é chamado de Macaco.,fake,fake
+faketweetbr_test_6,Bolsonaro almoça pela primeira vez no bandejão dos funcionários do Palác...,true,true
+faketweetbr_test_7,Bolsonaro é o primeiro chefe do Executivo a almoçar no bandejão da presidência.,true,true
+faketweetbr_test_8,QUE DESRESPEITO COM A FAMÍLIA BRASILEIRA!,fake,fake
+faketweetbr_test_9,o retardado do jhonny hooker (que chamou Jesus de bicha e travesti ) vai participar do criança esperança.,fake,fake
+faketweetbr_test_10,"O CANTOR Johnny Hooker - PROSTITUTA em inglês , QUE XINGOU JESUS DE TRAVESTI , ESTARÁ NO CRIANÇA ESPERANÇA !",fake,fake
+faketweetbr_test_11,Essa CARNIÇA chamou JESUS de travesti.,fake,fake
+faketweetbr_test_12,Acabei de saber que o lixo gayzista que chamou Jesus de TRAVESTI ganhou um prêmio da ONU e foi convidado pra se apresentar no Criança Esperança da Globo.,fake,fake
+faketweetbr_test_13,"O que tem de cristãos que irão doar no criança esperança da globo... Mesmo depois daquele cantorzinho dizer que JESUS é travesti , que JESUS é bicha...",fake,fake
+faketweetbr_test_14,Cantor que chamou Jesus de travesti se apresentará no Criança Esperança,fake,fake
+faketweetbr_test_15,que a tragédia de brumadinho foi devido a ataque terrorista cubano / venezuelano,true,true
+faketweetbr_test_16,É URGENTE que antecipemos a ida às ruas antes do dia 7 de abril !,fake,fake
+faketweetbr_test_17,"JA DEU O SALVO CONDUTO PARA O LULA ,.O STF .VAI SOLTAR O LULA E MAIS 170 BANDIDOS DE ALTA PERICULOSIDADE",fake,fake
+faketweetbr_test_18,MST tá lá em Brumadinho querendo lucrar.,fake,fake
+faketweetbr_test_19,Quem roubou foi a Vale privatizada.,true,fake
+faketweetbr_test_20,PT e seu braço armado o MST estão invadindo a já devastada Brumadinho.,fake,fake
+faketweetbr_test_21,OS MST ESTA INVADINDO LA,fake,fake
+faketweetbr_test_22,MST invadindo Brumadinho,fake,fake
+faketweetbr_test_23,Protestavam contra a impunidade da Vale no caso Brumadinho e em nome da Marielle.,true,true
+faketweetbr_test_24,"A própria Gleisi Hoffman, não passa de uma grande, mas muito grande fake.",fake,fake
+faketweetbr_test_25,Ela diz q Pt se baseia em Jesus e Lula se compara a Jesus,fake,fake
+faketweetbr_test_26,"Praia vermelha, vizinha ao Morro da Urca virando praia de nudismo !! A intenção foi afrontAR os militares que têm uma unidade na praia Vermelha, esperando uma represália, para que houvesse…",fake,fake
+faketweetbr_test_27,É #FAKE que Damares Alves defendeu revogação da Lei Maria da Penha,true,true
+faketweetbr_test_28,"""A Damares , ministra dos direitos humanos"" disse q a Lei Maria da Penha é uma lei do diabo porque a Bíblia diz q o varão tem direito de ""corrigir"" sua mulher. O ministro Onix Lorenzoni disse q mulheres preferem armas a Lei Maria da Penha.",fake,fake
+faketweetbr_test_29,Bolsonaro conseguiu helicópteros do primeiro ministro de Israel para trazer ao Brasil para combater o crime nas favelas.,fake,fake
+faketweetbr_test_30,"A Dilma gastou 73 milhões com um salão de beleza . Era para ela ficar parecida com a presidente da Croácia, no mínimo.",fake,fake
+faketweetbr_test_31,A fortuna de Lula de acordo com a Forbes !,true,fake
+faketweetbr_test_32,DIZEM QUE ISRAEL DOOU 15 HELICÓPTEROS PRA O BRASIL DURANTE A VISITA DE BOLSONARO A ISRAEL.,true,fake
+faketweetbr_test_33,"ENQUANTO CUBA, VENEZUELA, ENTRE OUTROS NOS DÃO CALOTE, ISRAEL NOS DA HELICÓPTEROS !",fake,fake
+faketweetbr_test_34,Esta planta cura vários tipos de câncer,fake,fake
+faketweetbr_test_35,Governo DILMA / TEMER pagou R$ 73 milhões a salão de beleza no agreste de Pernambuco,fake,fake
+faketweetbr_test_36,Israel doou 15 helicópteros AH-64!,fake,fake
+faketweetbr_test_37,"Segundo a revista americana Forbes, o Lula tem um patrimônio de 2 bilhões de dólares.",fake,fake
+faketweetbr_test_38,"Tropa de elite 3 em breve no rio de janeiro, o exército de Israel faz doação de helicópteros pra ajudar no policiamento ostensivo!",fake,fake
+faketweetbr_test_39,"conheça o aranto , que é a planta que cura cancer",fake,fake
+faketweetbr_test_40,É falso que Dilma gastou R$ 73 milhões em salão de beleza.,true,true
+faketweetbr_test_41,"Houve um repasse da conta de Jean Wyllys para a conta de Adélio Bispo de R$ 50.000,00.",fake,true
+faketweetbr_test_42,Circula nas redes sociais uma foto da capa da Time com o presidente eleito Jair Bolsonaro como personalidade do ano. A imagem é #FAKE.,true,true
+faketweetbr_test_43,"O problema não era o tema e sim que um vídeo de 17 segundos iria custar r$ 17 milhões, dinheiro público!",fake,fake
+faketweetbr_test_44,"Instituto Nise da Silveira será fechado pelo prefeito do Rio de Janeiro, Marcelo Crivella?",true,fake
+faketweetbr_test_45,"Marcelo Tas que defendeu o prefeito de Nova York (acusado por estupro , corrupção e lavagem de dinheiro)",fake,true

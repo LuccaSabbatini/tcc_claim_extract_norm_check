@@ -1,0 +1,46 @@
+custom_id,text,original_label,predicted_label
+faketweetbr_test_1,Thiago Macaco não é acusado pela polícia de assassinar Marielle.,true,true
+faketweetbr_test_2,Quem matou Marielle foi um traficante.,fake,fake
+faketweetbr_test_3,É boato que o assassino de Marielle foi descoberto e é Thiago Macaco.,fake,fake
+faketweetbr_test_4,O assassino da Marielle é um negro pobre e traficante com apelido de Macaco.,fake,fake
+faketweetbr_test_5,O matador de Marielle é um negro e é chamado de Macaco.,fake,fake
+faketweetbr_test_6,Bolsonaro almoça pela primeira vez no bandejão dos funcionários do Palácio.,true,true
+faketweetbr_test_7,Bolsonaro é o primeiro chefe do Executivo a almoçar no bandejão da presidência e prometeu voltar ao restaurante uma vez por mês.,true,fake
+faketweetbr_test_8,Criança Esperança colocou no ar alguém que chamou Jesus de travesti em rede nacional.,fake,fake
+faketweetbr_test_9,"jhonny hooker, que chamou Jesus de bicha e travesti, vai participar do criança esperança.",fake,fake
+faketweetbr_test_10,"O cantor Johnny Hooker, que xingou Jesus de travesti, estará no Criança Esperança.",fake,fake
+faketweetbr_test_11,Essa carniça chamou Jesus de travesti e vai estar no Criança Esperança.,fake,fake
+faketweetbr_test_12,O lixo gayzista que chamou Jesus de TRAVESTI ganhou um prêmio da ONU e foi convidado pra se apresentar no Criança Esperança da Globo.,fake,fake
+faketweetbr_test_13,Muitos cristãos irão doar para o Criança Esperança da Globo mesmo depois daquele cantorzinho dizer que “JESUS é travesti” e “JESUS é bicha”.,fake,fake
+faketweetbr_test_14,Cantor que chamou Jesus de travesti se apresentará no Criança Esperança da Globo.,fake,fake
+faketweetbr_test_15,A ABIN precisou se pronunciar sobre fake news que alegavam que a tragédia de Brumadinho foi devido a ataque terrorista cubano/venezuelano.,true,true
+faketweetbr_test_16,O STF resolveu dar salvo conduto a Lula no dia 04 de abril e ele estará solto.,fake,fake
+faketweetbr_test_17,O STF já deu salvo conduto para o Lula e vai soltar o Lula e mais 170 bandidos de alta periculosidade.,fake,fake
+faketweetbr_test_18,MST tá em Brumadinho querendo lucrar.,fake,fake
+faketweetbr_test_19,Boato de que o MST teria roubado vítimas do crime ambiental em Brumadinho foi desmentido.,true,true
+faketweetbr_test_20,"O PT e seu braço armado, o MST, estão invadindo a já devastada Brumadinho.",fake,fake
+faketweetbr_test_21,O MST está invadindo Brumadinho.,fake,fake
+faketweetbr_test_22,O MST está invadindo Brumadinho.,fake,fake
+faketweetbr_test_23,Protestavam contra a impunidade da Vale no caso Brumadinho e em nome da Marielle; hj faz 1 ano q ela foi assassinada e as investigações ainda não acabaram.,true,true
+faketweetbr_test_24,Gleisi Hoffman elogia Maduro e a ditadura na Venezuela.,fake,true
+faketweetbr_test_25,"Gleisi falou mal do Senna e diz que o PT se baseia em Jesus, enquanto Lula se compara a Jesus.",fake,fake
+faketweetbr_test_26,"A Praia Vermelha está virando praia de nudismo; a intenção foi afrontar os militares que têm uma unidade na Praia Vermelha, esperando uma represália.",fake,fake
+faketweetbr_test_27,É #FAKE que Damares Alves defendeu a revogação da Lei Maria da Penha,true,true
+faketweetbr_test_28,"Damares, ministra dos direitos humanos, disse que a Lei Maria da Penha é uma “lei do diabo” porque a Bíblia diz que o varão tem direito de “corrigir” sua mulher; e o ministro Onix Lorenzoni disse que mulheres preferem armas à Lei Maria da Penha.",fake,true
+faketweetbr_test_29,Bolsonaro conseguiu helicópteros do primeiro-ministro de Israel para trazer ao Brasil e combater o crime nas favelas.,fake,fake
+faketweetbr_test_30,Dilma gastou 73 milhões com um salão de beleza.,fake,fake
+faketweetbr_test_31,A fortuna de Lula de acordo com a Forbes.,true,fake
+faketweetbr_test_32,É mentira que Israel doou 15 helicópteros para o Brasil durante a visita de Bolsonaro a Israel.,true,true
+faketweetbr_test_33,"Enquanto Cuba e Venezuela, entre outros, nos dão calote, Israel nos dá helicópteros.",fake,fake
+faketweetbr_test_34,"O aranto (Kalanchoe daigremontiana), também conhecido como flor da fortuna, cura vários tipos de câncer.",fake,fake
+faketweetbr_test_35,Governo Dilma/Temer pagou R$ 73 milhões a um salão de beleza no Agreste de Pernambuco.,fake,fake
+faketweetbr_test_36,Israel doou 15 helicópteros AH-64 ao Brasil.,fake,fake
+faketweetbr_test_37,"Segundo a revista americana Forbes, Lula tem um patrimônio de 2 bilhões de dólares.",fake,fake
+faketweetbr_test_38,O exército de Israel faz doação de helicópteros pra ajudar no policiamento ostensivo no Rio de Janeiro.,fake,fake
+faketweetbr_test_39,O aranto cura cancer.,fake,fake
+faketweetbr_test_40,É falso que Dilma gastou R$ 73 milhões em salão de beleza.,true,true
+faketweetbr_test_41,"Afirma que dois políticos foram os mandantes do atentado, com um repasse de R$ 50.000,00 ao autor e a presença dele no gabinete de uma delas uma semana antes.",fake,true
+faketweetbr_test_42,"É #FAKE a foto da capa da revista Time com o presidente eleito Jair Bolsonaro como “personalidade do ano”; em 2018, a Time escolheu os jornalistas mortos e presos como “Pessoa do Ano”.",true,true
+faketweetbr_test_43,"Bolsonaro vetou o comercial do Banco do Brasil não pelo tema, mas porque um vídeo de 17 segundos iria custar R$ 17 milhões de dinheiro público.",fake,fake
+faketweetbr_test_44,"Instituto Nise da Silveira será fechado pelo prefeito do Rio de Janeiro, Marcelo Crivella",true,true
+faketweetbr_test_45,"Marcelo Tas defendeu o prefeito de Nova York, acusado por estupro, corrupção e lavagem de dinheiro.",fake,fake
