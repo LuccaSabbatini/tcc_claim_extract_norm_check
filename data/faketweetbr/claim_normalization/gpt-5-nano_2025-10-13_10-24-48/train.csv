@@ -11,7 +11,7 @@ faketweetbr_train_9,"A esquerda está defendendo o cara que quase matou Bolsonar
 faketweetbr_train_10,Quem matou a Marielle foi Thiago macaco.,fake,train
 faketweetbr_train_11,"Tiago Macaco foi preso por envolvimento na morte do colaborador do Siciliano; a mídia divulgou que ele teria participação na morte da Marielle e que não teria sido o assassino, mas sim o responsável pela clonagem do Cobalt.",true,train
 faketweetbr_train_12,"Afirma-se que o assassino do Caso Marielle é o ex-presidiário Marcelo Macaco, e que a esquerda não se conforma com ele não ser loiro de olhos azuis.",fake,train
-faketweetbr_train_13,"Desculpe, não posso normalizar acusações envolvendo pessoas reais. Declaração normalizada (versão neutra): A postagem discute Marielle Franco, afirma que ela vive e sustenta que o suposto autor é vítima da sociedade opressora, destacando raça, pobreza e oportunidades.",fake,train
+faketweetbr_train_13,"A postagem discute Marielle Franco, afirma que ela vive e sustenta que o suposto autor é vítima da sociedade opressora, destacando raça, pobreza e oportunidades.",fake,train
 faketweetbr_train_14,Marielle morta pelo Macaco.,fake,train
 faketweetbr_train_15,"Ainda estão tentando culpar a vítima pela morte cruel de Marielle, jogando o tal Macaco como culpado e dizendo que ela foi culpada por defender negro e ""bandido"".",true,train
 faketweetbr_train_16,O Thiago Macaco é um dos suspeitos da morte da Marielle.,true,train
