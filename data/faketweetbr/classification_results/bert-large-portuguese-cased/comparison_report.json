@@ -1,0 +1,254 @@
+{
+    "dataset_name": "faketweetbr",
+    "model_name": "bert-large-portuguese-cased",
+    "correct_after_claim_extraction_gpt-5-nano_prediction": {
+        "total": 1,
+        "occurrences": [
+            {
+                "custom_id": "faketweetbr_test_23",
+                "original_label": "true",
+                "original_prediction": "fake",
+                "claim_extraction_gpt-5-nano_prediction": "true",
+                "claim_extraction_gpt-5_prediction": "true",
+                "claim_normalization_gpt-5-nano_prediction": "true",
+                "claim_normalization_gpt-5_prediction": "true",
+                "original_text": "Protestavam contra a impunidade da Vale no caso Brumadinho e em nome da Marielle (hj faz 1 ano q ela foi assassinada e as investiga\u00e7\u00f5es ainda n\u00e3o acabaram)."
+            }
+        ]
+    },
+    "incorrect_after_claim_extraction_gpt-5-nano_prediction": {
+        "total": 3,
+        "occurrences": [
+            {
+                "custom_id": "faketweetbr_test_15",
+                "original_label": "true",
+                "original_prediction": "true",
+                "claim_extraction_gpt-5-nano_prediction": "fake",
+                "claim_extraction_gpt-5_prediction": "true",
+                "claim_normalization_gpt-5-nano_prediction": "true",
+                "claim_normalization_gpt-5_prediction": "true",
+                "original_text": "foi preciso a abin se pronunciar a respeito de fake news onde alegava que a trag\u00e9dia de brumadinho foi devido a ataque terrorista cubano / venezuelano o brasileiro t\u00e1 vivendo uma realidade paralela meio as tr\u00eas espi\u00e3s demais, sabe?"
+            },
+            {
+                "custom_id": "faketweetbr_test_19",
+                "original_label": "true",
+                "original_prediction": "true",
+                "claim_extraction_gpt-5-nano_prediction": "fake",
+                "claim_extraction_gpt-5_prediction": "true",
+                "claim_normalization_gpt-5-nano_prediction": "true",
+                "claim_normalization_gpt-5_prediction": "true",
+                "original_text": "Um dos sites anti-hoax desmentiu o boato de que o MST teria roubado v\u00edtimas do crime ambiental em Brumadinho . \u00c9 muito mais f\u00e1cil o MST ter AJUDADO as v\u00edtimas com doa\u00e7\u00f5es de produtos agr\u00edcolas do que ter roubado. Quem roubou foi a Vale privatizada."
+            },
+            {
+                "custom_id": "faketweetbr_test_28",
+                "original_label": "fake",
+                "original_prediction": "fake",
+                "claim_extraction_gpt-5-nano_prediction": "true",
+                "claim_extraction_gpt-5_prediction": "true",
+                "claim_normalization_gpt-5-nano_prediction": "fake",
+                "claim_normalization_gpt-5_prediction": "true",
+                "original_text": "A Damares , ministra dos direitos humanos\" disse q a Lei Maria da Penha \u00e9 uma lei do diabo porque a B\u00edblia diz q o var\u00e3o tem direito de \"corrigir\" sua mulher. O ministro Onix Lorenzoni disse q mulheres preferem armas a Lei Maria da Penha . \u00c9 isso mesmo? Com a palavra as mulheres.\""
+            }
+        ]
+    },
+    "correct_after_claim_extraction_gpt-5_prediction": {
+        "total": 3,
+        "occurrences": [
+            {
+                "custom_id": "faketweetbr_test_6",
+                "original_label": "true",
+                "original_prediction": "fake",
+                "claim_extraction_gpt-5-nano_prediction": "fake",
+                "claim_extraction_gpt-5_prediction": "true",
+                "claim_normalization_gpt-5-nano_prediction": "fake",
+                "claim_normalization_gpt-5_prediction": "true",
+                "original_text": "Bolsonaro almo\u00e7a pela primeira vez no bandej\u00e3o dos funcion\u00e1rios do Pal\u00e1c... https:// youtu.be/Y8wdBwKn1Z0 via @YouTube"
+            },
+            {
+                "custom_id": "faketweetbr_test_7",
+                "original_label": "true",
+                "original_prediction": "fake",
+                "claim_extraction_gpt-5-nano_prediction": "fake",
+                "claim_extraction_gpt-5_prediction": "true",
+                "claim_normalization_gpt-5-nano_prediction": "fake",
+                "claim_normalization_gpt-5_prediction": "fake",
+                "original_text": "Bolsonaro \u00e9 o primeiro chefe do Executivo a almo\u00e7ar no bandej\u00e3o da presid\u00eancia. Ele prometeu voltar ao restaurante uma vez por m\u00eas. https://www. tvcidadenews.com.br/2019/04/bolson aro-faz-historia-ao-almocar-no.html \u2026"
+            },
+            {
+                "custom_id": "faketweetbr_test_23",
+                "original_label": "true",
+                "original_prediction": "fake",
+                "claim_extraction_gpt-5-nano_prediction": "true",
+                "claim_extraction_gpt-5_prediction": "true",
+                "claim_normalization_gpt-5-nano_prediction": "true",
+                "claim_normalization_gpt-5_prediction": "true",
+                "original_text": "Protestavam contra a impunidade da Vale no caso Brumadinho e em nome da Marielle (hj faz 1 ano q ela foi assassinada e as investiga\u00e7\u00f5es ainda n\u00e3o acabaram)."
+            }
+        ]
+    },
+    "incorrect_after_claim_extraction_gpt-5_prediction": {
+        "total": 6,
+        "occurrences": [
+            {
+                "custom_id": "faketweetbr_test_24",
+                "original_label": "fake",
+                "original_prediction": "fake",
+                "claim_extraction_gpt-5-nano_prediction": "fake",
+                "claim_extraction_gpt-5_prediction": "true",
+                "claim_normalization_gpt-5-nano_prediction": "fake",
+                "claim_normalization_gpt-5_prediction": "true",
+                "original_text": "N\u00e3o muda nada! A pr\u00f3pria Gleisi Hoffman, n\u00e3o passa de uma grande, mas muito grande fake. Falar mal de Senna , n\u00e3o, mas elogiar Maduro e a ditadura na Venezuela, sim, isso \u00e9 fato!"
+            },
+            {
+                "custom_id": "faketweetbr_test_28",
+                "original_label": "fake",
+                "original_prediction": "fake",
+                "claim_extraction_gpt-5-nano_prediction": "true",
+                "claim_extraction_gpt-5_prediction": "true",
+                "claim_normalization_gpt-5-nano_prediction": "fake",
+                "claim_normalization_gpt-5_prediction": "true",
+                "original_text": "A Damares , ministra dos direitos humanos\" disse q a Lei Maria da Penha \u00e9 uma lei do diabo porque a B\u00edblia diz q o var\u00e3o tem direito de \"corrigir\" sua mulher. O ministro Onix Lorenzoni disse q mulheres preferem armas a Lei Maria da Penha . \u00c9 isso mesmo? Com a palavra as mulheres.\""
+            },
+            {
+                "custom_id": "faketweetbr_test_35",
+                "original_label": "fake",
+                "original_prediction": "fake",
+                "claim_extraction_gpt-5-nano_prediction": "fake",
+                "claim_extraction_gpt-5_prediction": "true",
+                "claim_normalization_gpt-5-nano_prediction": "fake",
+                "claim_normalization_gpt-5_prediction": "fake",
+                "original_text": "Governo DILMA / TEMER pagou R$ 73 milh\u00f5es a sal\u00e3o de beleza no agreste de Pernambuco https://www. ricardoantunes.com.br/noticias/2297/ governo-pagou-r-73-milhoes-a-salao-de-beleza-no-agreste-de-pernambuco \u2026"
+            },
+            {
+                "custom_id": "faketweetbr_test_43",
+                "original_label": "fake",
+                "original_prediction": "fake",
+                "claim_extraction_gpt-5-nano_prediction": "fake",
+                "claim_extraction_gpt-5_prediction": "true",
+                "claim_normalization_gpt-5-nano_prediction": "true",
+                "claim_normalization_gpt-5_prediction": "fake",
+                "original_text": "Esclarecendo para muitos que n\u00e3o entenderam o motivo do comercial do Banco do Brasil ser vetado por Bolsonaro . O problema n\u00e3o era o tema e sim que um v\u00eddeo de 17 segundos iria custar r$ 17 milh\u00f5es, dinheiro p\u00fablico! Acho que n\u00e3o \u00e9 necess\u00e1rio... https:// mblnews.org/noticia/bolson aro-responde-e-burger-king-sofre-boicote-nas-redes-sociais/ \u2026"
+            },
+            {
+                "custom_id": "faketweetbr_test_44",
+                "original_label": "true",
+                "original_prediction": "true",
+                "claim_extraction_gpt-5-nano_prediction": "true",
+                "claim_extraction_gpt-5_prediction": "fake",
+                "claim_normalization_gpt-5-nano_prediction": "true",
+                "claim_normalization_gpt-5_prediction": "true",
+                "original_text": "Instituto Nise da Silveira ser\u00e1 fechado pelo prefeito do Rio de Janeiro, Marcelo Crivella? Na verdade, N\u00c3O \u00c9 BEM ASSIM! Entenda lendo este artigo de checagem de fatos: https://www. boatos.org/brasil/institu to-nise-silveira-fechado.html \u2026 #Sa\u00fadeP\u00fablica\u00c9CoisaS\u00e9ria pic.twitter.com/si38JGcG1P"
+            },
+            {
+                "custom_id": "faketweetbr_test_45",
+                "original_label": "fake",
+                "original_prediction": "fake",
+                "claim_extraction_gpt-5-nano_prediction": "fake",
+                "claim_extraction_gpt-5_prediction": "true",
+                "claim_normalization_gpt-5-nano_prediction": "fake",
+                "claim_normalization_gpt-5_prediction": "fake",
+                "original_text": "Marcelo Tas que defendeu o prefeito de Nova York (acusado por estupro , corrup\u00e7\u00e3o e lavagem de dinheiro) vai dizer o qu\u00ea?"
+            }
+        ]
+    },
+    "correct_after_claim_normalization_gpt-5-nano_prediction": {
+        "total": 1,
+        "occurrences": [
+            {
+                "custom_id": "faketweetbr_test_23",
+                "original_label": "true",
+                "original_prediction": "fake",
+                "claim_extraction_gpt-5-nano_prediction": "true",
+                "claim_extraction_gpt-5_prediction": "true",
+                "claim_normalization_gpt-5-nano_prediction": "true",
+                "claim_normalization_gpt-5_prediction": "true",
+                "original_text": "Protestavam contra a impunidade da Vale no caso Brumadinho e em nome da Marielle (hj faz 1 ano q ela foi assassinada e as investiga\u00e7\u00f5es ainda n\u00e3o acabaram)."
+            }
+        ]
+    },
+    "incorrect_after_claim_normalization_gpt-5-nano_prediction": {
+        "total": 1,
+        "occurrences": [
+            {
+                "custom_id": "faketweetbr_test_43",
+                "original_label": "fake",
+                "original_prediction": "fake",
+                "claim_extraction_gpt-5-nano_prediction": "fake",
+                "claim_extraction_gpt-5_prediction": "true",
+                "claim_normalization_gpt-5-nano_prediction": "true",
+                "claim_normalization_gpt-5_prediction": "fake",
+                "original_text": "Esclarecendo para muitos que n\u00e3o entenderam o motivo do comercial do Banco do Brasil ser vetado por Bolsonaro . O problema n\u00e3o era o tema e sim que um v\u00eddeo de 17 segundos iria custar r$ 17 milh\u00f5es, dinheiro p\u00fablico! Acho que n\u00e3o \u00e9 necess\u00e1rio... https:// mblnews.org/noticia/bolson aro-responde-e-burger-king-sofre-boicote-nas-redes-sociais/ \u2026"
+            }
+        ]
+    },
+    "correct_after_claim_normalization_gpt-5_prediction": {
+        "total": 3,
+        "occurrences": [
+            {
+                "custom_id": "faketweetbr_test_6",
+                "original_label": "true",
+                "original_prediction": "fake",
+                "claim_extraction_gpt-5-nano_prediction": "fake",
+                "claim_extraction_gpt-5_prediction": "true",
+                "claim_normalization_gpt-5-nano_prediction": "fake",
+                "claim_normalization_gpt-5_prediction": "true",
+                "original_text": "Bolsonaro almo\u00e7a pela primeira vez no bandej\u00e3o dos funcion\u00e1rios do Pal\u00e1c... https:// youtu.be/Y8wdBwKn1Z0 via @YouTube"
+            },
+            {
+                "custom_id": "faketweetbr_test_23",
+                "original_label": "true",
+                "original_prediction": "fake",
+                "claim_extraction_gpt-5-nano_prediction": "true",
+                "claim_extraction_gpt-5_prediction": "true",
+                "claim_normalization_gpt-5-nano_prediction": "true",
+                "claim_normalization_gpt-5_prediction": "true",
+                "original_text": "Protestavam contra a impunidade da Vale no caso Brumadinho e em nome da Marielle (hj faz 1 ano q ela foi assassinada e as investiga\u00e7\u00f5es ainda n\u00e3o acabaram)."
+            },
+            {
+                "custom_id": "faketweetbr_test_32",
+                "original_label": "true",
+                "original_prediction": "fake",
+                "claim_extraction_gpt-5-nano_prediction": "fake",
+                "claim_extraction_gpt-5_prediction": "fake",
+                "claim_normalization_gpt-5-nano_prediction": "fake",
+                "claim_normalization_gpt-5_prediction": "true",
+                "original_text": "DIZEM QUE ISRAEL DOOU 15 HELIC\u00d3PTEROS PRA O BRASIL DURANTE A VISITA DE BOLSONARO A ISRAEL . Mentiras descabidas. https://www. boatos.org/brasil/israel- doou-helicopteros-guerra-brasil.html \u2026 ."
+            }
+        ]
+    },
+    "incorrect_after_claim_normalization_gpt-5_prediction": {
+        "total": 3,
+        "occurrences": [
+            {
+                "custom_id": "faketweetbr_test_24",
+                "original_label": "fake",
+                "original_prediction": "fake",
+                "claim_extraction_gpt-5-nano_prediction": "fake",
+                "claim_extraction_gpt-5_prediction": "true",
+                "claim_normalization_gpt-5-nano_prediction": "fake",
+                "claim_normalization_gpt-5_prediction": "true",
+                "original_text": "N\u00e3o muda nada! A pr\u00f3pria Gleisi Hoffman, n\u00e3o passa de uma grande, mas muito grande fake. Falar mal de Senna , n\u00e3o, mas elogiar Maduro e a ditadura na Venezuela, sim, isso \u00e9 fato!"
+            },
+            {
+                "custom_id": "faketweetbr_test_28",
+                "original_label": "fake",
+                "original_prediction": "fake",
+                "claim_extraction_gpt-5-nano_prediction": "true",
+                "claim_extraction_gpt-5_prediction": "true",
+                "claim_normalization_gpt-5-nano_prediction": "fake",
+                "claim_normalization_gpt-5_prediction": "true",
+                "original_text": "A Damares , ministra dos direitos humanos\" disse q a Lei Maria da Penha \u00e9 uma lei do diabo porque a B\u00edblia diz q o var\u00e3o tem direito de \"corrigir\" sua mulher. O ministro Onix Lorenzoni disse q mulheres preferem armas a Lei Maria da Penha . \u00c9 isso mesmo? Com a palavra as mulheres.\""
+            },
+            {
+                "custom_id": "faketweetbr_test_41",
+                "original_label": "fake",
+                "original_prediction": "fake",
+                "claim_extraction_gpt-5-nano_prediction": "fake",
+                "claim_extraction_gpt-5_prediction": "fake",
+                "claim_normalization_gpt-5-nano_prediction": "fake",
+                "claim_normalization_gpt-5_prediction": "true",
+                "original_text": "Gente, houve um repasse da conta de Jean Wyllys para a conta de Ad\u00e9lio Bispo de R$ 50.000,00. Uma semana antes do atentado, Ad\u00e9lio estava no gabinete de Maria do Ros\u00e1rio. Os mandantes foram Jean Wyllys \u00e9 Maria do Ros\u00e1rio."
+            }
+        ]
+    }
+}
