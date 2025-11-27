@@ -1,0 +1,46 @@
+custom_id,text,classificacao,source
+faketweetbr_validation_1,"O verdadeiro assassino de Marielle não é aqueles acusados, senão um elemento de codinome 'Macaco'; ou seja, não colou a relação Bolsonaro x Marielle.",fake,train
+faketweetbr_validation_2,"Pergunta quem mandou, afirma que desde sempre se soube da ligação entre o tráfico e as milícias, e que a notícia do Thiago Macaco já é antiga.",true,train
+faketweetbr_validation_3,"Thiago Macaco, homem negro, pobre e ligado ao tráfico, matou Marielle.",fake,train
+faketweetbr_validation_4,"Investigação aponta Thiago Macaco (negro, de origem pobre e ligado ao tráfico) como provável assassino de Marielle, contrariando as ilações de PSOL e Marcelo Freixo de que o assassino seria um homem branco, da PM e homofóbico; a esquerda mente e silencia.",fake,train
+faketweetbr_validation_5,"Polícia prende Thiago Macaco, suspeito de envolvimento com milícia de Jacarepaguá e citado por delator do caso Marielle.",fake,train
+faketweetbr_validation_6,"Foto antiga está sendo usada para alegar uma falsa reunião entre o casal Kirchner, Dilma e Pablo Escobar.",true,train
+faketweetbr_validation_7,Essa foto da Dilma com Pablo Escobar não é Dilma e o cara não é Pablo Escobar; Os cara disseminam de tudo.,true,train
+faketweetbr_validation_8,"A foto de Dilma com Pablo Escobar é uma evolução em relação aquela com Hitley, pelo menos eles estavam vivos na mesma época.",true,train
+faketweetbr_validation_9,"Não se deve misturar crianças em necessidade com disputa eleitoral; a postagem critica quem comentou o caso do Criança Esperança por causa de um apresentador que disse que Jesus era travesti, dizendo que os necessitados sofrerão por causa de idiotas.",fake,train
+faketweetbr_validation_10,Chama para boicotar a Criança Esperança e afirma que o idiota que xingou Jesus de travesti será atração do programa.,fake,train
+faketweetbr_validation_11,A invasão de Brumadinho pelo MST é em busca de alguma boquinha...(indenização).,fake,train
+faketweetbr_validation_12,Oportunistas do MST em Brumadinho são questionados pelos reais moradores.,fake,train
+faketweetbr_validation_13,"MST é descrito como carniceiro e terrorista, comparado a abutres que vivem de carniça.",fake,train
+faketweetbr_validation_14,MST invadiu Brumadinho para tumultuar o país.,fake,train
+faketweetbr_validation_15,MST são terroristas; invadiram Brumadinho para receber indenizações; teriam escritório nos EUA.,fake,train
+faketweetbr_validation_16,Manifestantes do MST estão confrontando e acuando os moradores de Brumadinho; invadiram a cidade.,fake,train
+faketweetbr_validation_17,"Os vermes MST e petistas invadem Brumadinho para ROUBAR o que é de direito das vítimas da tragédia da barragem, vêm de longe para ocupar as terras.",fake,train
+faketweetbr_validation_18,400 mulheres do MST Oficial e do Movimento Pela Soberania Popular na Mineração (MAM) bloquearam a passagem de um trem da Vale perto de Brumadinho.,true,train
+faketweetbr_validation_19,É falsa a mensagem atribuída a Gleisi Hoffmann desmerecendo Ayrton Senna.,true,train
+faketweetbr_validation_20,Fala atribuída a Gleisi sobre Ayrton Senna que circula nas redes sociais é falsa.,fake,train
+faketweetbr_validation_21,Pelé morreu.,fake,train
+faketweetbr_validation_22,Aluna da UFES recolhe vários pinos de cocaína usados no campus.,true,train
+faketweetbr_validation_23,Texto falso afirma que ministra Damares irá revogar a Lei Maria da Penha.,true,train
+faketweetbr_validation_24,Damares não revogará Lei Maria da Penha nem disse que texto é do diabo.,true,train
+faketweetbr_validation_25,Existe uma rachadura enorme na ponte Rio-Niterói.,fake,train
+faketweetbr_validation_26,"Afirma que você cancelou os 8 mil radares e que Marina Silva foi à Justiça, e houve liberação; pergunta como relacionar esses fatos.",fake,train
+faketweetbr_validation_27,O nome do ex-presidente @LulaOficial não está no ranking dos mais ricos do mundo elaborado pela revista Forbes em 2006.,true,train
+faketweetbr_validation_28,Israel enviou 15 helicópteros para as Forças Armadas brasileiras.,true,train
+faketweetbr_validation_29,A Globo e a esquerda pararam de falar na Marielle porque descobriram que o assassino e o mandante são de um partido puxadinho do PT.,fake,train
+faketweetbr_validation_30,É falso que Marina Silva entrou na Justiça para garantir a instalação de 8 mil radares.,true,train
+faketweetbr_validation_31,Israel doa 15 helicópteros AH 64 para o Brasil.,fake,train
+faketweetbr_validation_32,"Um site local anunciou a cura de uma paciente com câncer supostamente terminal por Aranto, uma planta medicinal, sem comprovação científica.",true,train
+faketweetbr_validation_33,"Uma montagem mostra um homem com camisa do Lula, dizendo que ele é o miliciano assassino da Marielle e infiltrado do PT.",true,train
+faketweetbr_validation_34,"Revista Forbes revela fortuna bilionária de Lula, um dos mais ricos do mundo.",fake,train
+faketweetbr_validation_35,É falso que Dilma Rousseff gastou R$ 73 milhões em salão de beleza.,true,train
+faketweetbr_validation_36,É falso que o Brasil comprou ou ganhou de Israel 15 helicópteros militares.,true,train
+faketweetbr_validation_37,Dilma gastaria 73 milhões de reais em salão de beleza.,fake,train
+faketweetbr_validation_38,O corte das verbas estatais de publicidade para o grupo Globo pelo jeito será fatal.,fake,train
+faketweetbr_validation_39,"O grande Brizola estaria aplaudindo, em seu túmulo, ao presidente Jair Messias Bolsonaro e ao general Mourão pelo corte das verbas para a Rede Globo.",fake,train
+faketweetbr_validation_40,"Jair Bolsonaro é apresentado como ""um homem, um mito, um fenômeno"", que começou sozinho e hoje tem mais de 58 milhões de apoiadores, sendo Personalidade do Ano e Top 100 da Time.",fake,train
+faketweetbr_validation_41,"O prefeito do Rio quer acabar com o Instituto Nise da Silveira, um trabalho pioneiro com reconhecimento internacional.",fake,test
+faketweetbr_validation_42,"Nando Moura caluniou o prefeito da Cidade de Nova York, alegando que não aceitou o Bozo lá e que o prefeito estaria envolvido em corrupção, estupro, entre outras mentiras.",true,test
+faketweetbr_validation_43,Navio da MSC joga sacos de lixo no mar.,fake,test
+faketweetbr_validation_44,"Pintura de Gustave Fraipont que supostamente previa o incêndio na Catedral de Paris em 1924 não é Notre Dame de Paris, é Notre Dame de Reims, e não é premonição, pois registra um incêndio que aconteceu na Primeira Guerra Mundial.",true,test
+faketweetbr_validation_45,"Essa pintura de Gustave Freipont, de 1924, se chama Premonicion, em Catedral De Notre Dame París Francia.",fake,test

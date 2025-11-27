@@ -1,0 +1,46 @@
+custom_id,text,classificacao,source
+faketweetbr_validation_1,o verdadeiro assassino de Marielle não é aqueles acusados senão um elemento de codinome  Macaco,fake,train
+faketweetbr_validation_2,Desde sempre se soube da ligação entre o tráfico e as milícias.,true,train
+faketweetbr_validation_3,"Thiago Macaco , homem negro, pobre e ligado ao tráfico",fake,train
+faketweetbr_validation_4,"a investigação chegou em Thiago Macaco que é negro, de origem pobre e ligado ao tráfico.",fake,train
+faketweetbr_validation_5,"Polícia prende Thiago Macaco , suspeito de envolvimento com milícia de Jacarepaguá e citado por delator do caso Marielle .",fake,train
+faketweetbr_validation_6,"Estadão: Foto antiga é usada para alegar falsa reunião entre casal Kirchner, Dilma e Pablo Escobar.",true,train
+faketweetbr_validation_7,não é Dilma e o cara não é Pablo Escobar.,true,train
+faketweetbr_validation_8,"A ~foto de Dilma com Pablo Escobar ~ é uma evolução em relação aquela com Hitley, pelo menos eles estavam vivos na mesma época",true,train
+faketweetbr_validation_9,o que as crianças com necessidade tem a ver com disputa eleitoral?,fake,train
+faketweetbr_validation_10,Boicote ao criança esperança,fake,train
+faketweetbr_validation_11,A invasão de Brumadinho pelo MST é em busca de alguma boquinha...(indenização).,fake,train
+faketweetbr_validation_12,Oportunistas do MST em Brumadinho . São questionados pelos reais moradores.,fake,train
+faketweetbr_validation_13,MST se tornou carniceiros como se ja não bastasse serem terroristas.,fake,train
+faketweetbr_validation_14,Esse MST só quer tumultuar o pais desde a década de 80!,fake,train
+faketweetbr_validation_15,"Terroristas, eis o que são.",fake,train
+faketweetbr_validation_16,manifestantes do MST estão confrontando e acuando os moradores de Brumadinho.,fake,train
+faketweetbr_validation_17,"Os vermes MST e petistas invadem Brumadinho para ROUBAR o quê é de direito das vítimas da tragédia da barragem Eles vêm de longe para ocupar as terras, temos que denunciar urgente.",fake,train
+faketweetbr_validation_18,Ontem 400 mulheres do @MST _Oficial e do Movimento Pela Soberania Popular na Mineração (MAM) bloquearam a passagem de um trem da Vale perto de #Brumadinho.,true,train
+faketweetbr_validation_19,É falsa mensagem atribuída a Gleisi Hoffmann desmerecendo Ayrton Senna.,true,train
+faketweetbr_validation_20,Fala de Gleisi sobre Ayrton Senna que circula nas redes sociais é falsa,fake,train
+faketweetbr_validation_21,Morreu Pelé !,fake,train
+faketweetbr_validation_22,Aluna da UFES recolhe vários pinos de cocaína usados no campus!,true,train
+faketweetbr_validation_23,Texto falso afirma que ministra Damares irá revogar a Lei Maria da Penha,true,train
+faketweetbr_validation_24,Damares não revogará Lei Maria da Penha nem disse que texto ‘é do diabo’,true,train
+faketweetbr_validation_25,Rachadura enorme em ponte Rio Niterói.,fake,train
+faketweetbr_validation_26,fiquei sabendo que você havia cancelado os 8 mil radares,fake,train
+faketweetbr_validation_27,O nome do ex-presidente @LulaOficial não está no ranking dos mais ricos do mundo elaborado pela revista Forbes em 2006.,true,train
+faketweetbr_validation_28,Israel havia do lado 15 helicópteros para as forças armadas brasileiras.,true,train
+faketweetbr_validation_29,descobriram que o assassino e o mandante são de um partido puxadinho do PT.,fake,train
+faketweetbr_validation_30,É falso que Marina Silva entrou na Justiça para garantir a instalação de 8 mil radares.,true,train
+faketweetbr_validation_31,Israel doa 15 helicópteros AH 64 para o Brasil,fake,train
+faketweetbr_validation_32,"a propagação da notícia, sem comprovação científica, é de uma irresponsabilidade bem grande.",true,train
+faketweetbr_validation_33,"um homem com camisa do Lula, dizendo que esse é o miliciano assassino da Marielle, que é um infiltrado do PT.",true,train
+faketweetbr_validation_34,Revista Forbes revela fortuna bilionária de Lula . Um dos mais ricos do mundo,fake,train
+faketweetbr_validation_35,É falso que Dilma Rousseff gastou R$ 73 milhões em salão de beleza.,true,train
+faketweetbr_validation_36,É falso que o Brasil comprou ou ganhou de Israel 15 helicópteros militares,true,train
+faketweetbr_validation_37,Dilma gastaria 73 MILHÕES DE REAIS em salão de beleza.,fake,train
+faketweetbr_validation_38,O corte das verbas estatais de publicidade para o grupo Globo pelo jeito será fatal...,fake,train
+faketweetbr_validation_39,"O grande Brizola deve estar aplaudindo, em seu túmulo, ao presidente Jair Messias Bolsonaro e ao general Mourão pelo corte das verbas para a Rede Globo.",fake,train
+faketweetbr_validation_40,Ele começou sozinho e agora têm mais 58 milhões de brasileiros ao seu lado !,fake,train
+faketweetbr_validation_41,"Como assim, o prefeito do Rio quer acabar com o Instituto Nise da Silveira.",fake,test
+faketweetbr_validation_42,Nando Moura estava caluniando o prefeito da Cidade de Nova York por ele não ter aceito o Bozo lá.,true,test
+faketweetbr_validation_43,Navio da MSC joga sacos de lixo no mar.,fake,test
+faketweetbr_validation_44,"Não é Notre Dame de Paris (é Notre Dame de Reims) e não é premonição, pois registra um incêndio que aconteceu na Primeira Guerra Mundial.",true,test
+faketweetbr_validation_45,"Essa pintura de Gustave Freipont, de 1924, se chama Premonicion",fake,test

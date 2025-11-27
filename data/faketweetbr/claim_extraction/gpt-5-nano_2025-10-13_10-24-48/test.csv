@@ -1,21 +1,46 @@
 custom_id,text,classificacao,source
-faketweetbr_test_0,"O problema não era o tema e sim que um vídeo de 17 segundos iria custar r$ 17 milhões, dinheiro público!",fake,test
-faketweetbr_test_1,o comercial vetado por Bolsonaro custou R$ 17 milhões.,fake,test
-faketweetbr_test_2,"O comercial de 30 segundos do Banco do Brasil , vetado pelo presidente Bolsonaro , custou aos cofres da nação R$ 17 milhões.",fake,test
-faketweetbr_test_3,"Comercial do Banco do Brasil é vetado por Bolsonaro e diretor é exonerado, diz colunista.",true,test
-faketweetbr_test_4,"Instituto Nise da Silveira será fechado pelo prefeito do Rio de Janeiro, Marcelo Crivella?",true,test
-faketweetbr_test_5,O Prefeito do Rio de Janeiro quer fechar o Instituto Nise da Silveira no dia 30 de abril!,fake,test
-faketweetbr_test_6,"Como assim, o prefeito do Rio quer acabar com o Instituto Nise da Silveira.",fake,test
-faketweetbr_test_7,Nando Moura estava caluniando o prefeito da Cidade de Nova York por ele não ter aceito o Bozo lá.,true,test
-faketweetbr_test_8,"Marcelo Tas que defendeu o prefeito de Nova York (acusado por estupro , corrupção e lavagem de dinheiro)",fake,test
-faketweetbr_test_9,criminosos estão usando indevidamente a marca Atacadão para espalhar golpe que promete cestas básicas grátis.,true,test
-faketweetbr_test_10,"O decreto 9.745/2019, citado como fonte, apenas estabelece a “regulação profissional” entre as 37 áreas de competência do @MinEconomia , ou seja, não acaba com a obrigatoriedade do exame.",true,test
-faketweetbr_test_11,Presidente Bolsonaro extinguiu obrigatoriedade de prova da OAB ou filiação para exercer a função.,fake,test
-faketweetbr_test_12,"É falsa a informação de que o governo editou um decreto que acaba com a obrigatoriedade da inscrição nos quadros da OAB para o exercício da advocacia, bem como a necessidade de realização do Exame de Ordem para tal registro.",true,test
-faketweetbr_test_13,"O DECRETO QUE ACABOU COM A OBRIGATORIEDADE DE ESTAR INSCRITO NOS CONSELHOS PROFISSIONAIS - OAB , CRM, CREA, CRP, CRF, ETC. DECRETO Nº 9.745, DE 8 DE ABRIL DE 2019",fake,test
-faketweetbr_test_14,Navio da MSC joga sacos de lixo no mar.,fake,test
-faketweetbr_test_15,"Flagra: Navio da MSC (Mediterranean Shipping Cruises), que partiu da Itália rumo ao Brasil, descarta seu lixo no mar",fake,test
-faketweetbr_test_16,Vídeo mostra navio MSC jogando lixo na Costa Brasileira,fake,test
-faketweetbr_test_17,O pintor Gustave Freipont teria previsto o incêndio da Catedral de Notre-Dame de Paris em sua pintura de 1942?,true,test
-faketweetbr_test_18,"Não é Notre Dame de Paris (é Notre Dame de Reims) e não é premonição, pois registra um incêndio que aconteceu na Primeira Guerra Mundial.",true,test
-faketweetbr_test_19,"Essa pintura de Gustave Freipont, de 1924, se chama Premonicion",fake,test
+faketweetbr_test_1,Thiago Macaco não é acusado pela polícia de assassinar Marielle.,true,train
+faketweetbr_test_2,Quem matou Marielle foi um traficante chamado Tiago Macaco.,fake,train
+faketweetbr_test_3,"Assassino de Marielle foi descoberto! É Thiago Macaco , preto, pobre e traficante",fake,train
+faketweetbr_test_4,O assassino da Marielle é um negro pobre e traficante com apelido de Macaco.,fake,train
+faketweetbr_test_5,o matador de Marielle Presente é um negro e é chamado de Macaco.,fake,train
+faketweetbr_test_6,Bolsonaro almoça pela primeira vez no bandejão dos funcionários do Palác...,true,train
+faketweetbr_test_7,Bolsonaro é o primeiro chefe do Executivo a almoçar no bandejão da presidência.,true,train
+faketweetbr_test_8,QUE DESRESPEITO COM A FAMÍLIA BRASILEIRA!,fake,train
+faketweetbr_test_9,o retardado do jhonny hooker (que chamou Jesus de bicha e travesti ) vai participar do criança esperança.,fake,train
+faketweetbr_test_10,"O CANTOR Johnny Hooker - PROSTITUTA em inglês , QUE XINGOU JESUS DE TRAVESTI , ESTARÁ NO CRIANÇA ESPERANÇA !",fake,train
+faketweetbr_test_11,Essa CARNIÇA chamou JESUS de travesti.,fake,train
+faketweetbr_test_12,Acabei de saber que o lixo gayzista que chamou Jesus de TRAVESTI ganhou um prêmio da ONU e foi convidado pra se apresentar no Criança Esperança da Globo.,fake,train
+faketweetbr_test_13,"O que tem de cristãos que irão doar no criança esperança da globo... Mesmo depois daquele cantorzinho dizer que JESUS é travesti , que JESUS é bicha...",fake,train
+faketweetbr_test_14,Cantor que chamou Jesus de travesti se apresentará no Criança Esperança,fake,train
+faketweetbr_test_15,que a tragédia de brumadinho foi devido a ataque terrorista cubano / venezuelano,true,train
+faketweetbr_test_16,É URGENTE que antecipemos a ida às ruas antes do dia 7 de abril !,fake,train
+faketweetbr_test_17,"JA DEU O SALVO CONDUTO PARA O LULA ,.O STF .VAI SOLTAR O LULA E MAIS 170 BANDIDOS DE ALTA PERICULOSIDADE",fake,train
+faketweetbr_test_18,MST tá lá em Brumadinho querendo lucrar.,fake,train
+faketweetbr_test_19,Quem roubou foi a Vale privatizada.,true,train
+faketweetbr_test_20,PT e seu braço armado o MST estão invadindo a já devastada Brumadinho.,fake,train
+faketweetbr_test_21,OS MST ESTA INVADINDO LA,fake,train
+faketweetbr_test_22,MST invadindo Brumadinho,fake,train
+faketweetbr_test_23,Protestavam contra a impunidade da Vale no caso Brumadinho e em nome da Marielle.,true,train
+faketweetbr_test_24,"A própria Gleisi Hoffman, não passa de uma grande, mas muito grande fake.",fake,train
+faketweetbr_test_25,Ela diz q Pt se baseia em Jesus e Lula se compara a Jesus,fake,train
+faketweetbr_test_26,"Praia vermelha, vizinha ao Morro da Urca virando praia de nudismo !! A intenção foi afrontAR os militares que têm uma unidade na praia Vermelha, esperando uma represália, para que houvesse…",fake,train
+faketweetbr_test_27,É #FAKE que Damares Alves defendeu revogação da Lei Maria da Penha,true,train
+faketweetbr_test_28,"""A Damares , ministra dos direitos humanos"" disse q a Lei Maria da Penha é uma lei do diabo porque a Bíblia diz q o varão tem direito de ""corrigir"" sua mulher. O ministro Onix Lorenzoni disse q mulheres preferem armas a Lei Maria da Penha.",fake,train
+faketweetbr_test_29,Bolsonaro conseguiu helicópteros do primeiro ministro de Israel para trazer ao Brasil para combater o crime nas favelas.,fake,train
+faketweetbr_test_30,"A Dilma gastou 73 milhões com um salão de beleza . Era para ela ficar parecida com a presidente da Croácia, no mínimo.",fake,train
+faketweetbr_test_31,A fortuna de Lula de acordo com a Forbes !,true,train
+faketweetbr_test_32,DIZEM QUE ISRAEL DOOU 15 HELICÓPTEROS PRA O BRASIL DURANTE A VISITA DE BOLSONARO A ISRAEL.,true,train
+faketweetbr_test_33,"ENQUANTO CUBA, VENEZUELA, ENTRE OUTROS NOS DÃO CALOTE, ISRAEL NOS DA HELICÓPTEROS !",fake,train
+faketweetbr_test_34,Esta planta cura vários tipos de câncer,fake,train
+faketweetbr_test_35,Governo DILMA / TEMER pagou R$ 73 milhões a salão de beleza no agreste de Pernambuco,fake,train
+faketweetbr_test_36,Israel doou 15 helicópteros AH-64!,fake,train
+faketweetbr_test_37,"Segundo a revista americana Forbes, o Lula tem um patrimônio de 2 bilhões de dólares.",fake,train
+faketweetbr_test_38,"Tropa de elite 3 em breve no rio de janeiro, o exército de Israel faz doação de helicópteros pra ajudar no policiamento ostensivo!",fake,train
+faketweetbr_test_39,"conheça o aranto , que é a planta que cura cancer",fake,train
+faketweetbr_test_40,É falso que Dilma gastou R$ 73 milhões em salão de beleza.,true,train
+faketweetbr_test_41,"Houve um repasse da conta de Jean Wyllys para a conta de Adélio Bispo de R$ 50.000,00.",fake,train
+faketweetbr_test_42,Circula nas redes sociais uma foto da capa da Time com o presidente eleito Jair Bolsonaro como personalidade do ano. A imagem é #FAKE.,true,train
+faketweetbr_test_43,"O problema não era o tema e sim que um vídeo de 17 segundos iria custar r$ 17 milhões, dinheiro público!",fake,test
+faketweetbr_test_44,"Instituto Nise da Silveira será fechado pelo prefeito do Rio de Janeiro, Marcelo Crivella?",true,test
+faketweetbr_test_45,"Marcelo Tas que defendeu o prefeito de Nova York (acusado por estupro , corrupção e lavagem de dinheiro)",fake,test

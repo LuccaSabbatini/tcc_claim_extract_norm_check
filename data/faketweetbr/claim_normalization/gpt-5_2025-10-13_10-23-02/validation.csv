@@ -1,0 +1,46 @@
+custom_id,text,classificacao,source
+faketweetbr_validation_1,"O verdadeiro assassino de Marielle é um elemento de codinome “Macaco”, e não os acusados; não colou a relação Bolsonaro x Marielle.",fake,train
+faketweetbr_validation_2,"Desde sempre se soube da ligação entre o tráfico e as milícias no caso Marielle, e a notícia do thiago macaco já é antiga.",true,train
+faketweetbr_validation_3,"Quem matou Marielle foi Thiago Macaco, homem negro, pobre e ligado ao tráfico.",fake,train
+faketweetbr_validation_4,"As ilações do PSOL e de Marcelo Freixo apontam o provável assassino de Marielle como um homem branco, da PM e homofóbico, mas a investigação chegou em Thiago Macaco, negro, de origem pobre e ligado ao tráfico; a esquerda mente e silencia.",fake,train
+faketweetbr_validation_5,"Polícia prende Thiago Macaco, suspeito de envolvimento com milícia de Jacarepaguá e citado por delator do caso Marielle.",fake,train
+faketweetbr_validation_6,"Foto antiga é usada para alegar falsa reunião entre casal Kirchner, Dilma e Pablo Escobar.",true,train
+faketweetbr_validation_7,A foto da Dilma com Pablo Escobar não mostra Dilma nem Pablo Escobar.,true,train
+faketweetbr_validation_8,"A foto de Dilma com Pablo Escobar é uma evolução em relação àquela com Hitler, pelo menos eles estavam vivos na mesma época.",true,train
+faketweetbr_validation_9,Crianças com necessidade não têm nada a ver com disputa eleitoral; atacar o Criança Esperança por causa de um apresentador que disse que Jesus era travesti é idiotice e faz os necessitados sofrerem.,fake,train
+faketweetbr_validation_10,Boicote ao Criança Esperança porque o idiota que xingou Jesus de travesti será atração do programa.,fake,train
+faketweetbr_validation_11,O MST invadiu Brumadinho em busca de boquinha (indenização).,fake,train
+faketweetbr_validation_12,Oportunistas do MST em Brumadinho são questionados pelos reais moradores.,fake,train
+faketweetbr_validation_13,O MST se tornou abutre/carniceiro e é terrorista.,fake,train
+faketweetbr_validation_14,O MST invadiu a cidade de Brumadinho.,fake,train
+faketweetbr_validation_15,"O MST tem escritório nos EUA, invadiu Brumadinho para também receber indenizações e é terrorista.",fake,train
+faketweetbr_validation_16,Manifestantes do MST invadiram Brumadinho e estão confrontando e acuando os moradores.,fake,train
+faketweetbr_validation_17,MST e petistas invadem Brumadinho para roubar o que é de direito das vítimas da tragédia da barragem e ocupar as terras.,fake,train
+faketweetbr_validation_18,400 mulheres do MST e do Movimento Pela Soberania Popular na Mineração (MAM) bloquearam a passagem de um trem da Vale perto de Brumadinho.,true,train
+faketweetbr_validation_19,É falsa a mensagem atribuída a Gleisi Hoffmann desmerecendo Ayrton Senna.,true,train
+faketweetbr_validation_20,É falsa a fala de Gleisi sobre Ayrton Senna que circula nas redes sociais.,fake,train
+faketweetbr_validation_21,Pelé morreu.,fake,train
+faketweetbr_validation_22,É fake news que aluna da UFES recolhe vários pinos de cocaína usados no campus.,true,train
+faketweetbr_validation_23,Ministra Damares irá revogar a Lei Maria da Penha.,true,train
+faketweetbr_validation_24,Damares não revogará a Lei Maria da Penha nem disse que o texto é “do diabo”.,true,train
+faketweetbr_validation_25,Há uma rachadura enorme na ponte Rio-Niterói?,fake,train
+faketweetbr_validation_26,"Bolsonaro cancelou os 8 mil radares, e Marina Silva foi à Justiça e conseguiu liberar.",fake,train
+faketweetbr_validation_27,É falso que o ex-presidente @LulaOficial tenha figurado no ranking dos mais ricos do mundo da Forbes em 2006.,true,train
+faketweetbr_validation_28,Israel doou 15 helicópteros para as forças armadas brasileiras.,true,train
+faketweetbr_validation_29,A Globo e a esquerda pararam de falar da Marielle porque descobriram que o assassino e o mandante são de um partido puxadinho do PT.,fake,train
+faketweetbr_validation_30,É falso que Marina Silva entrou na Justiça para garantir a instalação de 8 mil radares.,true,train
+faketweetbr_validation_31,Israel doa 15 helicópteros AH 64 para o Brasil graças ao empenho de Bolsonaro.,fake,train
+faketweetbr_validation_32,"É de uma irresponsabilidade bem grande propagar, sem comprovação científica, que Aranto curou uma paciente de câncer supostamente em estado terminal.",true,train
+faketweetbr_validation_33,Estão postando uma montagem dizendo que um homem com camisa do Lula é o miliciano assassino da Marielle e infiltrado do PT.,true,train
+faketweetbr_validation_34,A revista Forbes revela que Lula tem fortuna bilionária e é um dos mais ricos do mundo.,fake,train
+faketweetbr_validation_35,É falso que Dilma Rousseff gastou R$ 73 milhões em salão de beleza.,true,train
+faketweetbr_validation_36,O Brasil comprou ou ganhou de Israel 15 helicópteros militares.,true,train
+faketweetbr_validation_37,Dilma gastaria 73 milhões de reais em salão de beleza.,fake,train
+faketweetbr_validation_38,O corte das verbas estatais de publicidade para o grupo Globo pelo jeito será fatal.,fake,train
+faketweetbr_validation_39,O presidente Jair Messias Bolsonaro e o general Mourão cortaram verbas para a Rede Globo.,fake,train
+faketweetbr_validation_40,Jair Bolsonaro é personalidade do ano e top 100 da revista Time.,fake,train
+faketweetbr_validation_41,O prefeito do Rio quer acabar com o Instituto Nise da Silveira.,fake,test
+faketweetbr_validation_42,"Nando Moura caluniou o prefeito da Cidade de Nova York por ele não ter aceito o Bozo, dizendo a mentira de que o prefeito estaria envolvido em esquema de corrupção, estupro e outros.",true,test
+faketweetbr_validation_43,Vídeo mostra navio da MSC jogando sacos de lixo no mar.,fake,test
+faketweetbr_validation_44,A pintura de Gustave Fraipont não é de Notre Dame de Paris nem é premonição: é de Notre Dame de Reims e registra um incêndio da Primeira Guerra Mundial.,true,test
+faketweetbr_validation_45,"Essa pintura de Gustave Freipont, de 1924, se chama ""Premonicion"".",fake,test

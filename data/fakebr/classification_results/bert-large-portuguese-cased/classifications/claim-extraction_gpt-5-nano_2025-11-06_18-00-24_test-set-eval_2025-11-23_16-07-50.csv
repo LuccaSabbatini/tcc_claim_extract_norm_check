@@ -1,0 +1,720 @@
+custom_id,text,original_label,predicted_label
+fakebr_test_1,suspeito golpe milionario usava sobrenome delegado aplicar golpes,true,fake
+fakebr_test_2,corrupcao afeta vida pessoas,fake,true
+fakebr_test_3,unb preve demissao mil estagiarios partir dia abril,true,fake
+fakebr_test_4,"michel temer foi diagnosticado com infeccao urinaria, descobriu dilatacao prostata logo apos obstrucao uretra, sendo submetido a procedimento cirurgico de desobstrucao usando sonda, e sera medicado com altas doses de antibiotico ertapenem.",fake,fake
+fakebr_test_5,"Segurança pública está no centro do debate eleitoral, com presidenciáveis divergindo sobre medidas que vão desde a criação de ministérios e agências até intervenção no Rio de Janeiro pelas Forças Armadas.",true,true
+fakebr_test_6,"Anthea Ring foi encontrada abandonada aos nove meses de vida em Worthing, sul da Inglaterra; anos depois, investigações de genealogia genética revelaram que sua mãe biológica era Lena O'Donnell, do condado mayo, Irlanda, e seu pai biológico era Patrick Coyne, do condado galway, Irlanda.",true,true
+fakebr_test_7,Palocci diz que Moro pode revelar nomes das operações da Lava Jato.,true,true
+fakebr_test_8,disse apresentara outras denuncias contra temer,fake,true
+fakebr_test_9,"Julgamento da chapa pode resultar em condenação ou absolvição, com punições diferentes para Dilma Rousseff e Michel Temer, e pode levar à inegibilidade e a discussões sobre eleições diretas ou indiretas, dependendo da posição da maioria dos sete ministros do TSE.",true,true
+fakebr_test_10,"KCNA divulgou declaração informando que as declarações do senador prejudicaram a dignidade do país e dos EUA e que ato de guerra poderá ser declarado a qualquer momento, com consequências desastrosas.",fake,fake
+fakebr_test_11,dilma disse brasil vive golpe estado diferente aconteceu turquia,true,fake
+fakebr_test_12,nadella resolveu apostar proxima fronteira tecnologia queremos ser empresa vai democratizar inteligencia artificial,true,fake
+fakebr_test_13,christian figueiredo lida ego altos baixos youtube,true,true
+fakebr_test_14,coqueteis molotov lancados contra imovel porem fogo nao alastrou,fake,fake
+fakebr_test_15,manifestantes ja estao interditando varias rodovias brasil suposto protesto contra impeachment dilma rousseff,fake,fake
+fakebr_test_16,lula pode ter prisao decretada qualquer momento,fake,fake
+fakebr_test_17,"Justiça de São Paulo determinou que Roberta Luchsinger quite a dívida da loja de decoração antes de pensar em doar dinheiro a Lula, e ela afirmou que doaria cerca meio milhão de reais e dobraria a doação.",true,true
+fakebr_test_18,Relatório parcial enviado pela PF ao STF afirma que elementos reunidos no inquérito indicam prática de corrupção passiva pelo presidente Michel Temer.,true,true
+fakebr_test_19,ministerio publico investiga salarios pagos maranhao promotor diz vai apurar suspeita presidente interino camara recebia universidade estadual ja deputado suspeita presidente interino camara waldir maranhao atuou professor fantasma universidade estadual maranhao uema dois anos recebendo salarios forma irregular sera alvo investigacao ministerio publico maranhao caso tambem sera enviado conselho etica camara deputados maranhao,true,fake
+fakebr_test_20,movimentos contra lula comemoram voto relator paulista,true,true
+fakebr_test_21,Alvaro Dias defende fim do foro privilegiado.,fake,true
+fakebr_test_22,procuradores esperam aumento de delacoes e podem ampliar denuncias contra pt presidente michel temer,true,true
+fakebr_test_23,"Rússia e Irã condenaram o ataque dos EUA contra a Síria e pediram a saída de Assad, afirmando que as ações dos EUA violaram a lei internacional.",true,true
+fakebr_test_24,pf concluiu inquerito operacao acronimo indiciou oito pessoas fernando pimentel nao indiciado neste inquerito relatorio sera analisado stj,true,true
+fakebr_test_25,atriz rogeria morreu,true,fake
+fakebr_test_26,Ministério da Educação do Paraguai emitiu resolução proibindo a disseminação e uso de materiais referentes à ideologia de gênero nas escolas públicas.,fake,true
+fakebr_test_27,julgamento populista usou dinheiro publico ajudou afundar brasil,fake,fake
+fakebr_test_28,"MSC confirmou oficialmente que o navio Seaview, irmão gêmeo do Seaside, fará parte da temporada brasileira, com reservas já abertas, oferecendo itinerários a partir de Santos pelos roteiros do Sul e Nordeste do Brasil.",true,true
+fakebr_test_29,"Dilma depoe testemunha no processo decorrente da Operação Zelotes contra Lula e outras três pessoas; o Ministério Público Federal denunciou o filho de Lula e dois empresários por tráfico de influência, lavagem de dinheiro e organização criminosa, e não foram encontrados indícios de que Dilma tivesse conhecimento do suposto esquema.",true,true
+fakebr_test_30,janot denunciou michel temer no stf crime corrupcao passiva,true,fake
+fakebr_test_31,presidente stf pode mandar soltar lula caso preso,fake,fake
+fakebr_test_32,"Temer desistiu de levar comitiva para a base naval Restinga de Marambaia, Rio, onde passaria carnaval, reduzindo o número de integrantes para o mínimo indispensável.",true,true
+fakebr_test_33,"MC Tocha, primeiro representante do brega no carnaval da capital, gerou discussões sobre representatividade.",true,true
+fakebr_test_34,"Após torrar bilhões em emendas, o governo Temer anunciou corte de milhões para a Polícia Federal.",fake,true
+fakebr_test_35,"Polícia Federal encontrou R$ 9 milhões em dinheiro vivo em um apartamento em Salvador, de Lucio Vieira Lima (dono do apartamento, irmão de Geddel Vieira Lima), na investigação de propina, lavagem de dinheiro e associação criminosa, com impressões digitais de Geddel nas notas.",true,true
+fakebr_test_36,empresas dizem estao certas entao porque pagaram propinas fiscais,fake,fake
+fakebr_test_37,ciro gomes agride manifestantes bem mostrando truculencia,fake,fake
+fakebr_test_38,"Associações de juízes federais, procuradores e membros do Ministério Público repudiaram as ameaças ao ministro Edson Fachin, afirmando que as ameaças buscam intimidar o magistrado e defendendo a independência da magistratura, com apuração e punição dos responsáveis.",true,true
+fakebr_test_39,manifestacoes contrarias nao irao alterar absolutamente nada,fake,true
+fakebr_test_40,"O Pacto Vida falhou na redução de mortes em Pernambuco e precisa ser repactuado com prioridade para prevenção, investigações, governança e transparência de dados.",true,true
+fakebr_test_41,Governo federal poderia injetar aporte financeiro nas polícias de todo o território nacional; basta canetada.,fake,fake
+fakebr_test_42,"monica iozzi lembra episodios assedio, diz que mulheres vivem primavera momento retrocesso, e afirma ter sofrido assedio na epoca em que trabalhou como repórter em brasilia.",true,fake
+fakebr_test_43,doenca chamada mal panama causada fungo mortal detectado africa primeira vez ha cinco anos dizimar milhoes hectares plantacoes banana nao pode ser controlada quimicamente,true,true
+fakebr_test_44,swift atingido misseis vindos embarcacao guerra china misseis disparados,fake,fake
+fakebr_test_45,dilma continua zombando contribuinte brasileiro usando jatinho fab,fake,fake
+fakebr_test_46,apos receber pedido prisao lula sergio moro manda desocupar celas curitiba,fake,fake
+fakebr_test_47,marta suplicy cotada ministerio temer,true,fake
+fakebr_test_48,procurador espanhol pede julgamento neymar corrupcao,true,fake
+fakebr_test_49,Tenente Mayara Roberta Mieko Tanaka Moraes é a segunda mulher a ocupar a função de piloto no Grupamento Aéreo da Polícia Militar do Estado de São Paulo.,true,true
+fakebr_test_50,A sentença condenou Antonio Palocci a anos de cadeia.,fake,true
+fakebr_test_51,nao ha indicios serios contra cliente,fake,true
+fakebr_test_52,farta documentacao sentido acusacao ministerio publico lava jato desmonta argumentacao defesa lula continua investindo teoria faltam provas,true,true
+fakebr_test_53,"Há opções de lazer e cultura em Salvador durante o feriado prolongado, incluindo shows musicais, teatro, exposições e outras programações.",true,true
+fakebr_test_54,"A gravação de Juca sugere a existência de um pacto para obstruir a Operação Lava Jato, com quatro senadores do PSDB citados.",fake,fake
+fakebr_test_55,medico mouhamad mustafa apontado chefe organizacao criminosa desviou recursos sistema saude publica amazonas,true,true
+fakebr_test_56,propaganda partidaria veiculada anteontem televisao radio redes sociais pmdb partido diz gravacao conversa temer joesley divulgada prova justica mentira cinica deslavada,true,true
+fakebr_test_57,bruno borges diz arriscou vida integridade despertar sociedade adoecida,true,fake
+fakebr_test_58,jogo baleia azul nao existe oficialmente nao ha site coisa assim,true,fake
+fakebr_test_59,"Coreia do Sul reagiu lançando míssil balístico em resposta ao lançamento da Coreia do Norte, aumentando tensões.",fake,true
+fakebr_test_60,conselho etica senado decidiu arquivar definitivamente pedido cassacao senador aecio neves,true,true
+fakebr_test_61,Tribunal de Contas afirma que o Executivo continua impedido de sacar recursos do fundo previdenciário.,true,true
+fakebr_test_62,"Escrita expressiva sobre traumas parece influenciar o sistema imune e acelerar a cura de ferimentos, com efeito de curto prazo e resultados nem sempre consistentes.",true,true
+fakebr_test_63,"Quatro criancas morreram na creche janauba, minas gerais, apos um seguranca atear fogo nelas.",true,true
+fakebr_test_64,policia civil indicia homem induzimento suicidio estupro vulneravel,true,fake
+fakebr_test_65,governo dilma rousseff vai exonerar o comandante exercito sul general antonio mourao,fake,fake
+fakebr_test_66,senador delcidio amaral ofereceu r milhoes nao ser citado lava jato,fake,fake
+fakebr_test_67,"Projeto da biblioteca presidencial de Barack Obama, orçada em meio bilhão de dólares, será financiado por doações, gerando críticas sobre transparência e possível influência de doadores, e tramita no Congresso uma lei para obrigar fundações presidenciais a declararem doações.",true,true
+fakebr_test_68,massacre las vegas muitas perguntas sobre ato violencia brutal sobre multidao permanecem resposta poucos detalhes emergiram sobre atirador,true,true
+fakebr_test_69,missil coreia norte sobrevoa japao missil balistico quebrou tres partes caiu oceano pacifico segundo nhk autoridade japonesa diz lancamento representou ameaca,true,true
+fakebr_test_70,seguranca usando arma choque proteger tocha olimpica,fake,fake
+fakebr_test_71,"Sérgio Moro foi ovacionado durante um show no Teatro Guaira, Curitiba.",fake,fake
+fakebr_test_72,presidente michel temer ja discute nomes compor nova equipe governo cupula oposicao,fake,true
+fakebr_test_73,bilhoes reais jogados lixo pt refinaria petrobras pasadena eua virou sucata,fake,fake
+fakebr_test_74,petista invade inauguracao doria,fake,fake
+fakebr_test_75,governo repressor comunista usa exercito barrar entrada caminhoneiros,fake,fake
+fakebr_test_76,df quer enquadrar lei seguranca nacional manifestantes detidos.,true,fake
+fakebr_test_77,estudo confirma virus zika nao transmitido saliva baixas quantidades virais substancias antimicrobianas naturais textura viscosa dificultam infeccao zika meio contato saliva,true,true
+fakebr_test_78,pf diz uso algemas pes maos cabral garantir seguranca proprio preso,true,fake
+fakebr_test_79,receita federal apontou trata possivelmente empresa fachada,true,fake
+fakebr_test_80,juiz federal sergio moro condenou joao cerqueira santana filho e monica regina cunha moura por nove crimes lavagem dinheiro recebimento produto crime corrupcao no esquema corrupcao petrobras alvo operacao lava jato,true,true
+fakebr_test_81,"Gerson Almada afirmou que a Polícia Federal sabe de uma suposta conta em Madri, Espanha, administrada pelo lobista Milton Pascowitch, abastecida por propinas de contratos da Petrobras, supostamente beneficiando Lula e José Dirceu.",true,fake
+fakebr_test_82,Guillermo del toro é cineasta mexicano cuja forma agua venceu bafta globo ouro leao ouro veneza e agora aproxima oscar.,true,true
+fakebr_test_83,doria anunciou saida soninha secretaria assistencia desenvolvimento social sp vereadora eleita pps vai voltar camara municipal.,true,true
+fakebr_test_84,"Nos primeiros dias, os saques do FGTS geraram aumento nas vendas do varejo (celulares, TVs, móveis, material de construção), porém o movimento durou pouco e o impacto no PIB deverá ser modesto.",true,true
+fakebr_test_85,lula declarou hoje existe mistureba coordenada imprensa justica ministerio publico dizem bandido sera condenado,fake,fake
+fakebr_test_86,nega pedido defesa lula sobre documentos relativos sistema propina odebrecht,true,true
+fakebr_test_87,retrospectiva principais crimes violentos chocaram regiao ano,true,true
+fakebr_test_88,"A versão em quadrinhos do Diário de Anne Frank causou polêmica na escola de Vitória, com pais desaprovando a leitura por conteúdo ligado à sexualidade e a direção decidindo suspender a leitura para as turmas do ano.",true,true
+fakebr_test_89,"Drone sobrevoando Congonhas suspendeu pousos e decolagens por duas horas, causando transtornos aos passageiros e remanejamento de voos para outros aeroportos.",true,true
+fakebr_test_90,tenta usar postagens facebook livrar dilma afastamento,fake,fake
+fakebr_test_91,lucio funaro ira lancar bomba atomica sobre brasilia,fake,fake
+fakebr_test_92,"Alexandre Jose Silva, idoso com deficiência que não consegue caminhar há anos devido à atrofia das pernas, comemorou a ida ao cinema pela primeira vez, em Teresina, agora com cadeira de rodas recentemente obtida que tornou a locomoção mais fácil.",true,true
+fakebr_test_93,Coreia do Norte diz pronta para o maior teste nuclear da história e autoridades dos EUA confirmaram que Pyongyang está apenas aguardando a ordem do ditador Kim.,fake,true
+fakebr_test_94,governos fizeram petrobras perder valor mercado,fake,fake
+fakebr_test_95,acredita ser possivel reduzir metade violencia homicida anos mundo,true,true
+fakebr_test_96,incluiu relatorio comissao reforma politica artigo aprovado vai impedir partir eleicao prisao candidatos ate oito meses antes eleicao beneficio lula,true,true
+fakebr_test_97,presidente ser ungido voto popular nao vera livre acao legislativo apenas fato ter sido eleito voto popular,true,fake
+fakebr_test_98,Um mecanico chamado Anderson Alves Silva foi agredido por policial militar em Lagoa Prata; está em estado vegetativo segundo familiares; familiares realizaram campanha de arrecadar dinheiro para ajudar com os cuidados; o caso está sendo investigado pela policia civil e pela policia militar.,true,fake
+fakebr_test_99,Montamos roteiro cursos livres com inscricoes.,true,true
+fakebr_test_100,coreia norte divulga video simulando ataque casa branca,fake,fake
+fakebr_test_101,Wladimir Costa é acusado de assediar a jornalista Basília Rodrigues.,true,true
+fakebr_test_102,"Rafael Soares foi preso em flagrante após desferir facadas dentro do Hospital Martagão Gesteira, em Salvador, e é suspeito de ter estuprado a vítima, segundo o Ministério Público da Bahia.",true,true
+fakebr_test_103,gleisi usa tribuna defender sabatella esquece maridao denunciado corrupcao,fake,fake
+fakebr_test_104,artistas falam sobre vivencias transformam bh capital cultural,true,true
+fakebr_test_105,aecio passara ser oficialmente investigado,fake,fake
+fakebr_test_106,brasil vai implodir politicamente,fake,fake
+fakebr_test_107,Video delegado pf investigava lula confirma afastado diretor e que Eduardo Mauat e Luciano Flores sao responsaveis por inqueritos ligados a Lula.,fake,fake
+fakebr_test_108,Assassinato da vereadora Marielle Franco e do motorista Anderson Gomes.,true,true
+fakebr_test_109,"O governo, através de medida provisória, rasgou autoritariamente a constituição e alterou a lei de trânsito brasileira para proibir caminhoneiros de fazer mobilização patriótica.",fake,fake
+fakebr_test_110,STF negou o bloqueio de bens do senador Aécio Neves e de Andrea Neves.,true,true
+fakebr_test_111,entao preciso fazer reformulacoes permanentes sistema previdenciario,fake,true
+fakebr_test_112,anitta manda recado apos criticas sobre lucas,true,fake
+fakebr_test_113,o povo brasil nao precisa deputados,fake,fake
+fakebr_test_114,mg funcionario ateia fogo creche criancas morreram pessoas estao feridas,fake,fake
+fakebr_test_115,carta palocci pede desfiliacao pt,true,fake
+fakebr_test_116,renan compara temer dunga,fake,fake
+fakebr_test_117,"Juiz federal Francisco Eduardo Guimarães Farias aceitou integralmente a denúncia protocolada pelo Ministério Público Federal contra Eduardo Cunha, Henrique Eduardo Alves e demais envolvidos na operação Manus, desdobramento Lava Jato, apontando desvio de recursos públicos, lavagem de dinheiro e corrupção, envolvendo as construtoras OAS, Odebrecht e Carioca Engenharia.",true,true
+fakebr_test_118,lula preso vai aparecer,fake,fake
+fakebr_test_119,congresso aprovou ontem noite decreto autoriza intervencao federal seguranca publico rio janeiro,true,true
+fakebr_test_120,"Promotor de justiça defende jeito duvidoso de acabar excesso de jumentos, argumentando que o abate aumenta a potencialidade economica do animal, chegou a cogitar exportar cabeças de jumento para a China, mas a oferta foi baixa.",fake,fake
+fakebr_test_121,"Ministério Público pediu bloqueio de r milhoes de bens de Luiz Inácio Lula da Silva e de seu filho Luís Cláudio, no âmbito da operação Zelotes.",true,true
+fakebr_test_122,"Sergio Moro foi ovacionado pela plateia durante show Capital Inicial no Teatro Positivo, capital paranaense.",fake,fake
+fakebr_test_123,carmen lucia ja homologou delacoes,true,fake
+fakebr_test_124,nao ha crise poderes,fake,true
+fakebr_test_125,Ocupação militar iniciada sexta-feira evitou confrontos durante o fim de semana na Rocinha; a situação continua tensa e a operação deve continuar nos próximos dias.,true,true
+fakebr_test_126,"Alguns usuarios twitter descobriram um detalhe macabro no reflexo do espelho na foto do casal e passaram a compartilhar, com comentários variando entre montagem feita photoshop e bruxaria.",fake,fake
+fakebr_test_127,angelina jolie estaria sofrendo cancer anorexia paranoia,fake,fake
+fakebr_test_128,"Os algoritmos de relevância das redes sociais alimentam um poderoso sistema publicitário, seduzem usuários com conteúdos supostamente agradáveis e facilitam a disseminação de fake news, cabendo ao usuário a decisão de compartilhar.",true,true
+fakebr_test_129,ministro ricardo lewandowski determinou conceda habeas corpus revogando prisao cautelar integrante pcc,fake,true
+fakebr_test_130,As mensagens entregues por Marcelo Odebrecht no processo contra Lula são autênticas.,true,true
+fakebr_test_131,Lava Jato voltou; doleiro lucio funaro e eduardo cunha resolveu assinar acordo delacao premiada; depoimentos devem comecar proximos dias pretende citar presidente michel temer.,true,fake
+fakebr_test_132,celso mello mantem moreira franco foro privilegiado,true,true
+fakebr_test_133,"vai ocorrer em novembro, na unb df, um evento gratuito com oficinas, debates e mostra/exposição de artes com tela, reunindo nomes internacionais, incluindo o diretor museu arte contemporanea lyon franca.",true,true
+fakebr_test_134,Lula é chefe dessa organizacao criminosa.,fake,fake
+fakebr_test_135,quanto lava jato chegara delacao palocci pior marcelo odebretch porque entregaria inclusive alguns ministros stf,fake,fake
+fakebr_test_136,cni sugere jornada trabalho ate horas semanais,fake,fake
+fakebr_test_137,forcas armadas poderao assumir poder,fake,fake
+fakebr_test_138,pt usa metodos narcotrafico impoe toque recolher,fake,fake
+fakebr_test_139,cacas venezuela sao flagrados sobrevoando territorio brasileiro,fake,fake
+fakebr_test_140,"Mutirão de vacinação contra febre amarela em Mogi das Cruzes, com UBS e postos volantes, vai até este sábado com meta de vacinar cerca de mil pessoas.",true,true
+fakebr_test_141,audio senador renan calheiros conversando transpetro,fake,fake
+fakebr_test_142,"governo mg faz licitacao por grandes quantidades de carnes e pescados (inclui file mignon bacalhau robalo salmao atum) para abastecer palacios tiradentes liberdade mangabeiras e recepcoes de autoridades, com toneladas de carne e pescado suficientes para servir convidados diariamente durante todo o ano.",fake,fake
+fakebr_test_143,Fotógrafo oficial Lula tem salário maior que os ministros do STF.,fake,fake
+fakebr_test_144,PT deve passar processo refundacao mudando inclusive nome.,fake,true
+fakebr_test_145,"senadora pt fatima bezerra apresentou nesta semana projeto de lei que visa tecnologia carceragens brasileira, com instalacoes para detentos facam bom aproveito, estimulando a reeducacao e defendendo direitos humanos, liberdade de pensamento, expressao e igualdade",fake,fake
+fakebr_test_146,pt estao tentando dar golpe pais,fake,fake
+fakebr_test_147,coreia norte prepara lancar misseis intercontinentais,true,true
+fakebr_test_148,Votacao impeachment camara ontem camara representa derrota politica lula dilma sera afastada dias luiz inacio lula silva passa ser cidadao comum podera responder crimes cometidos,fake,fake
+fakebr_test_149,Mara Maravilha comenta sobre futura prisao do empresario Eike Batista.,fake,fake
+fakebr_test_150,tiroteio ohio eua universidade usa twitter alertar estudantes fujam escondam lutem universiade estadual ohio ohio state university eua alerta presenca atirador instalacoes osu causando panico estudantes conta twitter universidade pediu estudantes fugirem esconderem lutarem autoridades ja confirmaram sete pessoas estao feridas duas vitimas estaveis estado outras cinco ainda desconhecido acordo bombeiros ainda nao sabe identidade paradeiro atirador atiradores daily mail acabou informar u m suspeito morto nove pessoas estao feridas ainda nao ha confirmacao dessa noticia,fake,fake
+fakebr_test_151,rio new york times orienta atletas nadarem boca fechada,fake,fake
+fakebr_test_152,plano fuga volta ser cogitado caso sergio moro condene lula,fake,fake
+fakebr_test_153,tribunal eleitoral podera tomar medidas radicais contra lula bolsonaro,fake,fake
+fakebr_test_154,brasil hoje estados incluindo df estados pais ja tomado tropas nao convencionais ritmo evoluindo ate inicio todo territorio tomado militares sera bom,fake,fake
+fakebr_test_155,"cristina mautoni é acusada de integrar esquema de pagamento de propinas a agentes públicos para viabilizar medidas provisorias no governo federal durante governo lula, investigado pela operação zelotes.",fake,true
+fakebr_test_156,presidente michel temer admitiu pessoas proximas sabia visita doleiro lucio funaro.,fake,true
+fakebr_test_157,estudantes anarquistas ocupavam plenario camara municipal sp desde ultimo dia deixaram local inicio tarde hoje,fake,true
+fakebr_test_158,fhc sera amanha testemunha defesa lula,fake,fake
+fakebr_test_159,Nao ha golpe; o impeachment de Dilma Rousseff eh legal e constitucional.,true,true
+fakebr_test_160,porto diz objetivo grupo fazer deposicao total tres poderes nao defendemos intervencao militar sim intervencao popular,fake,fake
+fakebr_test_161,lava jato representa prova fogo stf area criminal contundente investigacao contra corrupcao pais,true,true
+fakebr_test_162,Palocci condenado lava jato anos prisao corrupcao lavagem dinheiro juiz sergio moro determinou confisco us milhoes proibiu exercer cargo funcao publica,true,fake
+fakebr_test_163,temer aecio renan calheiros citados na delação homologada.,fake,true
+fakebr_test_164,"Senadores gastaram parte da verba parlamentar com aviacao (fretamento, combustivel e passagens aereas), com gastos aumentando nos ultimos tres anos.",true,true
+fakebr_test_165,coreia norte diz missil testado capaz atingir eua alcance mil quilometros,true,true
+fakebr_test_166,exercito vermelho lula mst invade filial globo pratica atos vandalismo,fake,fake
+fakebr_test_167,familia mendes vendia gado,fake,fake
+fakebr_test_168,investigacao concluiu nao havia elementos suficientes contra brasileiro Luiz Loures recomendou arquivar o caso e ele deixara o cargo na unaids nao buscando renovacao do mandato,true,true
+fakebr_test_169,urgente baderneiros invadem nucleo educacao curitiba invadiram sede nucleo regional educacao curitiba informacao tv educativa invasores estao encapuzados estariam causando panico funcionarios pm tentando negociar liberacao local ate momento nao ha informacoes sobre prejuizos feridos,fake,fake
+fakebr_test_170,chile vai urnas eleger sucessor bachelet pinera favorito sebastian pinera lider alianca direita chile vamos aparece primeiro lugar pesquisas eleitorais inclusive possivel segundo turno,true,true
+fakebr_test_171,lavrov incentivou eua coreia north inscreverem plano proposto russia china forcara coreia north congelar testes misseis troca suspensao exercicios militares conjuntos realizados coreia sul eua duplo acordo ocorrer entao podemos sentar comecar desde inicio assinar documento ira enfatizar respeito soberania todas partes envolvidas incluindo coreia norte,fake,true
+fakebr_test_172,alta cupula judiciario pode estar delacoes investigados,fake,fake
+fakebr_test_173,Médica mineira debochou de paciente e foi demitida do hospital Santa Rosa após publicar imagem no Facebook tirando sarro do paciente.,fake,fake
+fakebr_test_174,PT torrando milhoes comprar deputados,fake,fake
+fakebr_test_175,agora precisamos apoio voces chegou momento,fake,fake
+fakebr_test_176,"O objetivo da Operação Aletheia é investigar Luiz Inácio Lula da Silva e, a partir de agora, ele pode ser denunciado criminalmente.",fake,true
+fakebr_test_177,Japao enviou hoje maior navio de guerra para escoltar frota liderada pelos EUA.,fake,fake
+fakebr_test_178,Lula recebeu intimacao mp depor e caso nao comparecer importara tomada medidas legais cabiveis inclusive conducao coercitiva.,fake,fake
+fakebr_test_179,governo quer aprovar reforma previdencia ainda neste ano,true,true
+fakebr_test_180,"Coreia do Norte lançou novo missil balistico nesta manha; o projétil alcancou altitude maior que as anteriores, sobrevoou a ilha japonesa hokkaido e caiu no mar do Japão bem perto do litoral, levando o Conselho de Segurança da ONU a agendar uma reuniao de emergencia para discutir o lancamento.",true,true
+fakebr_test_181,Operação investiga desvios verba publica rj; prendeu hoje pessoas e obrigou presidente alerj jorge picciani prestar depoimento.,true,true
+fakebr_test_182,pedaladas fiscais sao maior fraude ja vi vida,fake,true
+fakebr_test_183,dilma rousseff disse epoca improvavel impeachment,fake,fake
+fakebr_test_184,soldado mario kozel filho morreu cumprindo dever durante ataque terrorista contra o quartel general ii exercito sao paulo.,fake,true
+fakebr_test_185,duas novas delacoes confirmaram campanhas presidenciais luis inacio recursos provenientes caixa dois recursos financeiros nao contabilizados nao declarados repasses coordenados tesoureiros petistas; ambos depoimentos confirmaram que lula pediu dinheiro diretamente todo poderoso emilio odebrecht,fake,fake
+fakebr_test_186,associacao juizes federais brasil emitiu hoje nota apoio juiz sergio moro,fake,fake
+fakebr_test_187,"Advogado Jose Roberto Batochio, integrando a defesa de Lula, afirmou que a condenação em segunda instância é exagero, não há provas de que Lula tenha recebido dinheiro e a defesa vai impugnar a decisão por todos os meios legais, podendo recorrer diretamente ao Supremo.",true,true
+fakebr_test_188,nenhum americano saira vivo daqui,fake,fake
+fakebr_test_189,homens vao menos servicos saude porque trabalham,fake,true
+fakebr_test_190,Existem dicas de áreas promissoras e carreiras que são tendências para quem vai escolher um curso após o ENEM.,true,true
+fakebr_test_191,intocavel porque presidente senado homem poderoso politica brasileira,fake,fake
+fakebr_test_192,rede celular vai permitir velocidades gbps,true,fake
+fakebr_test_193,eurasia group aumentou chances impeachment presidente dilma rousseff,fake,fake
+fakebr_test_194,william waack foi afastado provisoriamente do jornal globo.,true,fake
+fakebr_test_195,dados levantados projeto mostram dificuldade investigacoes consequente lentidao processos expoem drama familias aguardam desfecho crimes,true,true
+fakebr_test_196,"Chico Buarque teve a primeira aparição na imprensa com uma foto da ficha policial feita durante a prisão; não relacionado ao trabalho, sim policial.",fake,fake
+fakebr_test_197,Messi ofereceu pagar multa adicional para evitar cumprir pena de prisão por fraude fiscal; o juiz vai definir se a sentença será suspensa.,true,true
+fakebr_test_198,aecio neves mostra verdadeira face senador mineiro mudou discurso passa repetir estrategias petistas ver livre acusacoes nao param chegar delacoes executivos odebrecht pt psdb sao duas faces mesma moeda,fake,fake
+fakebr_test_199,"Afirma que a frota americana, incluindo o USS Carl Vinson, estaria a caminho da península coreana para exercícios militares.",true,fake
+fakebr_test_200,Há suspeitas de que Mantega sabia operacao pf tentado esconder hospital albert einstein apos ser liberado ontem.,fake,fake
+fakebr_test_201,Oprah afirmou nao ter interesse candidatar presidencia estados unidos.,true,true
+fakebr_test_202,"Vara federal Brasília determinou, no último dia, a suspensão das atividades do Instituto Posto Ipiranga; Lula é acusado de obstruir investigações da Lava Jato.",fake,true
+fakebr_test_203,Coordenador alerta crescimento corrupcao sistemica brasil e diz que o povo precisa unir continuar exigindo prisao imediata politicos corruptos; delta dallagnol escreveu que o numero de parlamentares investigados aumenta e que a sociedade precisa ficar atenta quanto reacoes contra lavajato.,fake,fake
+fakebr_test_204,confira noticia baixada santista vale ribeira equipe preparou lista noticias marcantes,true,true
+fakebr_test_205,advogado Paulo Roberto Baeta Neves morreu em Brasília; a causa da morte ainda não confirmada.,fake,true
+fakebr_test_206,doria responde lula sobre casa,fake,fake
+fakebr_test_207,Silvio Santos voltou a ter câncer de pele.,fake,fake
+fakebr_test_208,maior vergonha tv brasileira ultimos tempos apresentadora fala palavrao,fake,fake
+fakebr_test_209,"Intolerância chegou às universidades brasileiras, com casos de bomba, ameaças, brigas e violência ligados à polarização política.",true,true
+fakebr_test_210,lula diz nao respeitara decisao justica,true,fake
+fakebr_test_211,"Vejo mercado gigantesco cosmeticos aqui; potencial de crescimento com novas empresas, produção local e exportação, apesar da legislacao tributaria nao ajudar.",true,true
+fakebr_test_212,diagnostico tdah so pode ser dado partir seis sette anos,true,true
+fakebr_test_213,juiza federal maria cristina luca barongeno vara civel sao paulo condenada anos meses prisao pagamento multa perda cargo corrupcao,fake,fake
+fakebr_test_214,federal joao pizzolatti pp causou acidente rodovia,fake,fake
+fakebr_test_215,ministro supremo federal stf luiz edson fachin mandou soltar rocha loures mediante uso tornozeleira eletronica,true,fake
+fakebr_test_216,janaina demonstra claramente famosa tatica assedio juridico,fake,fake
+fakebr_test_217,O bispo Antonio Carlos Cruz Santos afirmou que a homossexualidade é dom de Deus e que a orientação sexual não é escolha nem doença.,fake,true
+fakebr_test_218,nao havia outra intencao senao erotizar criancas,fake,fake
+fakebr_test_219,"O livro Fire and Fury Inside the Trump White House traz explosivas alegações sobre bastidores da campanha e do primeiro ano do governo Trump, que Trump considera difamatório e malicioso e já ameaçou processar a editora Henry Holt.",true,true
+fakebr_test_220,cardoso acusa moro divulgar conteudo conversas envolvendo presidenta republica colocando risco soberania nacional,fake,fake
+fakebr_test_221,policia federal pediu outubro prisao temporaria quebras sigilos telefonico bancario fiscal jose zunga alves lima ligado pt atual funcionario empresa telefonia oi instalou antena celular lado sito santa barbara atibaia frequentado luiz inacio lula silva alvo investigacoes operacao lava jato,true,fake
+fakebr_test_222,lula lidera cenarios eleicao presidencial,true,true
+fakebr_test_223,hackers coreia norte sao principais suspeitos ataque,fake,true
+fakebr_test_224,"Lindbergh diz Ronaldo Caiado sujo, envolvido corrupcao, envolvido carlinhos cachoeira.",fake,fake
+fakebr_test_225,ascensao robos pode ser grande acontecimento bem verdade,true,true
+fakebr_test_226,"Nova denúncia contra Temer apresentada pela PGR, desta vez crimes obstrucao justica organizacao criminosa.",true,true
+fakebr_test_227,Caixa mantém cinco dirigentes sob investigação por envolvimento em esquemas de corrupção.,true,true
+fakebr_test_228,teoria diz tancredo assassinado,fake,fake
+fakebr_test_229,tragedia anunciada,fake,fake
+fakebr_test_230,forcas federais vao reforcar seguranca cidade afirmou ministro defesa raul jungmann,true,true
+fakebr_test_231,Dormir pouco ou demais aumenta o risco de infarto e AVC.,fake,true
+fakebr_test_232,"Manifestantes participam de atos em Recife favor contra Lula, com vigília de apoio a Lula, e ato pede condenação de Lula.",true,true
+fakebr_test_233,Gloria Steinem é icone do feminismo e ativista pelos direitos humanos.,true,true
+fakebr_test_234,receita federal nao conseguiu vistoriar jatinho particular porque delegado pf plantao impediu vistoria,fake,fake
+fakebr_test_235,Assad afirmou que o suposto ataque armas quimicas ocorrido semana passada foi fabricado e não houve qualquer ordem do governo.,true,true
+fakebr_test_236,Urgente vandalos colocam fogo ministerio agricultura esplanada sendo evacuada.,fake,fake
+fakebr_test_237,"China propõe pacto EUA e Coreia do Norte para evitar colisão frontal, pedindo que Pyongyang suspenda testes armamentísticos em troca de Washington e Seul cessarem as manobras militares, para voltarem à mesa de negociações.",true,true
+fakebr_test_238,roberto miguel rey junior cirurgiao plastico apresentador brasileiro protagonistas reality show exibido estados unidos,fake,fake
+fakebr_test_239,"A marca de sabão em pó faz publicidade de gênero para crianças, e internautas desaprovam.",fake,fake
+fakebr_test_240,juiz federal sergio moro decidiu invalidar carta enviada defesa,fake,true
+fakebr_test_241,"coreia norte testou bomba hidrogenio, sexto teste nuclear.",true,true
+fakebr_test_242,conseguiram sincronizar audio video resultado fantastico,fake,fake
+fakebr_test_243,ha anos nostradamus previu vitoria donald trump,fake,fake
+fakebr_test_244,As últimas escolas anunciaram enredos para o carnaval e o sorteio da ordem dos desfiles foi realizado no sábado.,true,true
+fakebr_test_245,advogado joao santana informa marqueteiro agendou retorno imediato brasil,fake,fake
+fakebr_test_246,eduardo cunha recusado realizar cadeia exames comprobatorios confirmariam suposto aneurisma cerebral,fake,fake
+fakebr_test_247,numero mortes violentas espirito santo subiu dez apos sete dias e supera todo fevereiro segundo sindicato,true,true
+fakebr_test_248,lula disse adversarios pensavam trajetoria politica estaria acabada apos prisao palocci avaliacao petista conclusao errada pois lutara ate ultimas consequencias disputar eleicoes,true,true
+fakebr_test_249,dony nuccio assume bancada jornal hoje lado sandra annenberg proximas semanas substituira jornalista evaristo costa deixou telejornal nesta semana,true,true
+fakebr_test_250,psdb perdeu eleicao portanto entrada governo desrespeito decisao eleitor erro historico,true,true
+fakebr_test_251,"Procuradores mandaram recado curto grosso de que delcidio amaral pode revelar novas revelacoes que comprometeriam dilma lula, levando-o de volta pra cadeia imediatamente e ele perderia os beneficios previstos da delação premiada.",fake,fake
+fakebr_test_252,"Armas secretas Kim descobertas por satelites, incluindo bases testes subterraneas e instalacoes nucleares secretas, ameaca nuclear real.",fake,true
+fakebr_test_253,"Postagem afirma que o Congresso planeja PEC para anistiar todos os deputados e senadores e o atual presidente da República, incluindo eventuais crimes cometidos, também antecessores, com imunidade penal e prerrogativa de foro, para facilitar a situação de Lula e Dilma, com eleições indiretas para escolher Temer e convocar uma nova constituinte para reformar o sistema político.",fake,fake
+fakebr_test_254,Zika é uma ameaca global.,true,true
+fakebr_test_255,"Temer quer demitir o chefe da Polícia Federal e tirar a autonomia da PF ao colocar Torquato Jardim no comando do Ministério da Justiça, retomar influência sobre a PF e deixar a Lava Jato gravemente comprometida.",fake,true
+fakebr_test_256,onibus caravana lula parana sao atingidos tiros ninguem feriu policia vai investigar,true,fake
+fakebr_test_257,justica decreta prisao preventiva responsavel gerir recursos postalis bny mellon apontado responsavel operacoes geraram prejuizos fundo pensao correios,true,true
+fakebr_test_258,valdemiro santiago declarou demonio comendo figado pancreas rezende,fake,fake
+fakebr_test_259,Temer indicou Rodrigo Rocha Loures como intermediário; Loures recebeu propina (uma mala) de R$ mil e a devolveu após ser flagrado pelas câmeras; Ricardo Saud confirmou a entrega da mala; houve troca de favores com Joesley Batista.,fake,fake
+fakebr_test_260,hamas convoca nova intifada apos anuncio trump sobre jerusalem,true,fake
+fakebr_test_261,vinte seis chefes regionais de diferentes estados entregaram cargos hoje e pedem exoneração do ministro Fabiano Silveira.,fake,true
+fakebr_test_262,Aparente bondade ministro stf gilmar Mendes deixa solto mendes papai noel plantao tribunal superior eleitoral preside ate fevereiro dirige apenas politicos empresarios milionarios custa corrupcao uso recursos publicos contribuido omissao presidente carmen lucia nao sabe simpatia temer,true,fake
+fakebr_test_263,coreia do norte disparou outro missil que voou sobre hokkaido em direcao regiao nordeste japao,fake,true
+fakebr_test_264,Elon Musk enviou um carro ao espaço.,true,fake
+fakebr_test_265,fhc internado devera passar cirurgia cardiaca,fake,fake
+fakebr_test_266,temas ligados identidade sexual sao indispensaveis serao mantidos ate versao definitiva base nacional curricular,true,true
+fakebr_test_267,concluir usa afirma descobriu jbs fato construiu imperio carne atraves meios ilicitos entao todos ativos baseados eua pertencentes jbs devem ser imediatamente alienados,fake,fake
+fakebr_test_268,"Julgamento no TSE vai discutir validade depoimento de delatores para cassação do mandato do presidente Michel Temer, norteado pelo artigo da lei complementar que prevê juiz pode levar em consideração fatos ainda não narrados pelas partes, com debate sobre abrangência do artigo.",true,true
+fakebr_test_269,governo errou nao agir antes contra virus zika,fake,true
+fakebr_test_270,cunha cancelou viagem italia porque poderia ser preso exterior,fake,fake
+fakebr_test_271,Relator lava jato nega pedido lula ser ouvido e tribunal regional federal regiao nao vai ouvir luiz inacio lula silva antes julgamento.,true,true
+fakebr_test_272,engenheiro glaucos costamarques afirmou interrogatorio perante juiz federal sergio moro setembro nao recebeu alugueis apartamento edificio hill house sao bernardo campo sp ocupado lula,true,true
+fakebr_test_273,correto voltar ideia inicial exame menor focado avaliacao competencias nao conhecimentos,true,true
+fakebr_test_274,"Vereador Alvaro Teixeira PSB de Juru Paraíba foi mordido por cascavel, ficou internado cinco dias, tomou soros antiofidicos, recebeu alta pela manhã e disse ter matado o bicho com os próprios dentes, esmagando a cabeça da cascavel.",fake,fake
+fakebr_test_275,exercito tomar comando pais colocar ordem nesse chiqueiro ate proximas eleicoes,fake,fake
+fakebr_test_276,imunidade foro privilegiado deveriam valer afirmou deputado petista teixeira,true,fake
+fakebr_test_277,suposto video intimo participante circula whatsapp especulacoes,fake,fake
+fakebr_test_278,"Claudio Melo Filho, na delação premiada da Odebrecht, afirma que houve pagamentos diretos para a campanha de Renan Calheiros e para Romero Juca, com repasses de dinheiro vivo, realizados em reuniões, e Renan Calheiros afirmou que não houve irregularidades.",true,true
+fakebr_test_279,temer aecio tambem nega governo interfira assuntos psdb,true,true
+fakebr_test_280,ibuprofeno pode levar infertilidade masculina.,true,fake
+fakebr_test_281,advogados dizem que mensagens comprovam relacao odebrecht lula,true,true
+fakebr_test_282,Denúncias ocorridas durante campanha eleitoral sobre aeroporto claudio e supostos voos oficiais aecio realizava liberava amigos enquanto governador.,fake,true
+fakebr_test_283,lula alterou lei geral telecomunicacoes permitindo operadora telefonia comprasse concorrente brasil telecom beneficiou operadora,true,fake
+fakebr_test_284,coreia norte prometeu lancar ataque nuclear contra estados unidos caso unica bala disparada medida forcas americanas aproximam peninsula coreana,fake,fake
+fakebr_test_285,Stockholm Data Parks usa o calor residual gerado pelos centros de dados para aquecer casas na cidade de Estocolmo.,true,true
+fakebr_test_286,lula chama moro menino jovem mundo fantasia inventa mentiras faz montagens fantasiosas,fake,fake
+fakebr_test_287,"morador cuiabano inventou nova modalidade protesto ao tentar apagar a tocha olimpica com agua, quase conseguiu.",fake,fake
+fakebr_test_288,bandidos atacam viatura rotam parana comandada sargento fahur apos intensa troca tiros suspeitos fugiram nao localizados segundo policia individuos fazem parte quadrilha especializada roubos,fake,fake
+fakebr_test_289,temer aliados colecionam frases polemicas durante semana; algumas dessas frases repercutiram forma negativa principalmente redes sociais.,true,fake
+fakebr_test_290,tragedia anunciada jornalista alerta estadio corinthians pode desabar sobre avenida sp,fake,fake
+fakebr_test_291,Vale entregou mil litros agua mineral municipio de Valadares para consumo da população e constatou alto teor querosene.,fake,fake
+fakebr_test_292,coreia norte pronta atacar europa,fake,fake
+fakebr_test_293,silvio santos pretende candidatar presidencia brasil,fake,fake
+fakebr_test_294,comunidade internacional condena coreia norte teste bomba hidrogenio,true,fake
+fakebr_test_295,diplomata brasileiro diz estado socio faccoes parlamentares sao comprados crime ha conluio estado brasileiro organizacoes criminosas,fake,fake
+fakebr_test_296,lula comandava pessoalmente corrupcao petrobras,true,fake
+fakebr_test_297,dilma fala pensar turma mortadela,fake,fake
+fakebr_test_298,advogados lula apresentam contrato recibos originais imovel investigado lava jato,true,true
+fakebr_test_299,segundo ministerio publico federal construtora norberto odebrecht pagou propina lula via aquisicao imovel onde construida nova sede instituto lula sao paulo,true,true
+fakebr_test_300,"Políticos influentes do governo Temer teriam embolsado propina da Odebrecht, segundo delação premiada.",fake,true
+fakebr_test_301,pmdb principal culpado nao votacao pec fim foro,fake,true
+fakebr_test_302,"Ocidente perdeu aposta ao esperar que a China seguisse o modelo liberal; Xi Jinping concentra cada vez mais poder autoritário e a China cria um sistema próprio, não exportando o modelo ocidental.",true,true
+fakebr_test_303,apos crime centro espirita palestrante diz nao ha culpados,true,fake
+fakebr_test_304,sete membros conselho nacional politica criminal penitenciaria pediram desligamento nesta data,true,true
+fakebr_test_305,Existe uma segunda espécie que controla o mundo e o poder financeiro do planeta — Homo Capensis — segundo Karen Hudes.,fake,true
+fakebr_test_306,parlamentares petistas formalizaram documento pedindo abertura processo disciplinar contra juiz federal sergio moro,fake,fake
+fakebr_test_307,pf aponta indicios corrupcao passiva envolvendo ministros tcu e senadores no esquema para favorecer empreiteira utc nas obras usina angra.,true,fake
+fakebr_test_308,donald trump completa neste sabado primeiro ano mandato presidente estados unidos,true,true
+fakebr_test_309,Duas crianças foram baleadas dentro de casa em Maringá durante perseguição de criminosos; uma está internada em estado grave na UTI e a outra recebeu alta médica no domingo.,true,true
+fakebr_test_310,pessoas estao manifestando direito constitucional bater panela,fake,fake
+fakebr_test_311,jean wyllys dizendo vou cuspir cara bolsonaro,fake,fake
+fakebr_test_312,"O Conselho de Ética da Câmara arquivou dois processos contra Eduardo Bolsonaro movidos pelo PT, acusando o parlamentar de quebrar o decoro parlamentar ao cuspir em Jean Wyllys e de editar/publicar um vídeo na internet para prejudicar Jean Wyllys.",true,true
+fakebr_test_313,russia veta resolucao conselho seguranca onu pede investigacao sobre ataque quimico siria,true,true
+fakebr_test_314,bolsonaro representa extremo oposto valores liberais tanto termos economicos quanto comportamentais deveriam nortear nova fase partido,true,true
+fakebr_test_315,lula temer inocente janot nao provas,fake,fake
+fakebr_test_316,Criminalização do aborto não impede as mulheres de interromper a gravidez.,true,true
+fakebr_test_317,furacao irma sera maior catastrofe ja vista eua,fake,true
+fakebr_test_318,"Pastor Agenor Duque, dono igreja plenitude trono deus, aparece ao lado ferrari, tentando passar ideia pobreza humildade; video divulgado na internet mostrando agenor lado ferrari, agenor divulgou video internet dizendo tudo nao passa calunia difamacao",fake,fake
+fakebr_test_319,missil icbm coreia pode atingir havaii colocar milhao americanos risco,fake,fake
+fakebr_test_320,"Playlists do YouTube viraram um negócio lucrativo, com venda de posições em listas de clipes por artistas e empresas para aumentar visualizações e faturar.",true,true
+fakebr_test_321,viaduto nao recebia manutencao devida desabou deixar mortos feridos embaixo,true,fake
+fakebr_test_322,toninho motoboy bruce willis brasileiro escapou ileso acidente cinematografico,fake,fake
+fakebr_test_323,Temer ligou faustao apos receber criticas para explicar projeto educacao proposto governo temer; o projeto preve disciplina obrigatoria ate metade ensino medio dependendo discussoes camara federal.,fake,true
+fakebr_test_324,concordo algumas colocações sobre impostos politicos principalmente discordo quanto povo brasileiro grandes cidades existe sim nervosismo isolamento pessoas fato ser perigoso contato estranhos assim igualzinho grandes cidades interior pessoas sao cordiais receptivas ja varias oportunidades vivenciar,fake,true
+fakebr_test_325,motorista faz manobras estacionar renault clio vaga caberia onibus video viralizou,fake,fake
+fakebr_test_326,"Brasil ficou em terceiro lugar entre as nações avaliadas pela pesquisa internacional Perils of Perception (Ipsos Mori), com mexicanos liderando o ranking e indianos ficando em segundo.",fake,true
+fakebr_test_327,"Moro marcou novo depoimento do dono do apartamento alvo do processo contra Lula; o juiz também quer ouvir Costamarques e o contador joao muniz leite, com o objetivo de atestar a autenticidade dos recibos apresentados pela defesa; o mpf solicitou nova oitiva e o juiz ainda não determinou se será feita perícia.",true,true
+fakebr_test_328,novo ministro justica promete ordem pais atos guerrilha serao tratados crimes,fake,fake
+fakebr_test_329,autoritarismo pt fica evidente,fake,fake
+fakebr_test_330,forcas armadas seguirao apoliticas apartidarias levam alma jamais serao bolivarianas castrenses nao pensam tomar poder pretendem violar instituicoes regime democratico vivemos ainda pleno imperfeicoes,fake,true
+fakebr_test_331,tribunal regional federal regiao porto alegre negou nesta embargos declaracao luiz inacio lula silva recurso final defesa segunda instancia operacao lava jato resultado confirma decisao colegiada oitava turma corte condenou anos mes prisao devera levar lula ser considerado justica eleitoral impedindo candidate novamente presidencia republica pode candidatar negar recurso tambem abriu caminho inicio execucao prisao,true,true
+fakebr_test_332,"procurador mpf mauricio gotardo gerum criticou chamou tropa choque sustentacao durante julgamento recurso luiz inacio lula silva, disse ha provas sobre propriedade, rejeitou alegacoes defesa.",true,true
+fakebr_test_333,indiciamento lula oficializado hoje,fake,fake
+fakebr_test_334,Rússia irá ameaçar EUA; a agressão dos EUA à Síria ultrapassou as linhas vermelhas e responderemos com força.,fake,fake
+fakebr_test_335,grande midia joga sujo induz populacao voltar contra policia,fake,fake
+fakebr_test_336,experiencia realizada mosquitos transgenicos pode ter sido causa epidemia,fake,fake
+fakebr_test_337,existe empreendimento pertence familia presidente lula,fake,fake
+fakebr_test_338,novas delacoes poderao incluir ministro temer aecio neves,fake,fake
+fakebr_test_339,crise economica acabou forcando muita gente reinventar carreira,true,true
+fakebr_test_340,filho lula afirmou ter recebido menos r mil ano corinthians neste periodo,fake,fake
+fakebr_test_341,"complexo esportivo canhoteiro sao luis sofre falta infraestrutura e manutencao, obras de revitalizacao anunciadas pelo governo maranhao nunca foram realizadas.",true,true
+fakebr_test_342,voos sao cancelados florida devido furacao irma,fake,fake
+fakebr_test_343,"Canabinoides (CBD/THC) podem ser usados medicinalmente para tratar autismo e outras doenças, com relatos de melhoria de sintomas e redução de convulsões, além de potencial para reduzir o uso de analgésicos opioides, porém ainda enfrentam estigma e barreiras regulatórias no Brasil.",true,true
+fakebr_test_344,"Geddel Vieira Lima foi transferido para o presídio Papuda, em Brasília, e está preso, acusado de tentar atrapalhar as investigações da operação Cui Bono, que apura corrupção na Caixa Econômica Federal.",true,true
+fakebr_test_345,"Anitta decidiu tocar sozinha propria carreira, abrir empresa, planejar tudo e criar estrategias, tornando-se empresaria da propria carreira.",true,true
+fakebr_test_346,"Moro determinou a transferência de Sérgio Cabral para o Complexo Pinhais, na região metropolitana de Curitiba, Paraná.",true,true
+fakebr_test_347,Maduro expulsou cnn venezuela e autoridades venezuela ordenaram canal cnn espanhol retirado ar imediatamente; conatel comision nacional telecomunicaciones abrisse procedimento administrativo contra cnn.,fake,fake
+fakebr_test_348,celular antes dormir afeta sono,true,fake
+fakebr_test_349,suspeitos matar apos briga cachorros tentaram sequestrar torturar vitimas,true,fake
+fakebr_test_350,A postagem afirma que a palavra trump tem muitos significados diferentes em várias línguas.,fake,fake
+fakebr_test_351,"Foi observado um meteoro/bolide extremamente brilhante sobre Varginha, MG, que explodiu no início da madrugada de domingo; penetrou a alta atmosfera terrestre em trajetória vertical em direção ao solo; registrado por quatro câmeras automáticas BRAMON, o objeto brilhante já capturado, iluminando ruas de diversas cidades do interior de Minas Gerais e produzindo sombra no chão; confira vídeo abaixo.",fake,fake
+fakebr_test_352,anos luta armada durante anos ditadura chegou ate sequestrar aviao cruzeiro sul,fake,fake
+fakebr_test_353,HRW denuncia segundo ano seguido execuções extrajudiciais no Brasil.,true,true
+fakebr_test_354,Rui falcao pediu casa civil jaques wagner tomasse alguma iniciativa contra decisao promotores ministerio publico sao paulo mpsp pedir prisao preventiva lula,fake,fake
+fakebr_test_355,pedindo cassação do mandato do senador delcidio amaral por quebra de decoro parlamentar,fake,true
+fakebr_test_356,lula disse vai processar jornalistas veiculos comunicacao,fake,fake
+fakebr_test_357,penso moro chamado savonarola lula pode bem assumir papel papa alexandre vi porque nao,fake,fake
+fakebr_test_358,trump disse que nao conhecia lula,fake,fake
+fakebr_test_359,tres anos campinas triplica gastos acoes contra dengue zika chikungunya apos duas epidemias dengue prefeitura elevou recursos contra doencas transmitidas aedes aegypti,true,true
+fakebr_test_360,Corretor de imóveis de Piracicaba interior SP condenado a indenizar o PT por ter usado a expressão meliantes referir petistas.,fake,fake
+fakebr_test_361,Prefeito mordeu a orelha do professor educacao fisica paulo jose silva durante festa colacao grau escola cecilia coelho resende.,fake,fake
+fakebr_test_362,novo teste rna plaquetas capaz detectar classificar identificar localizacao cancer organismo analisando unica gota sangue,fake,true
+fakebr_test_363,tal deve deixar ser competencia governo estadual passar ser competencia governo federal,true,true
+fakebr_test_364,jornalista muda vida apos quatro infartos,true,true
+fakebr_test_365,lula pode ter utilizado pequena influencia paises comunistas sabotar governo temer,fake,fake
+fakebr_test_366,"Mulheres no exército da Coreia do Norte enfrentam condições de vida degradantes, com rotina de estupros, higiene precária, menstruacao interrompida pela desnutricao e fome devastava o país, segundo relatos de desertora e fontes ouvidas pela reportagem.",true,true
+fakebr_test_367,declaracoes santana moura delacao premiada sao mentirosas,true,true
+fakebr_test_368,teori zavascki morreu,true,fake
+fakebr_test_369,estado islamico ameaca derrubar torre eiffel paris destruir cidade roma italia,fake,fake
+fakebr_test_370,"Eduardo Cunha foi condenado em primeira instância a anos de prisão por corrupção passiva, lavagem de dinheiro e evasão de divisas pelo juiz Sérgio Moro.",true,true
+fakebr_test_371,"Fim do contrato da empresa responsável pelos cuidadores de alunos com necessidades especiais na rede estadual de Franca/SP deixou estudantes sem atendimento especializado; o contrato não foi renovado por ter atingido o limite de prazo e o processo começou novamente, com os casos sendo avaliados.",true,true
+fakebr_test_372,maioria defende extincao total foro,fake,true
+fakebr_test_373,Gilmar Mendes chamou a ida de Lula para a Casa Civil em brasilia de bizarrice enche vergonha desfacatez.,true,fake
+fakebr_test_374,katia abreu disse expulsao pmdb,fake,fake
+fakebr_test_375,saudoso marcelo rezende alertou sao pessoas perversas so pensam proprio umbigo,fake,fake
+fakebr_test_376,dez segredos vida privada fidel castro desde dia exato nasceu ate tamanho fortuna detalhes intimidade lider cubano pouco jamais saberemos,true,true
+fakebr_test_377,relator ccj recomenda rejeicao denuncia contra temer,true,true
+fakebr_test_378,deputado aureo ribeiro inseriu emenda votacao reforma politica estabelece censura internet durante proximos periodos eleitorais brasil,fake,true
+fakebr_test_379,"Imóveis dos senadores Aécio Neves e Zezé Perrella, em Belo Horizonte, são alvos de buscas em operação deflagrada a partir da delação da JBS.",true,true
+fakebr_test_380,Renata Lo Prete será titular do Jornal Globo (e apresentará o Painel Globonews) e Heraldo Pereira será o novo apresentador do Jornal Dez.,true,true
+fakebr_test_381,maia afirma vai rejeitar todos pedidos impeachment contra presidente michel temer,true,true
+fakebr_test_382,"moro determinou que presentes recebidos lula durante a presidência, bem como os objetos apreendidos na operacao lava jato, fossem incorporados ao patrimonio uniao.",true,fake
+fakebr_test_383,lula sera eleito triunfalmente,true,fake
+fakebr_test_384,A Polícia Federal prendeu Geddel Vieira Lima após a apreensão de dinheiro em espécie escondido em malas no apartamento utilizado para cumprir mandado de prisão domiciliar; ele será levado a Brasília onde deverá ficar preso.,true,true
+fakebr_test_385,"ministro stf determinou a transferência de Rocha Loures da carceragem pf brasilia para Papuda, para evitar queima arquivo, alegando risco de vida.",fake,fake
+fakebr_test_386,facebook vai atuar garantir integridade eleicao brasil,true,fake
+fakebr_test_387,relator defende manter provas odebrecht julgamento tse processo pode levar cassacao mandato presidente michel temer inegibilidade dilma rousseff,true,true
+fakebr_test_388,delegado pf faz alerta cuidado jatinhos empresários lula pode fugir,fake,fake
+fakebr_test_389,video mostra cupula vaticano adorando lucifer,fake,fake
+fakebr_test_390,manifestacoes favor lula comecam fracassar,fake,true
+fakebr_test_391,luiz inacio lula silva mandou policia dar corretivo adversarios,true,fake
+fakebr_test_392,papa francisco diz teoria big bang nao contradiz papel deus,true,fake
+fakebr_test_393,nao ha provas cientificas orientacao sexual escolha possa ser alterada,fake,true
+fakebr_test_394,serginho disse nao comemorou titulo campeao olimpico preferiu tomar tubaina bar perto casa mae,fake,fake
+fakebr_test_395,senador delcidio amaral fez acordo delacao premiada perante grupo trabalho republica operacao lava jato.,true,fake
+fakebr_test_396,russia ameaca derrubar avioes americanos,fake,fake
+fakebr_test_397,tribunal regional federal regiao nesta turma aumentou anos pena joao vaccari neto,true,true
+fakebr_test_398,renan suspende sessao senado,fake,fake
+fakebr_test_399,Lula acabou confessando sitio atibaia e incriminou marisa,fake,fake
+fakebr_test_400,Netflix deve lancar dez temporadas producoes nacionais ano,true,true
+fakebr_test_401,Senador pmdb Roberto Requião diz que o juiz sergio moro caiu nos bracos satanas e que ele é autor da lei mordaca que pretende calar imprensa livre brasil.,fake,fake
+fakebr_test_402,aqui estao principais noticias,true,true
+fakebr_test_403,deputados federais autorizaram senado abrir processo impeachment contra dilma rousseff,true,fake
+fakebr_test_404,presidente michel temer reconheceu brasil vive crise politica,true,true
+fakebr_test_405,brasileiros invadem pagina exercito facebook clamam socorro apos recentes polemicas decisoes ministro gilmar mendes,fake,fake
+fakebr_test_406,MEC petista erotizando criancas.,fake,fake
+fakebr_test_407,senador alerta greve caminhoneiros pode derrubar governo,fake,fake
+fakebr_test_408,"Fachin determinou denúncia feita setembro passado pela PGR contra integrantes do PT sem foro especial, processada na primeira instância pela Justiça Federal do Distrito Federal; denunciados são Lula, Dilma Rousseff, Antonio Palocci, Guido Mantega, Joao Vaccari Neto, acusados de integrarem organização criminosa que desviava recursos públicos, sobretudo Petrobras; Lula poderá virar réu.",true,true
+fakebr_test_409,Luciano Huck ja admitiu varias vezes que nao descartou a hipotese de candidatar-se a cargo publico e agora parece haver sinais de que pode concorrer a presidencia.,fake,fake
+fakebr_test_410,lula disse estar tranquilo julgamento certeza absoluta nao cometi nenhum crime,true,fake
+fakebr_test_411,joesley diz depoimento gravacoes ainda nao entregues pgr dono j f prestou depoimento semana passada delacao revisao beneficios temporariamente suspensos segundo joesley frase nao vamos ser presos,true,fake
+fakebr_test_412,presidente michel temer disse vai afastar provisoriamente qualquer ministro denunciado operacao lava jato afastamento sera definitivo,true,fake
+fakebr_test_413,agentes penitenciarios rj entrarao greve amanha paralisacao sera tempo indeterminado,fake,fake
+fakebr_test_414,Peixe retirado de um congelador ressuscita ao ser mergulhado na água e começa a nadar.,fake,fake
+fakebr_test_415,Gilmar Mendes negou o pedido de Marcelo Miller para declarar Miller suspeito em habeas corpus relacionado ao ministro Gilmar Mendes no STF.,true,true
+fakebr_test_416,Igrejas brasileiras nao recolhem impostos angariam fortunas.,fake,fake
+fakebr_test_417,"Esquadrao antibomba foi acionado apos denuncia de funcionaria banco Santander encontrou pacote verde na porta da agencia no centro de Piracicaba SP retirou o objeto nao informou qual era o material; a ocorrencia ficou fechada por cinco horas com isolamento do local, curiosos formaram aglomeração proximo ao banco; houve apoio da guarda municipal e do corpo bombeiros; no final ficou apenas pacotinho macumba.",fake,fake
+fakebr_test_418,prisao anthony rosinha garotinho ontem rio completou quadro eleitos ca presos crimes comuns,true,true
+fakebr_test_419,constituição brasileira abandidada atual cf promulgada apos fim regime militar transformou liberdade libertinagem instrumentalizou impunidade,fake,true
+fakebr_test_420,atracao favorita pode ser propaganda,true,fake
+fakebr_test_421,dilma golpista publica diario oficial extra nomeia cargos comissionados.,fake,fake
+fakebr_test_422,lula diz ser inaceitavel complexo petroquimico investigado estar parado,true,true
+fakebr_test_423,sobrinho lula levado camburao delegacia esquema odebrecht africa conhecido mercado,fake,fake
+fakebr_test_424,"Hacker clonou o celular de Marcela Temer, chantageou o casal Temer e pediu r mil para não divulgar áudio.",fake,fake
+fakebr_test_425,"Evento catolico em Cachoeira Paulista com a participacao de Padre Marcelo Rossi e Padre Fabio Melo, com shows palestras programacao para criancas, com expectativa de quarenta cinco mil pessoas neste fim de semana.",true,true
+fakebr_test_426,rene dotti humilhou defesa lula,fake,fake
+fakebr_test_427,janot afirma que temer e aecio neves agiam juntos para impedir avanco lava jato,true,true
+fakebr_test_428,Manifestantes protestam pela absolvição de Lula.,true,fake
+fakebr_test_429,"Prioridade: recuperar saude administrativa do estado com gestao eficaz de recursos, rever contratos, evitar gastos desperdicios e colocar pessoas capacitadas no governo, com auditoria de contratos.",true,true
+fakebr_test_430,grande possibilidade de conflito entre EUA e Coreia do Norte,true,true
+fakebr_test_431,"thiago domingos silva foi a unica vitima do acidente envolvendo um Airbus TAM que atingiu um predio proximo ao aeroporto congonhas, e dez anos depois a justica absolveu os acusados, ninguem foi condenado.",true,true
+fakebr_test_432,"Antonio Carlos Rodrigues, presidente nacional do PR, é foragido há uma semana e teve prisão decretada pela Justiça Eleitoral de Campos dos Goytacazes, RJ, suspeito de corrupção, extorsão, organização criminosa, falsidade ideológica e prestação de contas eleitorais.",true,true
+fakebr_test_433,delegados lava jato nao apoiam fala segovia sobre arquivar inquerito contra temer,true,true
+fakebr_test_434,atitude lula confirma diagnostico transtorno incuravel,fake,fake
+fakebr_test_435,ministro stj nega pedido defesa evitar lula preso,true,fake
+fakebr_test_436,diretor artistico responsavel atracao nao conteve soltou voz alta primeiro deveria aprender cantar,fake,fake
+fakebr_test_437,coreia norte lanca missil balistico avisa havera outros durante fim semana,fake,fake
+fakebr_test_438,participante ana paula repreendida tirar microfone colocar biquini irritou retrucou imediato bronca,fake,fake
+fakebr_test_439,tse pode cassar mandato presidente michel temer,true,fake
+fakebr_test_440,"Um tenente da polícia dos EUA, Deuntay Diggs, faz coreografia ao som de Beyoncé para divertir plateia de alunos do ensino médio na North Stafford High School, Stafford.",fake,fake
+fakebr_test_441,tombamento nao desculpa descaso manutencao regular efetiva obras capital tombamento nao camisa forca nao pode virar fetiche,true,true
+fakebr_test_442,TCU bloqueia bens de Dilma Rousseff e de membros do conselho de administração da Petrobras para ressarcir o Estado pelo prejuízo causado pela compra da refinaria Pasadena.,true,true
+fakebr_test_443,chuva negra misteriosa caiu cidade harrison township estado michigan; substancia ainda desconhecida; autoridades locais afirmam levara menos semana material identificado atraves analises laboratoriais.,fake,fake
+fakebr_test_444,sao paulo terao horario funcionamento diferenciado neste feriado prolongado pascoa,true,true
+fakebr_test_445,"Promotores do Ministério Público de São Paulo denunciaram Luiz Inácio Lula da Silva por lavagem de dinheiro e falsidade ideológica envolvendo o triplex do Condomínio Solaris, em Guarujá, e pedem prisão preventiva.",true,true
+fakebr_test_446,Victor nao machucou nunca machucaria,fake,fake
+fakebr_test_447,movimento pede criacao novo pais fara consulta publica proximo dia plebiscito criar novo pais estados sul sim,fake,true
+fakebr_test_448,jornal estadao denunciou o total de dez urnas eletrônicas quebradas pelos deputados do PT aliados à Câmara.,fake,fake
+fakebr_test_449,"Marco Aurelio Garcia morreu em São Paulo, vítima de infarto.",true,true
+fakebr_test_450,O TSE comecara julgar nesta acao que pede cassacao da chapa encabecada PT PMDB.,true,true
+fakebr_test_451,coreia sul eua outros paises farao exercicios guerra peninsula coreana,fake,fake
+fakebr_test_452,imigrantes ateiam fogo centro refugiados porque nao havia nutella comer,fake,fake
+fakebr_test_453,João Doria visitará Lula em Curitiba e levará chocolates.,fake,fake
+fakebr_test_454,Maia negou que o DEM vá desembarcar do governo.,true,true
+fakebr_test_455,professores municipais retornam aulas sp apos dias paralisacao termino greve ocorreu apos votacao reforma previdencia ter sido adiada,true,true
+fakebr_test_456,facebook faz parceria instituto george soros vira rede social comunista apos vitoria bilionario donald trump eleicoes americanas,fake,true
+fakebr_test_457,coreia norte coloca exercito estado prontidao e ameaca lancar misseis sobre territorio guam,fake,fake
+fakebr_test_458,dilma nao sabe diferenca mosquito virus,fake,fake
+fakebr_test_459,fachin prorrogou dias prazo inquerito aberto apurar dilma lula e outros incluindo a nomeação luiz inacio lula silva chefia casa civil e a tentativa obstruir investigações operacao lava jato,true,true
+fakebr_test_460,alckmin busca resgatar discurso tucano ano eleicao governador sao paulo intensifica programas voltados eleitores baixa renda mira voto petista,true,true
+fakebr_test_461,"Augusto Nunes afirma que Gilmar Mendes acha tudo normal, nao respeita nada; na última semana houve reunião off com o presidente Michel Temer sem agenda oficial da Presidência, considerada absolutamente normal, e o ministro usa a influência do cargo para dar pitacos e interferir na política do país.",fake,fake
+fakebr_test_462,edir macedo podera disputar eleicoes presidenciais caso lula absolvido,fake,fake
+fakebr_test_463,nasa estabeleceu meta ambiciosa envio seres humanos marte meados decada,true,fake
+fakebr_test_464,devem ser analisados fundo antes chegarmos conclusao ataque motivado simplesmente bullying,fake,true
+fakebr_test_465,"Durante a megaoperacao Praia Limpa contra trafico SP, o cao acha drogas dentro fogao; houve troca de tiros e pessoa morta.",true,true
+fakebr_test_466,defesa entrega alegacoes finais pede absolvicao claudia cruz mulher camara deputados eduardo cunha acusada lavagem dinheiro evasao,true,true
+fakebr_test_467,Temer demitiu Osmar Serraglio do comando do Ministério da Justiça e substituiu-o por Torquato Jardim como novo titular da pasta.,true,true
+fakebr_test_468,Lula furtou pavoes.,fake,fake
+fakebr_test_469,tres casos adolescentes cometeram crimes barbaros todos pegaram prisao perpetua,fake,fake
+fakebr_test_470,"Frangos são bombados com água e produtos químicos para aumentar artificialmente o peso, com finalidade criminosa contra o consumidor e contra a saúde pública.",fake,fake
+fakebr_test_471,"PF conclui inquérito apontando que Lula, Dilma Rousseff e Aloizio Mercadante atuaram para obstruir investigações da Lava Jato.",true,fake
+fakebr_test_472,declaro abertos jogos olimpicos rio,fake,fake
+fakebr_test_473,mp sao paulo denuncia lula lavagem dinheiro falsidade ideologica,fake,fake
+fakebr_test_474,"Mantém reintegração de posse do acampamento do MTST em São Bernardo do Campo, determinando que o despejo ocorra apenas após reunião entre as partes, mediada por grupo especializado de conciliação; a data da reunião ainda não foi definida.",true,true
+fakebr_test_475,Amaggi afirmou não ter qualquer ligação com a aeronave descrita pela FAB e a FAB não emitiu autorização.,true,true
+fakebr_test_476,"PF afirma ter indícios suficientes contra Gleisi Hoffmann e seu marido Paulo Bernardo, suspeitos de terem recebido dinheiro desviado da Petrobras para abastecer a campanha da senadora.",fake,fake
+fakebr_test_477,silvio santos recusou r milhoes jbs,fake,fake
+fakebr_test_478,lula anunciou iria encontrar fidel dezembro,fake,fake
+fakebr_test_479,ha muita musica feita salas concerto teatros opera cuja autoria artistas nascidos solo patrio sim vez ha coisas qualidade excepcional eventualmente acabam ser poco conhecidas publico condicoes especificas mercado classico brasil tambem questoes estruturais relativas modo consumo genero acaba realizar todo planeta,true,true
+fakebr_test_480,Coreia do Sul espera que o encontro entre Trump e Kim leve a Coreia do Norte a abandonar o programa nuclear.,true,true
+fakebr_test_481,"nicolas maduro ameaca guerra armada america latina, disse disposto comecar luta armada continental.",fake,fake
+fakebr_test_482,coreia norte revelou acidentalmente dados secretos programa nuclear,true,fake
+fakebr_test_483,ninguem ficar perto lula politicos empresarios tentam manter distancia,fake,fake
+fakebr_test_484,"Depoimento de Luiz Inácio Lula da Silva reforçou indícios reunidos por investigadores da Operação Lava Jato em Curitiba de obstrução à justiça, devendo resultar em novo inquérito contra Lula e denúncia criminal.",true,true
+fakebr_test_485,"Enxaqueca crônica é uma síndrome que pode não ser diagnosticada e não é normal ter dores cabeca fortes todos os dias; pode evoluir de enxaqueca episódica e requer diagnóstico médico, tratamento preventivo e mudanças de hábitos.",true,true
+fakebr_test_486,Há indícios de que montadoras pagaram propinas para aprovar a medida provisória editada durante o governo Lula.,fake,true
+fakebr_test_487,camara ja maioria votos afundar dilma,fake,fake
+fakebr_test_488,"Há tensões na Península Coreana, com risco de sexto teste nuclear pela Coreia do Norte, e várias leituras sobre como a Coreia do Sul deve responder, incluindo a possibilidade de seul iniciar negociações diretas com Pyongyang.",true,true
+fakebr_test_489,alckmin pode vencer lula,true,true
+fakebr_test_490,imagens apontam erros crassos piloto,true,fake
+fakebr_test_491,bruno boanerges ficou tetraplegico apos levar tiro e manifesta apoio a jair bolsonaro,fake,true
+fakebr_test_492,Voluntários vendem canecas personalizadas para custear tratamentos veterinários (castração) de animais resgatados das ruas de Cuiabá.,true,fake
+fakebr_test_493,vereador cidade david salomao ptc defende intervencao militar brasil ate realizacao eleicoes,true,fake
+fakebr_test_494,senadores usavam policia legislativa atrapalhar investigacoes pf,fake,fake
+fakebr_test_495,ministro celso mello manda recado politicos marginais republica demagogos durante posse ministra carmen lucia nova presidente supremo,fake,fake
+fakebr_test_496,carlinhos preve novo acidente aereo envolvendo time futebol chapecoense,fake,fake
+fakebr_test_497,instituto lula diz sergio moro afronta stf,fake,fake
+fakebr_test_498,"Rússia está desenvolvendo um torpedo intercontinental autônomo submarino com armamento nuclear capaz de atravessar o Pacífico e lançar ataque radioativo mortal na costa oeste dos EUA, considerado uma ameaça real pelos Estados Unidos e que leva à revisão da postura nuclear e à modernização do arsenal americano.",true,true
+fakebr_test_499,Sérgio Machado delata que Aécio Neves recebeu R$ 1 milhão de dinheiro de forma ilegal.,fake,fake
+fakebr_test_500,"Juiz manda soltar pastor acusado de abusar do enteado de cinco anos, Felipe Heiderich.",fake,true
+fakebr_test_501,"O esquema Odebrecht superfaturou obras públicas no Rio de Janeiro em bilhões de reais, com propinas e atrasos, conforme delações da Lava Jato.",true,true
+fakebr_test_502,jovem passou noite com Usain Bolt e pretende usar a situação para melhorar a vida.,fake,fake
+fakebr_test_503,dilma estuda decretar estado defesa,fake,fake
+fakebr_test_504,mst cut mando pt continuam destruicao pais afora comunistas supostos movimentos sociais estao trancando ruas sao paulo sp marginais pinheiros tiete outros pontos cidade estao totalmente bloqueados policia ja liberou algumas barreiras ate momento tres vermelhinhos presos varios moradores capital paulista nao conseguiram chegar trabalho devido acoes vandalos alegam estar protestando,fake,fake
+fakebr_test_505,ciro gomes disse caso nome apareca operacao lava jato teori zavascki ministro stf corno rodrigo janot pgr ladrao,fake,fake
+fakebr_test_506,testemunhas dizem nao sabem palocci agiu beneficio grupo odebrecht,true,true
+fakebr_test_507,Janot pediu ao STF a abertura de inquéritos para investigar políticos citados em delações da Odebrecht.,true,true
+fakebr_test_508,suspeito assume ter extorquido padre video sexo,true,fake
+fakebr_test_509,john le carre fala sobre relacao conturbada pai autobiografia escritor elevou patamar literatura espionagem reconta proprias memorias,true,true
+fakebr_test_510,nordeste acordou e decidiu expurgar lula pt da politica brasileira.,fake,fake
+fakebr_test_511,governo diminui verba destinada construcao creches,true,true
+fakebr_test_512,governo vai subir gasolina energia gas; precos controlados executivo vao subir ante previsao alta setembro,fake,true
+fakebr_test_513,"Segundo delações, a Odebrecht desviava dinheiro de obras públicas para pagar propina a políticos para defender os interesses da empresa, por meio de doações oficiais, caixa e pagamentos no exterior, com um departamento responsável por organizar a distribuição das propinas.",true,true
+fakebr_test_514,"Mulheres viajando sozinhas relatam que a experiência varia conforme padrões culturais de cada país/região, influenciando se sintam seguras e não desrespeitadas durante a viagem, com diferentes níveis de assédio e acolhimento dependendo do lugar.",true,true
+fakebr_test_515,A multa da locadora de DVD deu origem à Netflix.,true,true
+fakebr_test_516,passei batom porco criei frankenstein,fake,fake
+fakebr_test_517,anger girl four is urged to touch naked man at controversial art show,fake,true
+fakebr_test_518,"Predio ocupado no centro de Porto Alegre foi desocupado pela Brigada Militar em cumprimento de ordem judicial, com o governo afirmando que os ocupantes demonstraram exclusivo interesse ideologico politico ao recusarem alternativas habitacao.",true,true
+fakebr_test_519,saida interessaria brasil hoje eleicao indireta,true,true
+fakebr_test_520,vai ser relativo porque informacao efemera nao traduz nenhum tipo hegemonia,true,true
+fakebr_test_521,"Palocci vai dizer e pode delatar muita coisa, causara terremoto.",fake,fake
+fakebr_test_522,"Netflix vai virar série sobre a Operação Lava Jato, com Jose Padilha como diretor e Wagner Moura cotado para interpretar Aécio Neves; o projeto vai narrar a operação policial e mostrar detalhes do maior esquema de corrupção já visto no Brasil, afirmou Padilha, em comunicado, que a série será produzida com imparcialidade, e haverá dois protagonistas ainda não escolhidos para os papéis principais.",fake,true
+fakebr_test_523,responsaveis estao sendo punidos,fake,fake
+fakebr_test_524,denuncia contra presidente temer rejeitada ontem ccj camara cabera plenario votacao marcada proxima planalto considera deve perder votos,true,true
+fakebr_test_525,aprovacao reforma trabalhista grande vitoria politica governo michel temer,true,true
+fakebr_test_526,prefeitura sp flexibiliza futuras regras motoristas aplicativos.,true,true
+fakebr_test_527,presidente americano donald trump oficializou pais cobrara sobretaxa aco importado aluminio excecoes sao canada mexico nao serao tributados,true,fake
+fakebr_test_528,Lula tambem nao gostou criticas jornais estrangeiros sobre pobreza brasil olimpiadas nao feitas acabar favelas disse,fake,fake
+fakebr_test_529,mario vargas llosa diz brasil dando exemplo combate corrupcao,true,true
+fakebr_test_530,oms declarou fim emergencia global virus zika,true,true
+fakebr_test_531,coreia norte ameaca explodir nova york apos comentarios trump,fake,fake
+fakebr_test_532,wesley vira evangelico pode tirar safadao nome artistico,fake,fake
+fakebr_test_533,apresentador marcelo rezende morreu vitima falencia multipla orgaos consequencia cancer,fake,fake
+fakebr_test_534,documentario aponta possivel implosao torres gemeas onze setembro,fake,fake
+fakebr_test_535,jornalista mauricio kubrusly sofre infarto,fake,fake
+fakebr_test_536,bolsonaro cogita parceria evangelicos eleicoes,fake,fake
+fakebr_test_537,nova geracao justica pede passagem,fake,true
+fakebr_test_538,"Fidel Castro foi o líder cubano que encarnou simbolo desafio washington guerrilheiro, liderou a Revolução Cubana e governou Cuba por quase cinco décadas, deixando legado visto por alguns como lenda esquerda e por outros como ditador implacavel.",true,true
+fakebr_test_539,"Dilma Rousseff cortou verbas do orçamento da Polícia Federal, o que pode comprometer centenas de operações.",fake,fake
+fakebr_test_540,lula sempre homem racista,fake,fake
+fakebr_test_541,candidata rebecca garcia participou entrevista radio cbn amazonia falou sobre propostas plano governo eleicao suplementar devera escolher novo governador amazonas,true,true
+fakebr_test_542,bolsonaro comentou episodio atraves video publicado redes sociais,fake,fake
+fakebr_test_543,sergio moro fraudando democracia,fake,fake
+fakebr_test_544,Frederik barbieri preso madrugada deste sabado casa florida; apontado policia civil maior traficante armas brasil; nota ministerio justica informou ja apresentou pedido extradicao barbieri governo norte americano,true,fake
+fakebr_test_545,excecao suspeicao incorretamente utilizada veicular irresignacao defesa contra referidas decisoes nao havendo porem apontamento causa legal suspeicao inviavel reconhecer suspeicao,true,true
+fakebr_test_546,ministro stf manda afastar aecio cargo senador,fake,fake
+fakebr_test_547,medica bombou redes sociais criticar cabral matou muita gente,fake,fake
+fakebr_test_548,Temer busca ponte toffoli assumira stf presidente comecou afastar carmen lucia e gerou desgaste no relacionamento entre o presidente e o stf.,true,true
+fakebr_test_549,"Segundo a delação premiada, Lula e Dilma sabiam dos pagamentos feitos pela Odebrecht para campanhas, incluindo caixa dois, com parte do dinheiro pago oficialmente e parte em espécie, e Lula autorizou o valor total da campanha.",true,true
+fakebr_test_550,defesa lula apresenta recibos comprovam pagamento alugueis imovel investigado lava jato,true,true
+fakebr_test_551,"FHC afirmou que o acervo presidencial tem valor historico e que todas as doacoes feitas ao instituto sao registradas, dizendo nao ter conhecimento de nenhuma cartelizacao envolvendo a Petrobras.",true,true
+fakebr_test_552,Primeira turma stf decidiu tres votos dois afastar aecio neves mandato senador determinar recolhimento noturno casa.,true,true
+fakebr_test_553,A OAB decidiu apresentar à Câmara pedido de impeachment de Michel Temer.,true,true
+fakebr_test_554,globo news acabou transmissao chamou link externo nao funcionou assunto tomou conta redes sociais,fake,fake
+fakebr_test_555,corpo atriz tonia carrero sera cremado nesta velorio neste domingo,true,true
+fakebr_test_556,saiu relatorio todas mudancas projeto sobre reforma regras aposentadoria proximos passos sao discussao texto votacao camara prevista inicio maio,true,true
+fakebr_test_557,Moro participou de audiência no Congresso Federal pela manhã de hoje para analisar o projeto de lei conhecido como medidas contra corrupção.,fake,true
+fakebr_test_558,joesley pagou propina ministerio agricultura alterar regras exportacao subprodutos despojos miudos carne bovina para favorecer friboi,fake,fake
+fakebr_test_559,curitiba presos alta periculosidade temem presos altissima periculosidade e querem ser transferidos para outra cadeia prisao,fake,fake
+fakebr_test_560,"É uma coletânea de opiniões políticas diversas sobre Lula, Dilma, Serra e outros temas.",true,true
+fakebr_test_561,camara rejeitou oficialmente segunda denuncia pgr contra presidente,fake,true
+fakebr_test_562,palestras realmente existiram; todos nomes citados imagem sao cumplices; lula devem responder criminalmente,fake,fake
+fakebr_test_563,"A intervenção militar na Mare (Operação São Francisco) reduziu o número de mortes na região, mas moradores relatam trauma e medo, e uma pesquisa com mil moradores indicou que a intervenção não foi avaliada positivamente, com especialistas criticando ocupações permanentes.",true,true
+fakebr_test_564,"Dois bandidos mortos durante assalto ao supermercado caldas novas, comerciante liberado pois reacao caracterizada legitima defesa.",fake,true
+fakebr_test_565,"Segundo a delação de Joesley Batista, Aécio Neves pediu comprar imóveis no Rio e BH para pagar dívidas.",true,true
+fakebr_test_566,diretorias internas pt ja comenta estrategia caso lula candidatura inviabilizada condenacoes transitam justica estrategias usar poder redes sociais alavancar campanha,fake,true
+fakebr_test_567,"Um diplomata russia, abordado por bandidos durante engarrafamento no rio de janeiro, conseguiu reagir; assalto matou criminosos; marginal morreu; consulado russia rio nao pronunciou sobre episodio.",fake,true
+fakebr_test_568,A União gastou quase r bilhão em diárias de funcionários públicos.,fake,fake
+fakebr_test_569,"Congresso Nacional criou fundo de financiamento de campanha com dinheiro do contribuinte, possibilitando campanhas eleitorais bilionárias.",true,fake
+fakebr_test_570,Luz estadio maracana cortada por dívida de milhões; light não pagou os últimos três meses; há acordo para parcelamento desde novembro; comite rio ainda responsável pela gestão do estadio.,true,fake
+fakebr_test_571,"Terremoto devastador no México matou mil pessoas e derrubou prédios; furacão Maria devasta o Caribe; Donald Trump elevou o tom, ameaçando destruir totalmente a Coreia do Norte.",true,fake
+fakebr_test_572,Petrobras propõe pagamento de montante em três parcelas para encerrar a ação coletiva movida por investidores dos Estados Unidos.,true,true
+fakebr_test_573,nunca antes historia desse pais vice decorativo perdeu todo protagonismo politico,fake,true
+fakebr_test_574,wikileaks diz temer espiao eua,fake,fake
+fakebr_test_575,campanha paralimpica atores globais supostamente amputados revolta internet,fake,fake
+fakebr_test_576,"Redes sociais validam odio, dão dimensão pública a discursos de ódio e recebem aplausos de amigos e seguidores.",true,true
+fakebr_test_577,leo pinheiro vai fazer delacao premiada,fake,fake
+fakebr_test_578,nao faco nada errado so trafico drogas,fake,fake
+fakebr_test_579,senadores pt continuam molecagem,fake,fake
+fakebr_test_580,"Temer sancionou os vetos ao projeto que prevê o parcelamento de dívidas previdenciárias dos produtores rurais e a nova lei institui o Programa de Regularização Tributária Rural (PRR), que compreende dívidas relativas à contribuição social dos trabalhadores rurais.",true,true
+fakebr_test_581,"lady gaga criada illuminati disseminar diabo, atingindo o controle da mente das pessoas e transformando-as em zumbis",fake,fake
+fakebr_test_582,"Crianças morrem de fome na região remota de Papua, Indonésia, ao redor da maior mina de ouro do mundo.",true,true
+fakebr_test_583,crise governo federal,true,true
+fakebr_test_584,Justiça DF concedeu direito resposta presidente afastada dilma rousseff e obrigou revista publicar manifestacao dilma.,fake,fake
+fakebr_test_585,transpetro negocia delacao premiada pode implodir cupula pmdb,fake,fake
+fakebr_test_586,"É um livro feito de citações politicamente incorretas reunidas em verbetes, com comentários, organizado por dois economistas (Fabio Giambiagi e Gustavo Franco), intitulado Maldade.",true,true
+fakebr_test_587,Prefeito João Dória classificou injusta a homenagem de nomear o viaduto com o nome Marisa Letícia.,true,true
+fakebr_test_588,"candidato jose ricardo participa entrevista radio cbn amazonia e falou sobre propostas plano governo eleicao suplementar defendendo nova alternativa de governo para o amazonas com combate corrupcao, transparencia e auditoria de contratos.",true,true
+fakebr_test_589,"Militares fotografam moradores de favelas e fazem checagem de antecedentes criminais durante a operação das Forças Armadas; a Defensoria Pública do Rio afirma que a prática configura constrangimento ilegal e remete às práticas da ditadura militar, enquanto o Comando Militar do Leste afirma que a ação é legal e feita regularmente.",true,true
+fakebr_test_590,carta desfiliacao palocci traduzida linguagem popular viralizou redes,fake,fake
+fakebr_test_591,disseram nao ira renunciar porque sabe pode ser preso,fake,fake
+fakebr_test_592,"Radialista americano Alex Jones chorou ao falar sobre o surto de microcefalia no Brasil, citou a microcefalia, disse que a esquerda não faz nada, que só vendem ilusões e que deixaram crianças sem amparo, deixando a microcefalia crescer nesse país.",fake,fake
+fakebr_test_593,Kim ditador norte coreano afirma planos ataque nuclear preventivo estao prontos ser aplicados caso minima acao militar inimigos norte.,fake,fake
+fakebr_test_594,recife petistas comparam lula jesus cristo sofre persegucao,fake,fake
+fakebr_test_595,"Se os EUA atacarem a Coreia do Norte, a China irá intervir militarmente; o país permanecerá neutro apenas se kim atacar os EUA primeiro.",fake,true
+fakebr_test_596,"Reuters apurou que o Trump Ocean Club no Panamá foi promovido por Alexandre Nogueira, que afirmou ter conhecido Ivanka Trump e ajudado a promover o projeto com o uso da marca Trump, enquanto a Trump Organization disse não ter conhecimento nem envolvimento, limitando-se a licenciar a marca e prestar serviços administrativos; o projeto envolvia acusações de fraude e lavagem de dinheiro com investidores estrangeiros, incluindo russos.",true,true
+fakebr_test_597,"Foi anunciado um curso sobre a esquerda do século XXI, com possível participação de Dilma Rousseff e Jean Wyllys, com lançamento oficial no Lang Palace Hotel, Chapeco SC, desenvolvido pelo Instituto Dom José Gomes em parceria com a Universidade Federal Fronteira Sul (UFFS) e Fundação Perseu Abramo (FPA), com duração de meses, custo de mil reais, parcelado, divulgado pelo deputado Pedro Uczai.",fake,true
+fakebr_test_598,acordo empreiteiros chamavam casal presidencial chefe madame investigacoes operacao processo envolve aquisicao apartamento triplex,fake,fake
+fakebr_test_599,Um médico de Manaus foi flagrado abusando da filha bebê em motel; preso em flagrante e encaminhado à Delegacia Especializada de Proteção à Criança e ao Adolescente; o bebê passou exames no IML e o abuso foi constatado.,fake,fake
+fakebr_test_600,seul treina time decapitar ditador vizinho tropa elite treinada matar kim,true,fake
+fakebr_test_601,"PF investiga a compra de tablets com verba do Ministério da Saúde durante o governo Vinicius Camarinha, com mandados de busca e apreensão cumpridos, por indícios de irregularidades no procedimento licitatório.",true,true
+fakebr_test_602,Lula foi condenado a anos e meio de prisão por corrupção; negou crimes.,true,fake
+fakebr_test_603,advogados petistas abandonam lula apos denuncia onu,fake,fake
+fakebr_test_604,"Pastor Silas Malafaia publicou vídeo pedindo boicote à Disney, afirmando que Disney resolveu comprar agenda gay, decisão asquerosa nojenta.",fake,fake
+fakebr_test_605,coreia norte diz estar aberta dialogo,true,true
+fakebr_test_606,Lula recebe aposentadoria excepcional anistiado politico via administrativa deferido data retroativa outubro beneficio previdenciario concedido.,fake,fake
+fakebr_test_607,retrospectiva principais fatos ano minas,true,true
+fakebr_test_608,"Mortos famosos atraem peregrinos ao cemitério Campo Esperança, Brasília.",true,true
+fakebr_test_609,"Operação ICARO da Polícia Civil, com apoio de agências reguladoras, investiga furto de peças de aeronaves, oficinas clandestinas, lavagem de dinheiro e falsificações, acidentes aeronáuticos e tráfico de drogas, resultando em indiciamentos, prisões preventivas, apreensões de drogas e de aeronaves, e aponta piloto como chefe de organização criminosa.",true,true
+fakebr_test_610,camara deputados vai tentar vez nesta votar reforma politica alterar sistema eleitoral criar fundo financiar campanhas lideres porem estao ceticos apostam ha chance passar reforma desidratada apenas clausula barreira,true,true
+fakebr_test_611,"Desertoras da Coreia do Norte nos últimos anos criaram uma onda de programas de televisão na Coreia do Sul, prometendo aos espectadores uma visão emocionante da vida na região militarizada, frequentemente distorcida.",true,true
+fakebr_test_612,pele nao consegue andar,fake,fake
+fakebr_test_613,familia kaka faz campanha juntar dinheiro passagens eua hospedagem durante tratamento mobilizacao ja garantiu r mil pagar cirurgia pode fazer menino conseguir andar agora,true,true
+fakebr_test_614,"Jornalista sofreu assedio do chefe, foi constrangida perante colegas, passou mal e precisou ser socorrida e levada ao hospital; a direcao do canal informou que a unica medida tomada foi transferir-a para outro programa da grade emissora.",fake,fake
+fakebr_test_615,conselho tutelar diz suspeita matar filha nao dava indicios agressoes conseguiu enganar todos orgao itapetininga sp diz visitou familia varias vezes nao constatou sinais agressoes,true,fake
+fakebr_test_616,julio recebeu pena anos prisao lavagem dinheiro corrupcao razao colaboracao desvendar esquema corrupcao petrobras pena reduzida juiz sergio moro cinco anos prisao pena substituida prestacao servicos comunitarios semanais horas,fake,fake
+fakebr_test_617,lula sera preso,fake,fake
+fakebr_test_618,doria manda recado lula justica feita,fake,fake
+fakebr_test_619,pecas publicitarias veiculadas pmdb gratuitamente radio televisao desde quinta novembro sao indigencia criativa,true,true
+fakebr_test_620,pedem saida presidente michel temer eleicoes diretas,true,true
+fakebr_test_621,candido vaccarezza indiciado corrupcao policia federal investigado desde lava jato segundo ministerio publico federal mpf favorecer empresas estrangeiras contratos petrobras troca propina,true,true
+fakebr_test_622,luciano huck faz desabafo sobre bloqueio whatsapp recebe comentario zuckerberg,fake,fake
+fakebr_test_623,"indica senador aecio neves venceria a disputa presidencial no estado, com lula e marina tecnicamente empatados.",fake,true
+fakebr_test_624,linha sucessoria formalmente nao existira vice,fake,true
+fakebr_test_625,viuva diz premonicao antes morte nelson xavier,true,fake
+fakebr_test_626,franquia crime milicianos investem joias carros fazendas esconder lucro exploracao servicos,true,fake
+fakebr_test_627,valdo cruz vem ai delacao fim mundo,fake,fake
+fakebr_test_628,Indio desmascarou reportagem globo.,fake,fake
+fakebr_test_629,braskem pagou milhoes reais servicos cabeleireiro,fake,fake
+fakebr_test_630,microcefalia causada zika nao tratamento testado aprovado,true,true
+fakebr_test_631,deputados elegem nesta quinta presidente camara proximos dois anos,true,true
+fakebr_test_632,velloso recusa convite temer assumir ministerio justica,fake,true
+fakebr_test_633,"Pacote de medidas microeconômicas anunciadas pelo governo visa incentivar a economia, ampliar a oferta de crédito, reduzir custos para empresas e pessoas físicas e jurídicas e reduzir a burocracia do comércio exterior.",true,true
+fakebr_test_634,"Esquema roubou dinheiro de velhinhos aposentados e bancou campanha petista no senado, segundo a PF, com repasses mensais pelo escritório Guilherme Gonçalves.",fake,fake
+fakebr_test_635,deputados avaliam criticas picciani impeachment pezao entra debate,true,true
+fakebr_test_636,"Dois executivos ligados à Oi estão investigados pela Lava Jato em inquérito, alvo atuação jose zunga alves lima, suposto elo com a empreiteira andrade gutierrez e governo federal; a Oi colocou antena celulares na zona rural atibaia, ao lado sitio santa barbara usado luiz inacio lula silva, ano apos compra imovel.",true,fake
+fakebr_test_637,democracia brasil nao merece fim afirma renan calheiros,true,fake
+fakebr_test_638,Nelci Warken é a proprietária do triplex Edificio Solaris Guarujá e é a controladora offshore Murray Holdings.,fake,true
+fakebr_test_639,"Solidariedade internacional com Marielle Franco, repúdio ao assassinato e cobrança de investigação meticulosa e punição dos autores, além da defesa dos direitos das mulheres negras faveladas e da comunidade LGBT.",true,true
+fakebr_test_640,"oscar perez, policial dissidente venezuelano que comandou rebeliao contra governo nicolas maduro, foi morto em operacao forcas armadas contra grupo perez apos troca de tiros.",true,true
+fakebr_test_641,Temer libera FGTS inativo para cônjuges e filhos de trabalhadores falecidos antes da medida; necessario apresentar documento carteira trabalho titular; titulares terão direito sacar; o valor sacado sera partilhado; filhos menores idade; recurso sera dividido depositados contas poupancas dependentes menores; so poderao ter acesso completarem anos.,fake,fake
+fakebr_test_642,converso quiser hora achar oportuno onde quiser disse,fake,fake
+fakebr_test_643,mendes humilha advogado stf,fake,fake
+fakebr_test_644,russia diz eua estao tras suposto golpe brasil,fake,fake
+fakebr_test_645,Coreia do Norte testou com sucesso um míssil balístico intercontinental (ICBM) capaz de alcançar qualquer parte do mundo.,true,true
+fakebr_test_646,cardapio estreias deste fim semana tambem traz retorno franquia amityville,true,true
+fakebr_test_647,cineasta maria augusta ramos decidiu filmar duas semanas momentos turbulencia politica vivida entao presidente dilma rousseff nao imaginava acabaria fazendo documentario exclusivo sobre impeachment dilma,true,true
+fakebr_test_648,Lula ira argumentar nao sabia nada e nao qualquer participacao na operacao zelotes,fake,fake
+fakebr_test_649,"Paula Rousseff marido disposicao frota oito carros oficiais, todos blindados, autorizados circular placas frias, pagos pelos contribuintes e usados em atividades corriqueiras.",fake,fake
+fakebr_test_650,presidente estados unidos donald trump afirmou ataque tiros deixou pessoas mortas igreja texas domingo questao saude mental acesso armas eua nao problema,true,true
+fakebr_test_651,"O prefeito de Porto Alegre, Nelson Marchezan (PSDB), solicitou ao governo federal o envio de tropas do Exército/Força Nacional para atuarem na cidade no dia do julgamento de Lula.",true,true
+fakebr_test_652,joesley palavras temer enganou brasileiros fugiu eua criminoso nao passou nenhum dia cadeia nao preso nao punido,fake,fake
+fakebr_test_653,"Segundo a delação premiada de Joesley Batista, contas no exterior (Suíça) teriam abastecido campanhas do PT, incluindo Lula e Dilma.",true,true
+fakebr_test_654,ministro marco aurelio mello ordenou renan afastasse imediatamente cargo presidente senado,fake,fake
+fakebr_test_655,proposta blindar parlamentares preve punicao agentes publicos que trabalham prol investigar punir parlamentares; projeto pode desqualificar qualquer ato ministerio publico policia federal,fake,fake
+fakebr_test_656,"Palocci confessou acao penal contra lula e revelou pacto sangue feito dono Odebrecht, indicando participacao direta de lula nas propinas da Odebrecht.",true,fake
+fakebr_test_657,dilma diz governo cumpriu fiscalizacoes barragem samarco,fake,fake
+fakebr_test_658,Senador Lasier Martins usou tribuna senado expor opiniao sobre operacao lei criminaliza juizes chegou comparar operacao maos limpas italiano mani pulite desencadeada italia.,fake,fake
+fakebr_test_659,Moro questiona projeto abuso autoridade; Mendes ironizou argumento juiz federal sergio moro responsavel operacao lava jato.,true,true
+fakebr_test_660,fadinha dente visitou senado parlamentar deixa cair perereca durante discurso ruim,fake,fake
+fakebr_test_661,Donald Trump é um excelente negociador.,true,true
+fakebr_test_662,"Tempestade solar gigantesca pode atingir terra e pode causar danos da ordem de trilhões de dólares, com referência ao evento Carrington.",fake,fake
+fakebr_test_663,Alvaro Dias afirma fraude e lavagem de dinheiro envolvendo loterias da Caixa Econômica Federal e cobrará explicações formais imediatas.,fake,true
+fakebr_test_664,diz esposa peca publicitaria feita campanha eleitoral,fake,fake
+fakebr_test_665,rio janeiro nao condicoes sozinho deter violencia precisa contar auxilio governo federal forcas armadas enfrentar faccoes criminosas intervencao federal,true,true
+fakebr_test_666,lula visita igreja valdemiro santiago pede apoio,fake,fake
+fakebr_test_667,"existem evidencias de pagamentos e vantagens recebidos por lula, pelo instituto e pelas empreiteiras investigadas no esquema de corrupcao petrobras; ministerio publico federal disse que a farra acabou e ha elementos de prova de um esquema criminoso.",fake,true
+fakebr_test_668,Relator conclui voto sobre recurso Lula contra condenação na Lava Jato; processo passa agora ao revisor e não há data para julgamento.,true,true
+fakebr_test_669,fato moca violentada deve denunciar caso cobrar punicao caso pedir indenizacao reparar danos morais psicologicos,fake,fake
+fakebr_test_670,"Odebrecht comemorou a homologação das delações de executivos pelo STF mantendo o sigilo, não acompanhada pela retirada do sigilo, medida que garante a validade jurídica do acordo assinado.",fake,true
+fakebr_test_671,Lula orientou destruir provas.,true,fake
+fakebr_test_672,rio ganhou disputa sediar olimpiadas porque toquio cidade perfeita,fake,true
+fakebr_test_673,baderneiros mpl jogam garrafa prefeito sp durante entrevista; haddad quase atingido; governador geraldo alckmin também alvo; nada justifica atitude vandalismo,fake,fake
+fakebr_test_674,michel temer ira procurar lula,fake,fake
+fakebr_test_675,Dilma Rousseff sabia da dimensão das doações em caixa dois feitas pela Odebrecht à campanha do PT na reeleição.,true,true
+fakebr_test_676,discurso televisao dissemina ideia falsa ideia segundo valores eticos nao existem tv trata casos esporadicos episodicos ocasionais resultado formando geracao valores perplexa desorientada nao balizamento nao nenhum sistema referencia nao sabe distinguir certo errado,fake,true
+fakebr_test_677,PGR ve anuencia temer propina paga todo mes eduardo cunha,true,fake
+fakebr_test_678,presidente stf carmen lucia suspendeu temporariamente posse deputada cristiane brasil,true,true
+fakebr_test_679,"ANPR declara total solidariedade ao ministro Edson Fachin e à família sob risco, e afirma que qualquer ameaça ou violência é absolutamente inadmissível, exigindo apuração rigorosa e punição severa.",true,true
+fakebr_test_680,lula nao preso logo vai fugir,fake,fake
+fakebr_test_681,"Tribunal Regional Federal da Região Porto Alegre negou o pedido de liberdade de Roberto Gonçalves, réu da Lava Jato, condenado em primeira instância por crimes de corrupção e lavagem de dinheiro.",true,true
+fakebr_test_682,palocci pode estar cogitando delacao premiada,fake,fake
+fakebr_test_683,malafaia comemora prisao eduardo cunha fevereiro,fake,fake
+fakebr_test_684,A Polícia Federal concluiu que não houve crime de obstrução da justiça na indicação do ministro Marcelo Ribeiro Navarro Dantas ao STJ.,true,true
+fakebr_test_685,Padre comunista defende lula delira dizendo novo messias.,fake,fake
+fakebr_test_686,dilma sera notificada nesta manha temer assume presidencia,true,fake
+fakebr_test_687,agosto teori alertava fim pt pmdb nao sobrara pedra sobre pedra,fake,fake
+fakebr_test_688,renan calheiros rebate jornalista,fake,fake
+fakebr_test_689,Aloysio Nunes e Osmar Serraglio tomam posse como ministros no Planalto; Aloysio Nunes assume o Ministério das Relações Exteriores no lugar de José Serra e Osmar Serraglio assume o Ministério da Justiça no lugar de Alexandre Moraes.,true,true
+fakebr_test_690,havia reportagem informando dilma iria destruir documentos apagar registros computadores governo antes ser afastada cargo,fake,fake
+fakebr_test_691,Grupos religiosos protestam contra o aborto em Brasília.,true,true
+fakebr_test_692,michel temer deveria ter renunciado,fake,fake
+fakebr_test_693,"Jovem Josias Farias Junior foi preso em flagrante nesta noite após passar médico no hospital Unimed litoral Balneario Camboriu; a segurança encontrou prontuários, carimbos, jaleco e estetoscópio, itens roubados; Josias disse ter formado medicina assistindo temporadas da série Grey's Anatomy; as autoridades desconfiaram, chamaram a polícia; encontraram o jovem com os itens; a Unimed declarou lamentar o ocorrido; houve tentativa de falsidade ideológica e nenhum atendimento foi realizado; foram tomadas as medidas judiciais necessárias.",true,fake
+fakebr_test_694,"A mudança climática estará no topo da agenda da cúpula em Hamburgo, com a presidência alemã de Merkel ampliando a agenda para incluir tópicos ambientais e sociais, apesar da saída dos EUA do Acordo de Paris.",true,true
+fakebr_test_695,jair bolsonaro hostilizado ovada durante visita ribeirao preto,true,fake
+fakebr_test_696,magno malta trama armada dilma renuncia lula perde direitos cunha assume presidencia,fake,fake
+fakebr_test_697,"ministério publico federal mpf acusa lula ter recebido triplex guaruja como propina em contratos petrobras com a oas, e lula nega ser dono do imóvel.",true,true
+fakebr_test_698,Dispositivos repelentes de tubarões disponíveis no mercado não cumprem o prometido de forma confiável e podem criar falsa sensação de segurança.,true,true
+fakebr_test_699,zelador triplex demitido porque confirmou depoimento ap lula jose afonso pinheiro,fake,fake
+fakebr_test_700,Renan Calheiros quer cargo para comandar a Polícia Federal e já está pressionando o presidente Michel Temer para ganhar privilégios.,fake,fake
+fakebr_test_701,"Dilma hostilizada pela populacao de Governador Valadares durante manifestacao, com grupo de pessoas comecou gritar pt queremos impeachment.",fake,fake
+fakebr_test_702,dilma disse ontem cometeu crime responsabilidade porque presidentes anteriores tambem cometeram,fake,fake
+fakebr_test_703,william bonner denunciou seguidora criou vinte perfis falsos redes sociais,true,fake
+fakebr_test_704,papa francisco recebeu camisa chapecoense e enviou bênção especial às famílias da tragédia.,fake,true
+fakebr_test_705,Panmunjom lugar tenso mundo onde duas coreias estao conversando e onde assinado armisticio colocou fim guerra coreia.,true,true
+fakebr_test_706,"Há indícios de que o imóvel pertence a lula, registrado em nome de empresarios jonas suassuna fernando bittar socios filho fabio luis lula silva, escritura apenas oculta nome verdadeiro dono, e o processo investiga lula tambem dono triplex guaruja; lula reafirma nao proprietario sitio apartamento guaruja.",true,fake
+fakebr_test_707,gilmar mendes pediu vista stf volta adiar analise sobre reus linha sucessoria presidencia,true,true
+fakebr_test_708,joao santana monica moura prestaram falso testemunho faltaram verdade depoimentos provavelmente pressionados ameacas investigadores,true,true
+fakebr_test_709,dilma ironiza temer diz nao assombrada fantasmas situacao inversa,fake,fake
+fakebr_test_710,gluten pode desencadear doencas algumas fatais,fake,fake
+fakebr_test_711,"PF prendeu Rodrigo Rocha Loures, homem de confiança de Michel Temer, em Brasília, flagrado recebendo uma mala com meio milhão de reais, após mandado de prisão assinado pelo ministro Edson Fachin.",fake,fake
+fakebr_test_712,cortella disse que o muro trump eh uma injustica historica,fake,fake
+fakebr_test_713,elvis presley ainda vive,fake,fake
+fakebr_test_714,"Coreia do Norte declarou que o USS Michigan e o USS Carl Vinson enfrentam o risco de serem transformados em massa de sucata e que a aproximação do Carl Vinson seria imprudente, capaz de desencadear uma guerra nuclear extremamente perigosa.",fake,fake
+fakebr_test_715,Michel Temer é o chefe de uma organização criminosa na Câmara dos Deputados.,fake,fake
+fakebr_test_716,Papa Francisco deixa o Vaticano durante a noite disfarçado de padre para encontrar moradores de rua em Roma.,fake,fake
+fakebr_test_717,votacao segunda denuncia contra presidente temer,true,true
+fakebr_test_718,Moro protocolou decisão na Justiça Federal do Paraná para liberar parcialmente o dinheiro bloqueado de Monica Moura e João Santana.,true,true
+fakebr_test_719,homem armado mata tres pessoas ataque sul franca fez refens antes ser morto forcas seguranca presidente emmanuel macron classificou ato terrorismo com evidencias apontando acao ato terrorismo islamico,true,true

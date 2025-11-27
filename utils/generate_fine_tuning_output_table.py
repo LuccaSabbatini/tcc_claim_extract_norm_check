@@ -1,4 +1,5 @@
 import os
+import json
 import pandas as pd
 
 DATASETS_PATH = "../data"
@@ -28,21 +29,19 @@ def generate_executions_tables(version_path, transformer, dataset, version):
     for execution in executions:
         executions_counter += 1
         execution_path = f"{version_path}/{execution}"
-        metrics_file = f"{execution_path}/metrics/epoch_metrics.csv"
+        metrics_file = f"{execution_path}/metrics/best_model_metrics.json"
 
         if os.path.exists(metrics_file):
-            df = pd.read_csv(metrics_file)
-            best_epoch = df.loc[df["eval_loss"].idxmin()]
+            with open(metrics_file, "r", encoding="utf-8") as f:
+                best_model_metrics = json.load(f)
 
             execution_metrics = {
                 "Treino": f"Treino {executions_counter}",
-                "Época do melhor modelo": best_epoch["epoch"].astype(int),
-                "Perda no treinamento": best_epoch["training_loss"].astype(float),
-                "Perda na validação": best_epoch["eval_loss"].astype(float),
-                "Acurácia": best_epoch["accuracy"].astype(float),
-                "Precisão": best_epoch["precision"].astype(float),
-                "F1": best_epoch["f1"].astype(float),
-                "Recall": best_epoch["recall"].astype(float),
+                "Perda": float(best_model_metrics["test_loss"]),
+                "Acurácia": float(best_model_metrics["test_accuracy"]),
+                "Precisão (Macro)": float(best_model_metrics["test_precision"]),
+                "Recall": float(best_model_metrics["test_recall"]),
+                "F1": float(best_model_metrics["test_f1"]),
             }
 
             # Append execution metrics to DataFrame
@@ -57,19 +56,13 @@ def generate_executions_tables(version_path, transformer, dataset, version):
     # Calculate averages across executions and add it to column "Média"
     executions_average = {
         "Treino": "Média",
-        "Época do melhor modelo": all_executions_metrics[
-            "Época do melhor modelo"
-        ].mean(),
-        "Perda no treinamento": all_executions_metrics["Perda no treinamento"]
-        .mean()
-        .astype(float),
-        "Perda na validação": all_executions_metrics["Perda na validação"]
-        .mean()
-        .astype(float),
+        "Perda": all_executions_metrics["Perda"].mean().astype(float),
         "Acurácia": all_executions_metrics["Acurácia"].mean().astype(float),
-        "Precisão": all_executions_metrics["Precisão"].mean().astype(float),
-        "F1": all_executions_metrics["F1"].mean().astype(float),
+        "Precisão (Macro)": all_executions_metrics["Precisão (Macro)"]
+        .mean()
+        .astype(float),
         "Recall": all_executions_metrics["Recall"].mean().astype(float),
+        "F1": all_executions_metrics["F1"].mean().astype(float),
     }
 
     all_executions_metrics = pd.concat(
@@ -84,21 +77,24 @@ def generate_executions_tables(version_path, transformer, dataset, version):
     lines = []
 
     for metric in [
-        "Época do melhor modelo",
-        "Perda no treinamento",
-        "Perda na validação",
+        "Perda",
         "Acurácia",
-        "Precisão",
-        "F1",
+        "Precisão (Macro)",
         "Recall",
+        "F1",
     ]:
         line = f"{metric} & "
         for i in range(executions_counter):
-            if metric == "Época do melhor modelo":
-                line += f"{int(all_executions_metrics.iloc[i][metric])} & "
-            else:
-                line += f"{all_executions_metrics.iloc[i][metric]:.3f} & "
-        line += f"{float(all_executions_metrics.loc[len(all_executions_metrics) - 1][metric]):.3f} \\\\ \n"
+            line += (
+                f"{all_executions_metrics.iloc[i][metric]:.3f}".replace(".", ",")
+                + " & "
+            )
+        line += (
+            f"{float(all_executions_metrics.loc[len(all_executions_metrics) - 1][metric]):.3f}".replace(
+                ".", ","
+            )
+            + " \\\\ \n"
+        )
         lines.append(line)
         continue
 
@@ -124,7 +120,7 @@ def generate_executions_tables(version_path, transformer, dataset, version):
     file_output_lines.append("\\end{tabular}\n")
     file_output_lines.append(
         "\\caption{"
-        + f"Métricas dos melhores modelos de cada ajuste-fino do \\textit{{Transformer}} {TRANSLATIONS[transformer]} treinando na base {TRANSLATIONS[dataset]} {version}."
+        + f"Métricas dos melhores modelos de cada ajuste-fino do \\textit{{Transformer}} {TRANSLATIONS[transformer]} na classificação do conjunto de testes da base {TRANSLATIONS[dataset]} {version}."
         + "}\n"
     )
     file_output_lines.append("\\end{table}\n\n")
