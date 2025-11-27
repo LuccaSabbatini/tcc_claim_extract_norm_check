@@ -29,7 +29,7 @@ def generate_executions_tables(version_path, transformer, dataset, version):
     for execution in executions:
         executions_counter += 1
         execution_path = f"{version_path}/{execution}"
-        metrics_file = f"{execution_path}/metrics/best_model_metrics.csv"
+        metrics_file = f"{execution_path}/metrics/best_model_metrics.json"
 
         if os.path.exists(metrics_file):
             with open(metrics_file, "r", encoding="utf-8") as f:
@@ -37,11 +37,11 @@ def generate_executions_tables(version_path, transformer, dataset, version):
 
             execution_metrics = {
                 "Treino": f"Treino {executions_counter}",
-                "Perda no teste": float(best_model_metrics["test_loss"]),
+                "Perda": float(best_model_metrics["test_loss"]),
                 "Acurácia": float(best_model_metrics["test_accuracy"]),
-                "Precisão": float(best_model_metrics["test_precision"]),
-                "F1": float(best_model_metrics["test_f1"]),
+                "Precisão (Macro)": float(best_model_metrics["test_precision"]),
                 "Recall": float(best_model_metrics["test_recall"]),
+                "F1": float(best_model_metrics["test_f1"]),
             }
 
             # Append execution metrics to DataFrame
@@ -56,11 +56,13 @@ def generate_executions_tables(version_path, transformer, dataset, version):
     # Calculate averages across executions and add it to column "Média"
     executions_average = {
         "Treino": "Média",
-        "Perda no teste": all_executions_metrics["Perda no teste"].mean().astype(float),
+        "Perda": all_executions_metrics["Perda"].mean().astype(float),
         "Acurácia": all_executions_metrics["Acurácia"].mean().astype(float),
-        "Precisão": all_executions_metrics["Precisão"].mean().astype(float),
-        "F1": all_executions_metrics["F1"].mean().astype(float),
+        "Precisão (Macro)": all_executions_metrics["Precisão (Macro)"]
+        .mean()
+        .astype(float),
         "Recall": all_executions_metrics["Recall"].mean().astype(float),
+        "F1": all_executions_metrics["F1"].mean().astype(float),
     }
 
     all_executions_metrics = pd.concat(
@@ -75,16 +77,24 @@ def generate_executions_tables(version_path, transformer, dataset, version):
     lines = []
 
     for metric in [
-        "Perda no teste",
+        "Perda",
         "Acurácia",
-        "Precisão",
-        "F1",
+        "Precisão (Macro)",
         "Recall",
+        "F1",
     ]:
         line = f"{metric} & "
         for i in range(executions_counter):
-            line += f"{all_executions_metrics.iloc[i][metric]:.3f} & "
-        line += f"{float(all_executions_metrics.loc[len(all_executions_metrics) - 1][metric]):.3f} \\\\ \n"
+            line += (
+                f"{all_executions_metrics.iloc[i][metric]:.3f}".replace(".", ",")
+                + " & "
+            )
+        line += (
+            f"{float(all_executions_metrics.loc[len(all_executions_metrics) - 1][metric]):.3f}".replace(
+                ".", ","
+            )
+            + " \\\\ \n"
+        )
         lines.append(line)
         continue
 
@@ -110,7 +120,7 @@ def generate_executions_tables(version_path, transformer, dataset, version):
     file_output_lines.append("\\end{tabular}\n")
     file_output_lines.append(
         "\\caption{"
-        + f"Métricas dos melhores modelos de cada ajuste-fino do \\textit{{Transformer}} {TRANSLATIONS[transformer]} treinando na base {TRANSLATIONS[dataset]} {version}."
+        + f"Métricas dos melhores modelos de cada ajuste-fino do \\textit{{Transformer}} {TRANSLATIONS[transformer]} na classificação do conjunto de testes da base {TRANSLATIONS[dataset]} {version}."
         + "}\n"
     )
     file_output_lines.append("\\end{table}\n\n")

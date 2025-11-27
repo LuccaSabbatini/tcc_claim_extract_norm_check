@@ -25,3 +25,13 @@ print(f"Average text length: {average_length:.2f} characters")
 total_df["word_count"] = total_df["text"].apply(lambda x: len(x.split()))
 average_words = total_df["word_count"].mean()
 print(f"Average number of words per text: {average_words:.2f} words")
+
+# Calculate total number of samples
+total_samples = len(total_df)
+print(f"Total number of samples: {total_samples}")
+
+# Calculate class distribution
+class_distribution = total_df["label"].value_counts(normalize=True) * 100
+print("Class distribution (%):")
+for label, percentage in class_distribution.items():
+    print(f"  {label}: {percentage:.2f}%")
