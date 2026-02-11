@@ -1,14 +1,16 @@
-# TCC: Claim Extraction, Normalization, and Fact-Checking
+# Bachelor's Degree Thesis: Claim Extraction, Normalization, and Fact-Checking with Transformers in Portuguese
 
 This repository contains the implementation of my Bachelor's Degree Thesis, which focuses on the development of a pipeline for claim extraction, normalization, and fact-checking in the context of misinformation detection. The project leverages state-of-the-art natural language processing (NLP) techniques and transformer-based models to address the challenges of identifying, normalizing, and verifying claims in Portuguese-language datasets.
 
 ## Project Overview
 
-The goal of this thesis is to create a robust and scalable system that can:
+The goal of this thesis is to create a robust and scalable experiment that can:
 
-1. **Extract Claims**: Identify and extract claims from text data.
-2. **Normalize Claims**: Standardize the extracted claims to a consistent format for further processing.
-3. **Fact-Check Claims**: Verify the truthfulness of the normalized claims using fine-tuned transformer models.
+1. **Gathers datasets**: Collect and preprocess datasets containing claims and their classifications.
+2. **Extract Claims**: Identify and extract claims from text data.
+3. **Normalize Claims**: Standardize the extracted claims to a consistent format for further processing.
+4. **Fact-Check Claims**: Verify the truthfulness of the extracted and normalized claims using fine-tuned transformer models.
+5. **Compare Classifications**: Analyze and compare the classification results from before and after claim transformations across different models to evaluate their performance.
 
 The pipeline is designed to work with datasets in Portuguese, focusing on combating misinformation in Brazilian contexts, such as fake news and misleading social media posts.
 
